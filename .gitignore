@@ -2,3 +2,4 @@ dist/
 __pycache__/
 *.pyc
 .DS_Store
+yellow-mode-c13d/node_modules/

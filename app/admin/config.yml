@@ -20,9 +20,9 @@
 
 backend:
   name: github
-  repo: <YOUR_ORG>/<YOUR_REPO>        # e.g. acme/central_data_agency
+  repo: xBwomp/central_data_agency
   branch: main
-  base_url: https://<YOUR_OAUTH_PROXY> # e.g. https://your-proxy.netlify.app
+  base_url: https://yellow-mode-c13d.xbwomp.workers.dev
   # For direct commits to main (recommended for small trusted teams):
   # squash_merges: false
   # For PR-based workflow (safer, gets auto-reviewed by claude-code-review.yml):
