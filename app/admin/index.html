@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Central Data Agency — CMS</title>
+  <!-- Decap CMS loaded from CDN — no build step required -->
+  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+</head>
+<body>
+  <!--
+    Decap CMS mounts itself here automatically.
+    Configuration is read from config.yml in the same directory.
+
+    SETUP REQUIRED:
+    1. Register a GitHub OAuth App at https://github.com/settings/developers
+       - Homepage URL: https://<org>.github.io/central_data_agency
+       - Callback URL: https://api.netlify.com/auth/done  (or your own proxy)
+    2. Deploy an OAuth proxy — options:
+       - Netlify (free): connect the repo, set OAUTH_CLIENT_ID and OAUTH_CLIENT_SECRET env vars
+       - Cloudflare Workers: https://github.com/sveltia/sveltia-cms-auth
+       - Vercel: https://github.com/stereobooster/github-oauth-proxy
+    3. Update the backend.base_url in config.yml to point to your deployed proxy.
+
+    LOCAL DEVELOPMENT:
+    Run: npx decap-server  (in the repo root)
+    Then open this file via a local server (e.g. python3 -m http.server from repo root).
+    Set backend.name to 'proxy' in config.yml for local dev.
+  -->
+</body>
+</html>

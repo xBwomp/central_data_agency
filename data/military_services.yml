@@ -1,0 +1,69 @@
+# US Military Service Branches
+# Schema: official (required), abbreviation, description, tags[], variants[] (required, min 1)
+
+- official: US Army
+  abbreviation: USA
+  description: The land warfare service branch of the United States Armed Forces.
+  tags:
+    - military
+    - branch
+  variants:
+    - United States Army
+    - Army
+    - USA
+
+- official: US Navy
+  abbreviation: USN
+  description: The naval warfare service branch of the United States Armed Forces.
+  tags:
+    - military
+    - branch
+  variants:
+    - United States Navy
+    - Navy
+    - USN
+
+- official: US Marine Corps
+  abbreviation: USMC
+  description: The amphibious and expeditionary warfare service branch of the United States Armed Forces.
+  tags:
+    - military
+    - branch
+  variants:
+    - United States Marine Corps
+    - Marine Corps
+    - Marines
+    - USMC
+
+- official: US Air Force
+  abbreviation: USAF
+  description: The aerial warfare service branch of the United States Armed Forces.
+  tags:
+    - military
+    - branch
+  variants:
+    - United States Air Force
+    - Air Force
+    - USAF
+
+- official: US Coast Guard
+  abbreviation: USCG
+  description: The maritime law enforcement and search-and-rescue service branch of the United States Armed Forces.
+  tags:
+    - military
+    - branch
+  variants:
+    - United States Coast Guard
+    - Coast Guard
+    - USCG
+
+- official: US Space Force
+  abbreviation: USSF
+  description: The space warfare service branch of the United States Armed Forces, established in 2019.
+  tags:
+    - military
+    - branch
+  variants:
+    - United States Space Force
+    - Space Force
+    - USSF

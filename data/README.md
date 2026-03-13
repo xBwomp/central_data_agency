@@ -1,0 +1,41 @@
+# Data Directory
+
+This directory contains YAML files, each representing a named-entity category. Each file is a list of entries following the schema below.
+
+## Entry Schema
+
+| Field | Required | Type | Description |
+|---|---|---|---|
+| `official` | Yes | string | The canonical full name of the entity |
+| `abbreviation` | No | string | The shortest standard acronym or code |
+| `description` | No | string | A one-sentence plain-English description |
+| `tags` | No | list of strings | Lowercase labels for grouping and filtering |
+| `variants` | Yes (min 1) | list of strings | All other acceptable names, spellings, or aliases (include the abbreviation here if it is used as a name) |
+
+## Example Entry
+
+```yaml
+- official: US Navy
+  abbreviation: USN
+  description: The naval warfare service branch of the United States Armed Forces.
+  tags:
+    - military
+    - branch
+  variants:
+    - United States Navy
+    - Navy
+    - USN
+```
+
+## Adding a New Dataset
+
+1. Create a new `.yml` file in this directory named after the category (e.g., `federal_agencies.yml`).
+2. Add a list of entries following the schema above.
+3. Every entry must have `official` and at least one entry in `variants`.
+4. Validate the file: `python3 -c "import yaml, sys; yaml.safe_load(open('data/<filename>.yml'))" && echo OK`
+
+## Files
+
+| File | Description |
+|---|---|
+| `military_services.yml` | The six branches of the US Military |

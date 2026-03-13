@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html lang="en" data-api-base="/api">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Central Data Agency — Entity Registry</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg:        #080b09;
+      --bg2:       #0e1310;
+      --bg3:       #141a16;
+      --border:    #1e2820;
+      --border2:   #2a3830;
+      --green:     #4afe8a;
+      --green-dim: #2a9454;
+      --green-faint: #1a4a2a;
+      --text:      #d4e0d6;
+      --text-dim:  #6a8070;
+      --text-faint:#3a5040;
+      --red:       #fe4a6a;
+      --amber:     #feaa4a;
+      --radius:    2px;
+      --mono:      'IBM Plex Mono', monospace;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html { font-size: 13px; }
+
+    body {
+      font-family: var(--mono);
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      /* scanline overlay */
+      background-image:
+        repeating-linear-gradient(
+          0deg,
+          transparent,
+          transparent 2px,
+          rgba(0,0,0,0.08) 2px,
+          rgba(0,0,0,0.08) 4px
+        );
+    }
+
+    /* ── Header ─────────────────────────────────────────── */
+    #header {
+      border-bottom: 1px solid var(--border);
+      padding: 0 24px;
+      display: flex;
+      align-items: center;
+      gap: 0;
+      height: 48px;
+      position: sticky;
+      top: 0;
+      background: var(--bg);
+      z-index: 100;
+      background-image:
+        repeating-linear-gradient(
+          0deg,
+          transparent,
+          transparent 2px,
+          rgba(0,0,0,0.08) 2px,
+          rgba(0,0,0,0.08) 4px
+        );
+    }
+
+    #header-logo {
+      color: var(--green);
+      font-weight: 600;
+      font-size: 11px;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      white-space: nowrap;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    #header-logo::before {
+      content: '▣';
+      font-size: 14px;
+      animation: blink 2.4s step-end infinite;
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50%       { opacity: 0.15; }
+    }
+
+    #header-sep {
+      width: 1px;
+      height: 24px;
+      background: var(--border2);
+      margin: 0 20px;
+    }
+
+    #header-sub {
+      color: var(--text-dim);
+      font-size: 10px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+
+    #header-status {
+      margin-left: auto;
+      font-size: 10px;
+      color: var(--text-faint);
+      letter-spacing: 0.08em;
+    }
+
+    #header-status.ready { color: var(--green-dim); }
+    #header-status.error { color: var(--red); }
+
+    /* ── Layout ─────────────────────────────────────────── */
+    #app {
+      display: grid;
+      grid-template-columns: 260px 1fr;
+      grid-template-rows: auto 1fr;
+      min-height: calc(100vh - 48px);
+    }
+
+    /* ── Sidebar ────────────────────────────────────────── */
+    #sidebar {
+      border-right: 1px solid var(--border);
+      padding: 20px 0;
+      grid-row: 1 / 3;
+      position: sticky;
+      top: 48px;
+      height: calc(100vh - 48px);
+      overflow-y: auto;
+      scrollbar-width: thin;
+      scrollbar-color: var(--border2) transparent;
+    }
+
+    .sidebar-section {
+      padding: 0 16px 20px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 20px;
+    }
+
+    .sidebar-section:last-child { border-bottom: none; margin-bottom: 0; }
+
+    .sidebar-label {
+      font-size: 9px;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: var(--text-faint);
+      margin-bottom: 10px;
+    }
+
+    /* Search */
+    #search-wrap {
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+
+    #search-prompt {
+      position: absolute;
+      left: 10px;
+      color: var(--green-dim);
+      font-size: 12px;
+      pointer-events: none;
+      user-select: none;
+    }
+
+    #search {
+      width: 100%;
+      background: var(--bg3);
+      border: 1px solid var(--border2);
+      border-radius: var(--radius);
+      padding: 8px 10px 8px 26px;
+      font-family: var(--mono);
+      font-size: 12px;
+      color: var(--text);
+      outline: none;
+      transition: border-color 0.15s;
+    }
+
+    #search::placeholder { color: var(--text-faint); }
+    #search:focus { border-color: var(--green-dim); }
+
+    /* Collection filter */
+    #collection-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .coll-btn {
+      width: 100%;
+      background: none;
+      border: none;
+      border-radius: var(--radius);
+      padding: 6px 8px;
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--text-dim);
+      cursor: pointer;
+      text-align: left;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      transition: background 0.1s, color 0.1s;
+      letter-spacing: 0.03em;
+    }
+
+    .coll-btn:hover { background: var(--bg3); color: var(--text); }
+    .coll-btn.active { background: var(--green-faint); color: var(--green); }
+
+    .coll-count {
+      font-size: 10px;
+      color: var(--text-faint);
+      background: var(--bg2);
+      padding: 1px 5px;
+      border-radius: 2px;
+      min-width: 22px;
+      text-align: center;
+    }
+    .coll-btn.active .coll-count { background: var(--green-faint); color: var(--green-dim); }
+
+    /* Tag filter */
+    #tag-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+    }
+
+    .tag-btn {
+      background: var(--bg3);
+      border: 1px solid var(--border2);
+      border-radius: var(--radius);
+      padding: 3px 7px;
+      font-family: var(--mono);
+      font-size: 10px;
+      color: var(--text-dim);
+      cursor: pointer;
+      letter-spacing: 0.05em;
+      transition: all 0.1s;
+    }
+
+    .tag-btn:hover { border-color: var(--green-dim); color: var(--text); }
+    .tag-btn.active { background: var(--green-faint); border-color: var(--green-dim); color: var(--green); }
+
+    /* ── Toolbar ────────────────────────────────────────── */
+    #toolbar {
+      border-bottom: 1px solid var(--border);
+      padding: 10px 24px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-size: 10px;
+      color: var(--text-faint);
+      letter-spacing: 0.08em;
+    }
+
+    #result-count { color: var(--text-dim); }
+    #result-count span { color: var(--green); font-weight: 500; }
+
+    .toolbar-sep {
+      color: var(--border2);
+    }
+
+    #clear-filters {
+      background: none;
+      border: 1px solid var(--border2);
+      border-radius: var(--radius);
+      padding: 3px 8px;
+      font-family: var(--mono);
+      font-size: 10px;
+      color: var(--text-dim);
+      cursor: pointer;
+      letter-spacing: 0.05em;
+      transition: all 0.12s;
+      margin-left: auto;
+    }
+    #clear-filters:hover { border-color: var(--red); color: var(--red); }
+    #clear-filters.hidden { display: none; }
+
+    /* ── Main content ───────────────────────────────────── */
+    #main {
+      padding: 24px;
+      overflow-y: auto;
+    }
+
+    /* ── State screens ──────────────────────────────────── */
+    .state-screen {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 300px;
+      gap: 12px;
+      color: var(--text-faint);
+      font-size: 11px;
+      letter-spacing: 0.08em;
+      text-align: center;
+    }
+
+    .state-icon {
+      font-size: 24px;
+      color: var(--text-faint);
+      margin-bottom: 4px;
+    }
+
+    .state-screen.loading .state-icon {
+      animation: spin 1s linear infinite;
+    }
+
+    @keyframes spin {
+      from { transform: rotate(0deg); }
+      to   { transform: rotate(360deg); }
+    }
+
+    .state-screen.error .state-icon { color: var(--red); }
+    .state-title { font-weight: 500; font-size: 12px; color: var(--text-dim); }
+
+    /* ── Entry grid ─────────────────────────────────────── */
+    #entries-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 12px;
+    }
+
+    /* ── Entry card ─────────────────────────────────────── */
+    .entry-card {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      transition: border-color 0.15s, background 0.15s;
+      animation: card-in 0.25s ease both;
+    }
+
+    .entry-card:hover {
+      border-color: var(--border2);
+      background: var(--bg3);
+    }
+
+    @keyframes card-in {
+      from { opacity: 0; transform: translateY(6px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .card-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+    }
+
+    .card-official {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text);
+      letter-spacing: 0.02em;
+      flex: 1;
+      line-height: 1.4;
+    }
+
+    .card-abbr {
+      flex-shrink: 0;
+      background: var(--green-faint);
+      color: var(--green);
+      border: 1px solid var(--green-dim);
+      border-radius: var(--radius);
+      padding: 1px 6px;
+      font-size: 10px;
+      font-weight: 500;
+      letter-spacing: 0.1em;
+      white-space: nowrap;
+      margin-top: 2px;
+    }
+
+    .card-collection {
+      font-size: 9px;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--text-faint);
+      border-top: 1px solid var(--border);
+      padding-top: 8px;
+      padding-bottom: 2px;
+    }
+
+    .card-description {
+      font-size: 11px;
+      color: var(--text-dim);
+      line-height: 1.6;
+      font-style: italic;
+    }
+
+    .card-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px;
+    }
+
+    .card-tag {
+      background: var(--bg);
+      border: 1px solid var(--border2);
+      border-radius: var(--radius);
+      padding: 2px 6px;
+      font-size: 9px;
+      color: var(--text-faint);
+      letter-spacing: 0.08em;
+      cursor: pointer;
+      transition: all 0.1s;
+    }
+
+    .card-tag:hover { border-color: var(--green-dim); color: var(--green-dim); }
+    .card-tag.active { background: var(--green-faint); border-color: var(--green-dim); color: var(--green); }
+
+    /* Variants */
+    .card-variants {
+      border-top: 1px solid var(--border);
+      padding-top: 10px;
+    }
+
+    .variants-toggle {
+      background: none;
+      border: none;
+      font-family: var(--mono);
+      font-size: 10px;
+      color: var(--text-dim);
+      cursor: pointer;
+      padding: 0;
+      letter-spacing: 0.05em;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: color 0.1s;
+    }
+
+    .variants-toggle:hover { color: var(--text); }
+
+    .variants-toggle .toggle-arrow {
+      display: inline-block;
+      transition: transform 0.15s;
+      color: var(--text-faint);
+      font-size: 9px;
+    }
+    .variants-toggle.open .toggle-arrow { transform: rotate(90deg); }
+
+    .variants-list {
+      display: none;
+      flex-wrap: wrap;
+      gap: 4px;
+      margin-top: 8px;
+    }
+    .variants-list.open { display: flex; }
+
+    .variant-chip {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 2px 7px;
+      font-size: 10px;
+      color: var(--text-dim);
+      letter-spacing: 0.03em;
+    }
+
+    /* ── Field row (shared utility) ─────────────────────── */
+    .field-row {
+      display: grid;
+      grid-template-columns: 80px 1fr;
+      gap: 8px;
+      font-size: 10px;
+      align-items: baseline;
+    }
+
+    .field-key {
+      color: var(--text-faint);
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+
+    /* ── Highlight ──────────────────────────────────────── */
+    mark {
+      background: var(--green-faint);
+      color: var(--green);
+      border-radius: 1px;
+      padding: 0 1px;
+      font-style: normal;
+    }
+
+    /* ── Scrollbar ──────────────────────────────────────── */
+    ::-webkit-scrollbar { width: 5px; height: 5px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 2px; }
+    ::-webkit-scrollbar-thumb:hover { background: var(--green-faint); }
+
+    /* ── Responsive ─────────────────────────────────────── */
+    @media (max-width: 700px) {
+      #app { grid-template-columns: 1fr; }
+      #sidebar {
+        position: static;
+        height: auto;
+        border-right: none;
+        border-bottom: 1px solid var(--border);
+        grid-row: auto;
+      }
+      #entries-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+  <header id="header">
+    <div id="header-logo">Central Data Agency</div>
+    <div id="header-sep"></div>
+    <div id="header-sub">Entity Registry</div>
+    <div id="header-status" aria-live="polite">INITIALIZING…</div>
+  </header>
+
+  <div id="app">
+    <aside id="sidebar">
+      <div class="sidebar-section">
+        <div class="sidebar-label">Search</div>
+        <div id="search-wrap">
+          <span id="search-prompt">&gt;</span>
+          <input id="search" type="search" placeholder="query…" autocomplete="off" spellcheck="false" aria-label="Search entries">
+        </div>
+      </div>
+
+      <div class="sidebar-section">
+        <div class="sidebar-label">Collection</div>
+        <ul id="collection-list" role="listbox" aria-label="Filter by collection">
+          <!-- populated by JS -->
+        </ul>
+      </div>
+
+      <div class="sidebar-section">
+        <div class="sidebar-label">Tags</div>
+        <div id="tag-list" role="group" aria-label="Filter by tag">
+          <!-- populated by JS -->
+        </div>
+      </div>
+    </aside>
+
+    <div>
+      <div id="toolbar">
+        <span id="result-count">—</span>
+        <span class="toolbar-sep">·</span>
+        <span id="toolbar-hint">use search or filters to narrow results</span>
+        <button id="clear-filters" class="hidden" aria-label="Clear all filters">clear filters</button>
+      </div>
+      <main id="main" aria-live="polite" aria-label="Entry results">
+        <div class="state-screen loading" id="loading-screen">
+          <div class="state-icon">◌</div>
+          <div class="state-title">Loading registry…</div>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <script type="module" src="browse.js"></script>
+</body>
+</html>
