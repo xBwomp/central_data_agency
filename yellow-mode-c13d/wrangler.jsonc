@@ -10,19 +10,11 @@
 	"observability": {
 		"enabled": true
 	},
-	"queues": {
-		"consumers": [
-			{
-				"queue": "my-queue"
-			}
-		],
-		"producers": [
-			{
-				"binding": "MY_QUEUE",
-				"queue": "my-queue"
-			}
-		]
-	},
+	/**
+	 * Secrets (set via `wrangler secret put <NAME>` or Cloudflare dashboard):
+	 *   GITHUB_CLIENT_ID
+	 *   GITHUB_CLIENT_SECRET
+	 */
 	"compatibility_flags": [
 		"nodejs_compat"
 	]

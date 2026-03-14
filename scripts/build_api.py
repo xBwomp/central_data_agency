@@ -55,8 +55,13 @@ def main() -> int:
         if data is None:
             data = []
 
+        # Support both bare lists and Decap CMS file-collection format
+        # (which wraps the list under an `entries:` key).
+        if isinstance(data, dict) and "entries" in data:
+            data = data["entries"]
+
         if not isinstance(data, list):
-            all_errors.append(f"{yml_path}: expected a YAML list at top level")
+            all_errors.append(f"{yml_path}: expected a YAML list at top level (or an object with an 'entries' list)")
             continue
 
         file_errors: list[str] = []
