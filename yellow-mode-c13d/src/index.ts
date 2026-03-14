@@ -1,41 +1,97 @@
 /**
- * Welcome to Cloudflare Workers!
+ * GitHub OAuth proxy for Decap CMS.
  *
- * This is a template for a Queue consumer: a Worker that can consume from a
- * Queue: https://developers.cloudflare.com/queues/get-started/
+ * Required secrets (set via `wrangler secret put` or Cloudflare dashboard):
+ *   GITHUB_CLIENT_ID     — from your GitHub OAuth App
+ *   GITHUB_CLIENT_SECRET — from your GitHub OAuth App
  *
- * - Run `npm run dev` in your terminal to start a development server
- * - Open a browser tab at http://localhost:8787/ to see your worker in action
- * - Run `npm run deploy` to publish your worker
+ * GitHub OAuth App settings:
+ *   Homepage URL:     https://xBwomp.github.io/central_data_agency
+ *   Callback URL:     https://yellow-mode-c13d.xbwomp.workers.dev/callback
  *
- * Bind resources to your worker in `wrangler.jsonc`. After adding bindings, a type definition for the
- * `Env` object can be regenerated with `npm run cf-typegen`.
- *
- * Learn more at https://developers.cloudflare.com/workers/
+ * Flow:
+ *   1. Decap CMS opens a popup to /auth
+ *   2. This worker redirects to GitHub's OAuth authorize page
+ *   3. GitHub redirects back to /callback with ?code=...
+ *   4. This worker exchanges the code for an access token
+ *   5. Returns an HTML page that postMessages the token back to the CMS popup opener
  */
 
+interface Env {
+	GITHUB_CLIENT_ID: string;
+	GITHUB_CLIENT_SECRET: string;
+}
+
 export default {
-	// Our fetch handler is invoked on a HTTP request: we can send a message to a queue
-	// during (or after) a request.
-	// https://developers.cloudflare.com/queues/platform/javascript-apis/#producer
-	async fetch(req, env, ctx): Promise<Response> {
-		// To send a message on a queue, we need to create the queue first
-		// https://developers.cloudflare.com/queues/get-started/#3-create-a-queue
-		await env.MY_QUEUE.send({
-			url: req.url,
-			method: req.method,
-			headers: Object.fromEntries(req.headers),
-		});
-		return new Response('Sent message to the queue');
-	},
-	// The queue handler is invoked when a batch of messages is ready to be delivered
-	// https://developers.cloudflare.com/queues/platform/javascript-apis/#messagebatch
-	async queue(batch, env): Promise<void> {
-		// A queue consumer can make requests to other endpoints on the Internet,
-		// write to R2 object storage, query a D1 Database, and much more.
-		for (let message of batch.messages) {
-			// Process each message (we'll just log these)
-			console.log(`message ${message.id} processed: ${JSON.stringify(message.body)}`);
+	async fetch(req: Request, env: Env): Promise<Response> {
+		const url = new URL(req.url);
+
+		if (url.pathname === '/auth') {
+			const params = new URLSearchParams({
+				client_id: env.GITHUB_CLIENT_ID,
+				scope: 'repo,user',
+				state: crypto.randomUUID(),
+			});
+			return Response.redirect(
+				`https://github.com/login/oauth/authorize?${params}`,
+				302,
+			);
 		}
+
+		if (url.pathname === '/callback') {
+			const code = url.searchParams.get('code');
+			if (!code) {
+				return new Response('Missing code parameter', { status: 400 });
+			}
+
+			const tokenRes = await fetch('https://github.com/login/oauth/access_token', {
+				method: 'POST',
+				headers: {
+					Accept: 'application/json',
+					'Content-Type': 'application/json',
+				},
+				body: JSON.stringify({
+					client_id: env.GITHUB_CLIENT_ID,
+					client_secret: env.GITHUB_CLIENT_SECRET,
+					code,
+				}),
+			});
+
+			const data = (await tokenRes.json()) as { access_token?: string; error?: string };
+
+			if (data.error || !data.access_token) {
+				return new Response(`OAuth error: ${data.error ?? 'no token returned'}`, {
+					status: 400,
+				});
+			}
+
+			// Decap CMS expects this exact postMessage format.
+			const message = `authorization:github:success:${JSON.stringify({
+				token: data.access_token,
+				provider: 'github',
+			})}`;
+
+			const html = `<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"></head>
+<body>
+<script>
+(function () {
+  var msg = ${JSON.stringify(message)};
+  if (window.opener) {
+    window.opener.postMessage(msg, '*');
+  }
+  window.close();
+})();
+</script>
+</body>
+</html>`;
+
+			return new Response(html, {
+				headers: { 'Content-Type': 'text/html; charset=utf-8' },
+			});
+		}
+
+		return new Response('Not found', { status: 404 });
 	},
-} satisfies ExportedHandler<Env, Error>;
+} satisfies ExportedHandler<Env>;
