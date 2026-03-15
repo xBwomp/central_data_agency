@@ -33,10 +33,15 @@ backend:
 
 media_folder: ""   # no media uploads needed for this data-only CMS
 
+# Disable the preview pane globally — useless for structured data, not blog posts
+show_preview_links: false
+
 collections:
   - name: military_services
     label: Military Services
     description: The six branches of the US Military
+    editor:
+      preview: false
     files:
       - name: military_services_data
         label: Military Services entries

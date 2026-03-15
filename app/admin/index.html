@@ -116,29 +116,66 @@
       const GREEN = '#4afe8a', GREEN_DIM = '#2a9454', GREEN_FAINT = '#1a4a2a';
 
       const css = `
-        #nc-root, #nc-root > div { background: ${BG} !important; color: ${TEXT} !important; }
+        /* Base */
+        #nc-root { color-scheme: dark; }
+        #nc-root, #nc-root > div, #nc-root > div > div { background: ${BG} !important; color: ${TEXT} !important; }
+
+        /* Header */
         [class*="AppHeader"] { background: ${BG2} !important; border-bottom: 1px solid ${BORDER} !important; box-shadow: none !important; }
-        [class*="AppHeaderContent"] { background: ${BG2} !important; }
-        [class*="AppHeaderNav"] ul, [class*="AppHeaderNavList"] { background: ${BG2} !important; }
+        [class*="AppHeaderContent"], [class*="AppHeaderNav"] ul, [class*="AppHeaderNavList"] { background: ${BG2} !important; }
         [class*="AppHeaderButton"], [class*="AppHeaderNavLink"] { color: ${DIM} !important; background: transparent !important; }
         [class*="buttonActive"], [class*="header-link-active"] { background: ${RED_FAINT} !important; color: ${RED} !important; }
-        [class*="AppMainContainer"] { background: ${BG} !important; }
-        [class*="CollectionContainer"] { background: ${BG} !important; }
-        [class*="SidebarContainer"] { background: ${BG2} !important; border-right: 1px solid ${BORDER} !important; box-shadow: none !important; }
-        [class*="SidebarHeading"] { color: ${DIM} !important; border-bottom: 1px solid ${BORDER} !important; }
+        [class*="IconWrapper"] svg path { fill: ${DIM} !important; }
+
+        /* Layout containers */
+        [class*="AppMainContainer"], [class*="CollectionContainer"] { background: ${BG} !important; }
+
+        /* Sidebar */
+        [class*="SidebarContainer"], aside { background: ${BG2} !important; border-right: 1px solid ${BORDER} !important; box-shadow: none !important; }
+        [class*="SidebarHeading"] { color: ${DIM} !important; border-bottom: 1px solid ${BORDER} !important; background: ${BG2} !important; }
         [class*="SearchContainer"] { background: ${BG2} !important; border-bottom: 1px solid ${BORDER} !important; }
         [class*="InputContainer"] { background: ${BG3} !important; border: 1px solid ${BORDER2} !important; border-radius: 2px !important; }
         [class*="InputContainer"] input { background: transparent !important; color: ${TEXT} !important; font-family: 'IBM Plex Mono', monospace !important; }
-        [class*="EditorInterface"], [class*="EntryEditor"], [class*="EditorContainer"] { background: ${BG} !important; }
-        [class*="EntryListingGrid"], [class*="EntryListing"] { background: ${BG} !important; }
-        [class*="card-card"], [class*="EntryCard"] { background: ${BG2} !important; border-color: ${BORDER} !important; }
-        [class*="AuthenticationPage"] { background: ${BG} !important; }
-        [class*="AvatarDropdown"], [class*="DropdownList"] { background: ${BG2} !important; border: 1px solid ${BORDER} !important; }
-        [class*="StyledWrapper"] { background: transparent !important; }
-        #nc-root input, #nc-root textarea, #nc-root select { background: ${BG3} !important; color: ${TEXT} !important; border-color: ${BORDER2} !important; }
+
+        /* Entry list */
+        [class*="EntryListingGrid"], [class*="EntryListing"], [class*="EntryListingCards"] { background: ${BG} !important; }
+        [class*="card-card"], [class*="EntryCard"], [class*="EntryListingCard"] { background: ${BG2} !important; border-color: ${BORDER} !important; color: ${TEXT} !important; }
+        [class*="card-card"]:hover, [class*="EntryCard"]:hover { background: ${BG3} !important; border-color: ${BORDER2} !important; }
+
+        /* Editor panels */
+        [class*="EditorInterface"], [class*="EntryEditor"], [class*="EditorContainer"],
+        [class*="ControlPane"], [class*="EditorControlPane"] { background: ${BG} !important; }
+        [class*="EditorToolbar"], [class*="ToolbarContainer"] { background: ${BG2} !important; border-bottom: 1px solid ${BORDER} !important; box-shadow: none !important; }
+        [class*="WidgetPreviewContainer"] { background: ${BG} !important; }
+
+        /* Form controls */
+        #nc-root input, #nc-root textarea, #nc-root select {
+          background: ${BG3} !important; color: ${TEXT} !important;
+          border-color: ${BORDER2} !important; font-family: 'IBM Plex Mono', monospace !important;
+        }
+        #nc-root input:focus, #nc-root textarea:focus { border-color: ${GREEN_DIM} !important; outline: none !important; }
+        #nc-root label, #nc-root [class*="ControlLabel"], [class*="LabelComponent"] { color: ${DIM} !important; font-family: 'IBM Plex Mono', monospace !important; }
+        [class*="ControlHint"], [class*="hint"] { color: ${FAINT} !important; }
+
+        /* Buttons */
         #nc-root button { font-family: 'IBM Plex Mono', monospace !important; }
+        [class*="CancelButton"] { background: transparent !important; border-color: ${BORDER2} !important; color: ${DIM} !important; }
+        [class*="SaveButton"], [class*="PublishButton"] { background: ${GREEN_FAINT} !important; border-color: ${GREEN_DIM} !important; color: ${GREEN} !important; }
+
+        /* Dropdowns & modals */
+        [class*="DropdownList"], [class*="AvatarDropdown"], [class*="DropdownItem"] { background: ${BG2} !important; border: 1px solid ${BORDER} !important; color: ${TEXT} !important; }
+        [class*="DropdownItem"]:hover { background: ${BG3} !important; }
+        [class*="AuthenticationPage"] { background: ${BG} !important; }
+        [class*="StyledWrapper"] { background: transparent !important; }
+
+        /* Links */
         #nc-root a { color: ${GREEN_DIM} !important; }
-        #nc-root a[class*="Active"], #nc-root a[aria-current] { color: ${RED} !important; }
+        #nc-root a[aria-current], #nc-root a[class*="Active"] { color: ${RED} !important; }
+
+        /* List widget items (entry fields) */
+        [class*="ListItem"], [class*="SortableListItem"] { background: ${BG2} !important; border-color: ${BORDER} !important; }
+        [class*="ListItemTopBar"], [class*="ObjectWidgetTopBar"] { background: ${BG3} !important; border-bottom: 1px solid ${BORDER} !important; }
+        [class*="AddButton"], [class*="ListItemAdd"] { color: ${GREEN_DIM} !important; border-color: ${GREEN_FAINT} !important; }
       `;
 
       function inject() {
@@ -156,24 +193,5 @@
       obs.observe(document.getElementById('nc-root'), { childList: true, subtree: true });
     })();
   </script>
-  <!--
-    Decap CMS mounts itself here automatically.
-    Configuration is read from config.yml in the same directory.
-
-    SETUP REQUIRED:
-    1. Register a GitHub OAuth App at https://github.com/settings/developers
-       - Homepage URL: https://<org>.github.io/central_data_agency
-       - Callback URL: https://api.netlify.com/auth/done  (or your own proxy)
-    2. Deploy an OAuth proxy — options:
-       - Netlify (free): connect the repo, set OAUTH_CLIENT_ID and OAUTH_CLIENT_SECRET env vars
-       - Cloudflare Workers: https://github.com/sveltia/sveltia-cms-auth
-       - Vercel: https://github.com/stereobooster/github-oauth-proxy
-    3. Update the backend.base_url in config.yml to point to your deployed proxy.
-
-    LOCAL DEVELOPMENT:
-    Run: npx decap-server  (in the repo root)
-    Then open this file via a local server (e.g. python3 -m http.server from repo root).
-    Set backend.name to 'proxy' in config.yml for local dev.
-  -->
 </body>
 </html>
