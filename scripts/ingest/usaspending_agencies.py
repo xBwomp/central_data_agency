@@ -49,26 +49,51 @@ def build_variants(name: str, abbreviation: str | None, slug: str | None) -> lis
     return variants
 
 
+TYPE_KEYWORDS = [
+    "department",
+    "office",
+    "commission",
+    "board",
+    "council",
+    "administration",
+    "agency",
+    "corporation",
+    "foundation",
+    "service",
+    "bureau",
+    "institute",
+    "authority",
+    "center",
+    "court",
+]
+
+
+def agency_type_tag(name: str) -> str | None:
+    lower = name.lower()
+    for kw in TYPE_KEYWORDS:
+        if kw in lower:
+            return kw
+    return None
+
+
 def to_yaml_entry(agency: dict) -> str:
     name = agency["agency_name"].strip()
     abbr = (agency.get("abbreviation") or "").strip() or None
     slug = agency.get("agency_slug") or None
-    code = agency.get("toptier_code") or None
-    cj_url = agency.get("congressional_justification_url") or None
 
     variants = build_variants(name, abbr, slug)
+    tags = ["federal-agency"]
+    type_tag = agency_type_tag(name)
+    if type_tag:
+        tags.append(type_tag)
 
     lines = [f"- official: {yaml_str(name)}"]
     if abbr:
         lines.append(f"  abbreviation: {yaml_str(abbr)}")
     lines.append(f"  source: {yaml_str(API_URL)}")
-    if code:
-        lines.append(f"  tags:")
-        lines.append(f"    - federal-agency")
-        lines.append(f"    - toptier-code-{code}")
-    else:
-        lines.append(f"  tags:")
-        lines.append(f"    - federal-agency")
+    lines.append(f"  tags:")
+    for tag in tags:
+        lines.append(f"    - {tag}")
     lines.append(f"  variants:")
     for v in variants:
         lines.append(f"    - {yaml_str(v)}")

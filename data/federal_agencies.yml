@@ -7,7 +7,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-247
+    - commission
   variants:
     - 400 Years Of African American History Commission
     - AAHC
@@ -17,7 +17,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-310
+    - board
   variants:
     - USAB
 
@@ -26,7 +26,6 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-302
   variants:
     - Administrative Conference Of The Us
     - ACUS
@@ -36,7 +35,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-306
+    - council
   variants:
     - Advisory Council On Historic Preservation
     - ACHP
@@ -46,7 +45,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-166
+    - foundation
   variants:
     - USADF
 
@@ -55,7 +54,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-072
+    - agency
   variants:
     - Agency For International Development
     - USAID
@@ -65,7 +64,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-074
+    - commission
   variants:
     - ABMC
 
@@ -74,7 +73,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-309
+    - commission
   variants:
     - ARC
 
@@ -83,7 +82,6 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-084
   variants:
     - AFRH
 
@@ -92,7 +90,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-313
+    - foundation
   variants:
     - Barry Goldwater Scholarship And Excellence In Education Foundation
     - GOLDWATER
@@ -102,7 +100,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-321
+    - commission
   variants:
     - Commission For The Preservation Of Americas Heritage Abroad
     - HERITAGEABROAD
@@ -112,7 +110,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-323
+    - commission
   variants:
     - Commission Of Fine Arts
     - CFA
@@ -122,7 +120,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-326
+    - commission
   variants:
     - Commission On Civil Rights
     - USCCR
@@ -132,7 +130,6 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-338
   variants:
     - Committee For Purchase From People Who Are Blind Or Severely Disabled
     - ABILITYONE
@@ -142,7 +139,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-339
+    - commission
   variants:
     - CFTC
 
@@ -151,7 +148,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-581
+    - bureau
   variants:
     - CFPB
 
@@ -160,7 +157,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-061
+    - commission
   variants:
     - CPSC
 
@@ -169,7 +166,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-485
+    - corporation
   variants:
     - Corporation For National And Community Service
     - CNCS
@@ -179,7 +176,6 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-096
   variants:
     - Corps Of Engineers Civil Works
     - USACE
@@ -189,7 +185,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-542
+    - council
   variants:
     - Council Of The Inspectors General On Integrity And Efficiency
     - CIGIE
@@ -199,7 +195,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-9553
+    - agency
   variants:
     - Court Services And Offender Supervision Agency
     - CSOSA
@@ -209,7 +205,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-347
+    - board
   variants:
     - DNFSB
 
@@ -218,7 +214,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-517
+    - authority
   variants:
     - DRA
 
@@ -227,7 +223,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-513
+    - commission
   variants:
     - DENALI
 
@@ -236,7 +232,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-012
+    - department
   variants:
     - Department Of Agriculture
     - USDA
@@ -246,7 +242,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-013
+    - department
   variants:
     - Department Of Commerce
     - DOC
@@ -256,7 +252,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-097
+    - department
   variants:
     - Department Of Defense
     - DOD
@@ -266,7 +262,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-091
+    - department
   variants:
     - Department Of Education
     - ED
@@ -276,7 +272,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-089
+    - department
   variants:
     - Department Of Energy
     - DOE
@@ -286,7 +282,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-075
+    - department
   variants:
     - Department Of Health And Human Services
     - HHS
@@ -296,7 +292,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-070
+    - department
   variants:
     - Department Of Homeland Security
     - DHS
@@ -306,7 +302,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-086
+    - department
   variants:
     - Department Of Housing And Urban Development
     - HUD
@@ -316,7 +312,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-015
+    - department
   variants:
     - Department Of Justice
     - DOJ
@@ -326,7 +322,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-1601
+    - department
   variants:
     - Department Of Labor
     - DOL
@@ -336,7 +332,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-019
+    - department
   variants:
     - Department Of State
     - DOS
@@ -346,7 +342,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-014
+    - department
   variants:
     - Department Of The Interior
     - DOI
@@ -356,7 +352,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-020
+    - department
   variants:
     - Department Of The Treasury
     - TREAS
@@ -366,7 +362,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-069
+    - department
   variants:
     - Department Of Transportation
     - DOT
@@ -376,7 +372,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-036
+    - department
   variants:
     - Department Of Veterans Affairs
     - VA
@@ -386,7 +382,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-349
+    - court
   variants:
     - District Of Columbia Courts
     - DC COURTS
@@ -396,7 +392,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-525
+    - commission
   variants:
     - EAC
 
@@ -405,7 +401,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-068
+    - agency
   variants:
     - EPA
 
@@ -414,7 +410,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-045
+    - commission
   variants:
     - EEOC
 
@@ -423,7 +419,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-1100
+    - office
   variants:
     - Executive Office Of The President
     - EOP
@@ -433,7 +429,6 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-083
   variants:
     - Export Import Bank Of The United States
     - EXIM
@@ -443,7 +438,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-7802
+    - corporation
   variants:
     - FCSIC
 
@@ -452,7 +447,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-027
+    - commission
   variants:
     - FCC
 
@@ -461,7 +456,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-051
+    - corporation
   variants:
     - FDIC
 
@@ -470,7 +465,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-360
+    - commission
   variants:
     - FEC
 
@@ -479,7 +474,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-362
+    - council
   variants:
     - FFIEC
 
@@ -488,7 +483,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-054
+    - authority
   variants:
     - FLRA
 
@@ -497,7 +492,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-065
+    - commission
   variants:
     - FMC
 
@@ -506,7 +501,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-093
+    - service
   variants:
     - Federal Mediation And Conciliation Service
     - FMCS
@@ -516,7 +511,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-368
+    - commission
   variants:
     - Federal Mine Safety And Health Review Commission
     - FMSHRC
@@ -526,7 +521,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-473
+    - council
   variants:
     - FPISC
 
@@ -535,7 +530,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-029
+    - commission
   variants:
     - FTC
 
@@ -544,7 +539,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-047
+    - administration
   variants:
     - GSA
 
@@ -553,7 +548,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-005
+    - office
   variants:
     - GAO
 
@@ -562,7 +557,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-471
+    - council
   variants:
     - GCERC
 
@@ -571,7 +566,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-372
+    - foundation
   variants:
     - TRUMAN
 
@@ -580,7 +575,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-474
+    - service
   variants:
     - Institute Of Museum And Library Services
     - IMLS
@@ -590,7 +585,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-164
+    - foundation
   variants:
     - Inter American Foundation
     - IAF
@@ -600,7 +595,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-034
+    - commission
   variants:
     - USITC
 
@@ -609,7 +604,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-381
+    - foundation
   variants:
     - MADISON
 
@@ -618,7 +613,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-382
+    - commission
   variants:
     - Japan United States Friendship Commission
     - JUSFC
@@ -628,7 +623,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-3301
+    - center
   variants:
     - John F Kennedy Center For The Performing Arts
     - KENNEDY CENTER
@@ -638,7 +633,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-387
+    - commission
   variants:
     - MMC
 
@@ -647,7 +642,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-389
+    - board
   variants:
     - MSPB
 
@@ -656,7 +651,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-524
+    - corporation
   variants:
     - MCC
 
@@ -665,7 +660,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-487
+    - foundation
   variants:
     - Morris K Udall And Stewart L Udall Foundation
     - UDALL
@@ -675,7 +670,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-080
+    - administration
   variants:
     - National Aeronautics And Space Administration
     - NASA
@@ -685,7 +680,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-088
+    - administration
   variants:
     - National Archives And Records Administration
     - NARA
@@ -695,7 +690,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-394
+    - commission
   variants:
     - NCPC
 
@@ -704,7 +699,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-413
+    - council
   variants:
     - National Council On Disability
     - NCD
@@ -714,7 +709,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-025
+    - administration
   variants:
     - NCUA
 
@@ -723,7 +718,6 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-417
   variants:
     - National Endowment For The Arts
     - NEA
@@ -733,7 +727,6 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-418
   variants:
     - National Endowment For The Humanities
     - NEH
@@ -743,7 +736,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-420
+    - board
   variants:
     - NLRB
 
@@ -752,7 +745,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-421
+    - board
   variants:
     - NMB
 
@@ -761,7 +754,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-049
+    - foundation
   variants:
     - NSF
 
@@ -770,7 +763,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-424
+    - board
   variants:
     - NTSB
 
@@ -779,7 +772,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-573
+    - commission
   variants:
     - NBRC
 
@@ -788,7 +781,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-031
+    - commission
   variants:
     - NRC
 
@@ -797,7 +790,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-431
+    - board
   variants:
     - NWTRB
 
@@ -806,7 +799,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-432
+    - commission
   variants:
     - Occupational Safety And Health Review Commission
     - OSHRC
@@ -816,7 +809,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-434
+    - office
   variants:
     - Office Of Government Ethics
     - OGE
@@ -826,7 +819,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-435
+    - office
   variants:
     - Office Of Navajo And Hopi Indian Relocation
     - ONHIR
@@ -836,7 +829,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-024
+    - office
   variants:
     - Office Of Personnel Management
     - OPM
@@ -846,7 +839,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-062
+    - office
   variants:
     - Office Of Special Counsel
     - OSC
@@ -856,7 +849,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-071
+    - corporation
   variants:
     - OPIC
 
@@ -865,7 +858,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-579
+    - center
   variants:
     - Patient Centered Outcomes Research Trust Fund
     - PCORTF
@@ -875,7 +868,6 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-1125
   variants:
     - PC
 
@@ -884,7 +876,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-1602
+    - corporation
   variants:
     - PBGC
 
@@ -893,7 +885,6 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-512
   variants:
     - PRESIDIO
 
@@ -902,7 +893,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-535
+    - board
   variants:
     - Privacy And Civil Liberties Oversight Board
     - PCLOB
@@ -912,7 +903,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-290
+    - board
   variants:
     - PBRB
 
@@ -921,7 +912,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-060
+    - board
   variants:
     - RRB
 
@@ -930,7 +921,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-050
+    - commission
   variants:
     - Securities And Exchange Commission
     - SEC
@@ -940,7 +931,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-090
+    - service
   variants:
     - SSS
 
@@ -949,7 +940,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-073
+    - administration
   variants:
     - SBA
 
@@ -958,7 +949,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-028
+    - administration
   variants:
     - SSA
 
@@ -967,7 +958,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-574
+    - commission
   variants:
     - SCRC
 
@@ -976,7 +967,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-569
+    - commission
   variants:
     - SBRC
 
@@ -985,7 +976,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-472
+    - board
   variants:
     - STB
 
@@ -994,7 +985,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-514
+    - agency
   variants:
     - Us Agency For Global Media
     - USAGM
@@ -1004,7 +995,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-376
+    - council
   variants:
     - Us Interagency Council On Homelessness
     - USICH
@@ -1014,7 +1005,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-077
+    - corporation
   variants:
     - Us International Development Finance Corporation
     - DFC
@@ -1024,7 +1015,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-510
+    - board
   variants:
     - CSB
 
@@ -1033,7 +1024,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-345
+    - court
   variants:
     - United States Court Of Appeals For Veterans Claims
     - CAVC
@@ -1043,7 +1034,7 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-1133
+    - agency
   variants:
     - United States Trade And Development Agency
     - USTDA
@@ -1053,6 +1044,6 @@
   source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
   tags:
     - federal-agency
-    - toptier-code-519
+    - foundation
   variants:
     - VEF
