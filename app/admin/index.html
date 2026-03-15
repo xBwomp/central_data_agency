@@ -89,44 +89,86 @@
     #nc-root { padding-top: 36px; }
 
     /* ── Override Decap CMS chrome ──────────────────────── */
-    /* top app bar */
-    [class*="AppHeader"],
-    [class*="app-header"] {
+    /* Using actual class name fragments from rendered HTML  */
+
+    /* Header bar — css-*-AppHeader-* */
+    [class*="AppHeader"] {
       background: var(--bg2) !important;
       border-bottom: 1px solid var(--border) !important;
       box-shadow: none !important;
-      outline: 1px solid var(--red-dim) !important;
+    }
+    /* Nav links in header */
+    [class*="AppHeaderNav"],
+    [class*="AppHeaderButton"],
+    [class*="AppHeaderLink"] {
+      color: var(--text-dim) !important;
+    }
+    /* Active nav item */
+    [class*="buttonActive"] {
+      background: var(--red-faint) !important;
+      color: var(--red) !important;
     }
 
-    /* sidebar / nav */
-    [class*="Nav"],
-    [class*="sidebar"],
-    nav {
-      background: var(--bg2) !important;
-      border-right: 1px solid var(--border) !important;
-    }
-
-    /* main content area background */
-    [class*="EditorInterface"],
-    [class*="Collection"],
-    main, [role="main"] {
+    /* Main layout wrapper — css-*-AppMainContainer-* */
+    [class*="AppMainContainer"] {
       background: var(--bg) !important;
     }
 
-    /* general card/panel backgrounds */
-    [class*="Card"],
-    [class*="Panel"] {
+    /* Collection list page wrapper — css-*-CollectionContainer-* */
+    [class*="CollectionContainer"] {
+      background: var(--bg) !important;
+    }
+
+    /* Sidebar — css-*-SidebarContainer-* */
+    [class*="SidebarContainer"] {
+      background: var(--bg2) !important;
+      border-right: 1px solid var(--border) !important;
+    }
+    [class*="SidebarHeading"] {
+      color: var(--text-dim) !important;
+      border-bottom-color: var(--border) !important;
+    }
+
+    /* Search — css-*-SearchContainer-* / InputContainer */
+    [class*="SearchContainer"],
+    [class*="InputContainer"] {
+      background: var(--bg) !important;
+      border-color: var(--border) !important;
+    }
+    [class*="SearchContainer"] input,
+    [class*="InputContainer"] input {
+      background: var(--bg) !important;
+      color: var(--text) !important;
+    }
+
+    /* Entry editor / content panels */
+    [class*="EditorInterface"],
+    [class*="EntryEditor"],
+    [class*="EditorContainer"] {
+      background: var(--bg) !important;
+    }
+
+    /* Cards (sidebar nav items, collection entries) */
+    [class*="-card-"] {
       background: var(--bg2) !important;
       border-color: var(--border) !important;
     }
 
-    /* login screen */
+    /* Login / auth page */
     [class*="AuthenticationPage"],
-    [class*="auth"] {
+    [class*="LoginButton"] {
       background: var(--bg) !important;
     }
 
-    /* red left border on the whole CMS container so it's always visible */
+    /* Catch-all: force dark bg on remaining white panels */
+    #nc-root div[style*="background-color: rgb(255"],
+    #nc-root div[style*="background: rgb(255"],
+    #nc-root div[style*="background: white"],
+    #nc-root div[style*="background-color: white"] {
+      background: var(--bg2) !important;
+    }
+
+    /* Red side borders on CMS container */
     #nc-root > * {
       border-left: 3px solid var(--red-dim);
       border-right: 3px solid var(--red-dim);
