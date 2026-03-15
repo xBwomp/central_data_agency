@@ -75,20 +75,20 @@ export default {
 <html>
 <head><meta charset="utf-8"></head>
 <body>
-<p id="status">Processing...</p>
 <script>
 (function () {
-  var msg = ${JSON.stringify(message)};
-  var status = document.getElementById('status');
-  console.log('window.opener:', window.opener);
-  if (window.opener) {
-    window.opener.postMessage(msg, '*');
-    status.textContent = 'Token sent via postMessage. This window should close.';
-    window.close();
-  } else {
-    status.textContent = 'ERROR: window.opener is null (COOP issue). Token could not be sent.';
-    console.error('window.opener is null - GitHub COOP headers severed the opener reference');
-  }
+  var authMsg = ${JSON.stringify(message)};
+  if (!window.opener) { return; }
+  // Step 1: send handshake
+  window.opener.postMessage('authorizing:github', '*');
+  // Step 2: wait for handshake reply, then send token
+  window.addEventListener('message', function handler(e) {
+    if (e.data === 'authorizing:github') {
+      window.removeEventListener('message', handler);
+      window.opener.postMessage(authMsg, '*');
+      window.close();
+    }
+  });
 })();
 </script>
 </body>
