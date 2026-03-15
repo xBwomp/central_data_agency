@@ -9,8 +9,6 @@ A named-entity registry for defense and government programs — tracking canonic
 - **Source of truth**: `data/*.yml` — human-readable YAML, version-controlled in Git
 - **Browse UI**: filterable, searchable web interface at `https://xbwomp.github.io/central_data_agency/`
 - **JSON API**: static endpoints at `https://xbwomp.github.io/central_data_agency/api/`
-- **CMS**: browser-based editing (no YAML required) at `https://xbwomp.github.io/central_data_agency/admin/`
-
 ## Data structure
 
 Each entry in a dataset has:
@@ -53,17 +51,22 @@ python3 -m http.server 8000
 # open http://localhost:8000
 ```
 
-## Adding a new dataset
+## Adding data
 
+Data is maintained as YAML files in `data/`. Edit directly on GitHub or clone the repo:
+
+```bash
+git clone https://github.com/xBwomp/central_data_agency
+cd central_data_agency
+```
+
+Ingestion scripts in `scripts/ingest/` pull from public sources (USASpending.gov, OSD budget exhibits, GAO reports) and normalize to the entry schema.
+
+To add a new dataset manually:
 1. Create `data/<category>.yml` following the entry schema
 2. Update the Files table in `data/README.md`
-3. Add a matching collection block to `app/admin/config.yml`
-4. Validate: `python3 scripts/build_api.py`
-5. Commit and push — Pages deploys automatically
-
-## CMS setup
-
-The browser-based CMS at `/admin/` requires a GitHub OAuth App and a Cloudflare Workers OAuth proxy. See `CLAUDE.md` for setup instructions.
+3. Validate: `python3 scripts/build_api.py`
+4. Commit and push — Pages deploys automatically
 
 ## How it deploys
 
