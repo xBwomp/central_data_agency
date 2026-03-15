@@ -42,6 +42,7 @@ Each `.yml` file is a bare YAML list, or an object with an `entries:` key (both 
 
 ## Files
 
-| File | Description |
-|---|---|
-| `military_services.yml` | The six branches of the US Military |
+| File | Description | Source |
+|---|---|---|
+| `military_services.yml` | The six branches of the US Military | Title 10 U.S.C. |
+| `federal_agencies.yml` | 111 federal top-tier agencies | USASpending.gov API |

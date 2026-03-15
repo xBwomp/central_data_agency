@@ -1,0 +1,1058 @@
+# Federal agencies — ingested from USASpending.gov
+# Source: https://api.usaspending.gov/api/v2/references/toptier_agencies/
+# Do not edit manually — re-run scripts/ingest/usaspending_agencies.py to refresh
+
+- official: "400 Years of African-American History Commission"
+  abbreviation: AAHC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-247
+  variants:
+    - 400 Years Of African American History Commission
+    - AAHC
+
+- official: Access Board
+  abbreviation: USAB
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-310
+  variants:
+    - USAB
+
+- official: Administrative Conference of the U.S.
+  abbreviation: ACUS
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-302
+  variants:
+    - Administrative Conference Of The Us
+    - ACUS
+
+- official: Advisory Council on Historic Preservation
+  abbreviation: ACHP
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-306
+  variants:
+    - Advisory Council On Historic Preservation
+    - ACHP
+
+- official: African Development Foundation
+  abbreviation: USADF
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-166
+  variants:
+    - USADF
+
+- official: Agency for International Development
+  abbreviation: USAID
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-072
+  variants:
+    - Agency For International Development
+    - USAID
+
+- official: American Battle Monuments Commission
+  abbreviation: ABMC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-074
+  variants:
+    - ABMC
+
+- official: Appalachian Regional Commission
+  abbreviation: ARC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-309
+  variants:
+    - ARC
+
+- official: Armed Forces Retirement Home
+  abbreviation: AFRH
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-084
+  variants:
+    - AFRH
+
+- official: Barry Goldwater Scholarship and Excellence In Education Foundation
+  abbreviation: GOLDWATER
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-313
+  variants:
+    - Barry Goldwater Scholarship And Excellence In Education Foundation
+    - GOLDWATER
+
+- official: "Commission for the Preservation of America's Heritage Abroad"
+  abbreviation: HERITAGEABROAD
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-321
+  variants:
+    - Commission For The Preservation Of Americas Heritage Abroad
+    - HERITAGEABROAD
+
+- official: Commission of Fine Arts
+  abbreviation: CFA
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-323
+  variants:
+    - Commission Of Fine Arts
+    - CFA
+
+- official: Commission on Civil Rights
+  abbreviation: USCCR
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-326
+  variants:
+    - Commission On Civil Rights
+    - USCCR
+
+- official: Committee for Purchase from People Who Are Blind or Severely Disabled
+  abbreviation: ABILITYONE
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-338
+  variants:
+    - Committee For Purchase From People Who Are Blind Or Severely Disabled
+    - ABILITYONE
+
+- official: Commodity Futures Trading Commission
+  abbreviation: CFTC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-339
+  variants:
+    - CFTC
+
+- official: Consumer Financial Protection Bureau
+  abbreviation: CFPB
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-581
+  variants:
+    - CFPB
+
+- official: Consumer Product Safety Commission
+  abbreviation: CPSC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-061
+  variants:
+    - CPSC
+
+- official: Corporation for National and Community Service
+  abbreviation: CNCS
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-485
+  variants:
+    - Corporation For National And Community Service
+    - CNCS
+
+- official: "Corps of Engineers - Civil Works"
+  abbreviation: USACE
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-096
+  variants:
+    - Corps Of Engineers Civil Works
+    - USACE
+
+- official: Council of the Inspectors General on Integrity and Efficiency
+  abbreviation: CIGIE
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-542
+  variants:
+    - Council Of The Inspectors General On Integrity And Efficiency
+    - CIGIE
+
+- official: Court Services and Offender Supervision Agency
+  abbreviation: CSOSA
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-9553
+  variants:
+    - Court Services And Offender Supervision Agency
+    - CSOSA
+
+- official: Defense Nuclear Facilities Safety Board
+  abbreviation: DNFSB
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-347
+  variants:
+    - DNFSB
+
+- official: Delta Regional Authority
+  abbreviation: DRA
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-517
+  variants:
+    - DRA
+
+- official: Denali Commission
+  abbreviation: DENALI
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-513
+  variants:
+    - DENALI
+
+- official: Department of Agriculture
+  abbreviation: USDA
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-012
+  variants:
+    - Department Of Agriculture
+    - USDA
+
+- official: Department of Commerce
+  abbreviation: DOC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-013
+  variants:
+    - Department Of Commerce
+    - DOC
+
+- official: Department of Defense
+  abbreviation: DOD
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-097
+  variants:
+    - Department Of Defense
+    - DOD
+
+- official: Department of Education
+  abbreviation: ED
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-091
+  variants:
+    - Department Of Education
+    - ED
+
+- official: Department of Energy
+  abbreviation: DOE
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-089
+  variants:
+    - Department Of Energy
+    - DOE
+
+- official: Department of Health and Human Services
+  abbreviation: HHS
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-075
+  variants:
+    - Department Of Health And Human Services
+    - HHS
+
+- official: Department of Homeland Security
+  abbreviation: DHS
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-070
+  variants:
+    - Department Of Homeland Security
+    - DHS
+
+- official: Department of Housing and Urban Development
+  abbreviation: HUD
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-086
+  variants:
+    - Department Of Housing And Urban Development
+    - HUD
+
+- official: Department of Justice
+  abbreviation: DOJ
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-015
+  variants:
+    - Department Of Justice
+    - DOJ
+
+- official: Department of Labor
+  abbreviation: DOL
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-1601
+  variants:
+    - Department Of Labor
+    - DOL
+
+- official: Department of State
+  abbreviation: DOS
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-019
+  variants:
+    - Department Of State
+    - DOS
+
+- official: Department of the Interior
+  abbreviation: DOI
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-014
+  variants:
+    - Department Of The Interior
+    - DOI
+
+- official: Department of the Treasury
+  abbreviation: TREAS
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-020
+  variants:
+    - Department Of The Treasury
+    - TREAS
+
+- official: Department of Transportation
+  abbreviation: DOT
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-069
+  variants:
+    - Department Of Transportation
+    - DOT
+
+- official: Department of Veterans Affairs
+  abbreviation: VA
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-036
+  variants:
+    - Department Of Veterans Affairs
+    - VA
+
+- official: District of Columbia Courts
+  abbreviation: DC COURTS
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-349
+  variants:
+    - District Of Columbia Courts
+    - DC COURTS
+
+- official: Election Assistance Commission
+  abbreviation: EAC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-525
+  variants:
+    - EAC
+
+- official: Environmental Protection Agency
+  abbreviation: EPA
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-068
+  variants:
+    - EPA
+
+- official: Equal Employment Opportunity Commission
+  abbreviation: EEOC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-045
+  variants:
+    - EEOC
+
+- official: Executive Office of the President
+  abbreviation: EOP
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-1100
+  variants:
+    - Executive Office Of The President
+    - EOP
+
+- official: "Export-Import Bank of the United States"
+  abbreviation: EXIM
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-083
+  variants:
+    - Export Import Bank Of The United States
+    - EXIM
+
+- official: Farm Credit System Insurance Corporation
+  abbreviation: FCSIC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-7802
+  variants:
+    - FCSIC
+
+- official: Federal Communications Commission
+  abbreviation: FCC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-027
+  variants:
+    - FCC
+
+- official: Federal Deposit Insurance Corporation
+  abbreviation: FDIC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-051
+  variants:
+    - FDIC
+
+- official: Federal Election Commission
+  abbreviation: FEC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-360
+  variants:
+    - FEC
+
+- official: Federal Financial Institutions Examination Council
+  abbreviation: FFIEC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-362
+  variants:
+    - FFIEC
+
+- official: Federal Labor Relations Authority
+  abbreviation: FLRA
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-054
+  variants:
+    - FLRA
+
+- official: Federal Maritime Commission
+  abbreviation: FMC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-065
+  variants:
+    - FMC
+
+- official: Federal Mediation and Conciliation Service
+  abbreviation: FMCS
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-093
+  variants:
+    - Federal Mediation And Conciliation Service
+    - FMCS
+
+- official: Federal Mine Safety and Health Review Commission
+  abbreviation: FMSHRC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-368
+  variants:
+    - Federal Mine Safety And Health Review Commission
+    - FMSHRC
+
+- official: Federal Permitting Improvement Steering Council
+  abbreviation: FPISC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-473
+  variants:
+    - FPISC
+
+- official: Federal Trade Commission
+  abbreviation: FTC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-029
+  variants:
+    - FTC
+
+- official: General Services Administration
+  abbreviation: GSA
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-047
+  variants:
+    - GSA
+
+- official: Government Accountability Office
+  abbreviation: GAO
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-005
+  variants:
+    - GAO
+
+- official: Gulf Coast Ecosystem Restoration Council
+  abbreviation: GCERC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-471
+  variants:
+    - GCERC
+
+- official: Harry S Truman Scholarship Foundation
+  abbreviation: TRUMAN
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-372
+  variants:
+    - TRUMAN
+
+- official: Institute of Museum and Library Services
+  abbreviation: IMLS
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-474
+  variants:
+    - Institute Of Museum And Library Services
+    - IMLS
+
+- official: "Inter-American Foundation"
+  abbreviation: IAF
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-164
+  variants:
+    - Inter American Foundation
+    - IAF
+
+- official: International Trade Commission
+  abbreviation: USITC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-034
+  variants:
+    - USITC
+
+- official: James Madison Memorial Fellowship Foundation
+  abbreviation: MADISON
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-381
+  variants:
+    - MADISON
+
+- official: "Japan-United States Friendship Commission"
+  abbreviation: JUSFC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-382
+  variants:
+    - Japan United States Friendship Commission
+    - JUSFC
+
+- official: John F. Kennedy Center for the Performing Arts
+  abbreviation: KENNEDY CENTER
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-3301
+  variants:
+    - John F Kennedy Center For The Performing Arts
+    - KENNEDY CENTER
+
+- official: Marine Mammal Commission
+  abbreviation: MMC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-387
+  variants:
+    - MMC
+
+- official: Merit Systems Protection Board
+  abbreviation: MSPB
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-389
+  variants:
+    - MSPB
+
+- official: Millennium Challenge Corporation
+  abbreviation: MCC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-524
+  variants:
+    - MCC
+
+- official: Morris K. Udall and Stewart L. Udall Foundation
+  abbreviation: UDALL
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-487
+  variants:
+    - Morris K Udall And Stewart L Udall Foundation
+    - UDALL
+
+- official: National Aeronautics and Space Administration
+  abbreviation: NASA
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-080
+  variants:
+    - National Aeronautics And Space Administration
+    - NASA
+
+- official: National Archives and Records Administration
+  abbreviation: NARA
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-088
+  variants:
+    - National Archives And Records Administration
+    - NARA
+
+- official: National Capital Planning Commission
+  abbreviation: NCPC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-394
+  variants:
+    - NCPC
+
+- official: National Council on Disability
+  abbreviation: NCD
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-413
+  variants:
+    - National Council On Disability
+    - NCD
+
+- official: National Credit Union Administration
+  abbreviation: NCUA
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-025
+  variants:
+    - NCUA
+
+- official: National Endowment for the Arts
+  abbreviation: NEA
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-417
+  variants:
+    - National Endowment For The Arts
+    - NEA
+
+- official: National Endowment for the Humanities
+  abbreviation: NEH
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-418
+  variants:
+    - National Endowment For The Humanities
+    - NEH
+
+- official: National Labor Relations Board
+  abbreviation: NLRB
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-420
+  variants:
+    - NLRB
+
+- official: National Mediation Board
+  abbreviation: NMB
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-421
+  variants:
+    - NMB
+
+- official: National Science Foundation
+  abbreviation: NSF
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-049
+  variants:
+    - NSF
+
+- official: National Transportation Safety Board
+  abbreviation: NTSB
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-424
+  variants:
+    - NTSB
+
+- official: Northern Border Regional Commission
+  abbreviation: NBRC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-573
+  variants:
+    - NBRC
+
+- official: Nuclear Regulatory Commission
+  abbreviation: NRC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-031
+  variants:
+    - NRC
+
+- official: Nuclear Waste Technical Review Board
+  abbreviation: NWTRB
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-431
+  variants:
+    - NWTRB
+
+- official: Occupational Safety and Health Review Commission
+  abbreviation: OSHRC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-432
+  variants:
+    - Occupational Safety And Health Review Commission
+    - OSHRC
+
+- official: Office of Government Ethics
+  abbreviation: OGE
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-434
+  variants:
+    - Office Of Government Ethics
+    - OGE
+
+- official: Office of Navajo and Hopi Indian Relocation
+  abbreviation: ONHIR
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-435
+  variants:
+    - Office Of Navajo And Hopi Indian Relocation
+    - ONHIR
+
+- official: Office of Personnel Management
+  abbreviation: OPM
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-024
+  variants:
+    - Office Of Personnel Management
+    - OPM
+
+- official: Office of Special Counsel
+  abbreviation: OSC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-062
+  variants:
+    - Office Of Special Counsel
+    - OSC
+
+- official: Overseas Private Investment Corporation
+  abbreviation: OPIC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-071
+  variants:
+    - OPIC
+
+- official: "Patient-Centered Outcomes Research Trust Fund"
+  abbreviation: PCORTF
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-579
+  variants:
+    - Patient Centered Outcomes Research Trust Fund
+    - PCORTF
+
+- official: Peace Corps
+  abbreviation: PC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-1125
+  variants:
+    - PC
+
+- official: Pension Benefit Guaranty Corporation
+  abbreviation: PBGC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-1602
+  variants:
+    - PBGC
+
+- official: Presidio Trust
+  abbreviation: PRESIDIO
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-512
+  variants:
+    - PRESIDIO
+
+- official: Privacy and Civil Liberties Oversight Board
+  abbreviation: PCLOB
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-535
+  variants:
+    - Privacy And Civil Liberties Oversight Board
+    - PCLOB
+
+- official: Public Buildings Reform Board
+  abbreviation: PBRB
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-290
+  variants:
+    - PBRB
+
+- official: Railroad Retirement Board
+  abbreviation: RRB
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-060
+  variants:
+    - RRB
+
+- official: Securities and Exchange Commission
+  abbreviation: SEC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-050
+  variants:
+    - Securities And Exchange Commission
+    - SEC
+
+- official: Selective Service System
+  abbreviation: SSS
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-090
+  variants:
+    - SSS
+
+- official: Small Business Administration
+  abbreviation: SBA
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-073
+  variants:
+    - SBA
+
+- official: Social Security Administration
+  abbreviation: SSA
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-028
+  variants:
+    - SSA
+
+- official: Southeast Crescent Regional Commission
+  abbreviation: SCRC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-574
+  variants:
+    - SCRC
+
+- official: Southwest Border Regional Commission
+  abbreviation: SBRC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-569
+  variants:
+    - SBRC
+
+- official: Surface Transportation Board
+  abbreviation: STB
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-472
+  variants:
+    - STB
+
+- official: U.S. Agency for Global Media
+  abbreviation: USAGM
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-514
+  variants:
+    - Us Agency For Global Media
+    - USAGM
+
+- official: U.S. Interagency Council on Homelessness
+  abbreviation: USICH
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-376
+  variants:
+    - Us Interagency Council On Homelessness
+    - USICH
+
+- official: U.S. International Development Finance Corporation
+  abbreviation: DFC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-077
+  variants:
+    - Us International Development Finance Corporation
+    - DFC
+
+- official: United States Chemical Safety Board
+  abbreviation: CSB
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-510
+  variants:
+    - CSB
+
+- official: United States Court of Appeals for Veterans Claims
+  abbreviation: CAVC
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-345
+  variants:
+    - United States Court Of Appeals For Veterans Claims
+    - CAVC
+
+- official: United States Trade and Development Agency
+  abbreviation: USTDA
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-1133
+  variants:
+    - United States Trade And Development Agency
+    - USTDA
+
+- official: Vietnam Education Foundation
+  abbreviation: VEF
+  source: "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+  tags:
+    - federal-agency
+    - toptier-code-519
+  variants:
+    - VEF
