@@ -1,43 +1,4 @@
-# US Military Service Branches
-# Schema: official (required), abbreviation, description, tags[], variants[] (required, min 1)
-# NOTE: the top-level `entries:` key is required by Decap CMS (file collection type expects an
-# object at the top level). The build script unwraps it before writing JSON.
-
 entries:
-  - official: US Army
-    abbreviation: USA
-    description: The land warfare service branch of the United States Armed Forces.
-    tags:
-      - military
-      - branch
-    variants:
-      - United States Army
-      - Army
-      - USA
-
-  - official: US Navy
-    abbreviation: USN
-    description: The naval warfare service branch of the United States Armed Forces.
-    tags:
-      - military
-      - branch
-    variants:
-      - United States Navy
-      - Navy
-      - USN
-
-  - official: US Marine Corps
-    abbreviation: USMC
-    description: The amphibious and expeditionary warfare service branch of the United States Armed Forces.
-    tags:
-      - military
-      - branch
-    variants:
-      - United States Marine Corps
-      - Marine Corps
-      - Marines
-      - USMC
-
   - official: US Air Force
     abbreviation: USAF
     description: The aerial warfare service branch of the United States Armed Forces.
@@ -48,10 +9,20 @@ entries:
       - United States Air Force
       - Air Force
       - USAF
-
+  - official: US Army
+    abbreviation: USA
+    description: The land warfare service branch of the United States Armed Forces.
+    tags:
+      - military
+      - branch
+    variants:
+      - United States Army
+      - Army
+      - USA
   - official: US Coast Guard
     abbreviation: USCG
-    description: The maritime law enforcement and search-and-rescue service branch of the United States Armed Forces.
+    description: The maritime law enforcement and search-and-rescue service branch
+      of the United States Armed Forces.
     tags:
       - military
       - branch
@@ -59,10 +30,32 @@ entries:
       - United States Coast Guard
       - Coast Guard
       - USCG
-
+  - official: US Marine Corps
+    abbreviation: USMC
+    description: The amphibious and expeditionary warfare service branch of the
+      United States Armed Forces.
+    tags:
+      - military
+      - branch
+    variants:
+      - United States Marine Corps
+      - Marine Corps
+      - Marines
+      - USMC
+  - official: US Navy
+    abbreviation: USN
+    description: The naval warfare service branch of the United States Armed Forces.
+    tags:
+      - military
+      - branch
+    variants:
+      - United States Navy
+      - Navy
+      - USN
   - official: US Space Force
     abbreviation: USSF
-    description: The space warfare service branch of the United States Armed Forces, established in 2019.
+    description: The space warfare service branch of the United States Armed Forces,
+      established in 2019.
     tags:
       - military
       - branch
@@ -70,3 +63,15 @@ entries:
       - United States Space Force
       - Space Force
       - USSF
+  - official: Department of Defense
+    abbreviation: DoD
+    description: The Department of War is America's largest government agency. With
+      our military tracing its roots back to pre-Revolutionary times, the
+      department has grown and evolved with our nation. Our mission is to
+      provide the military forces needed to deter war and ensure our nation's
+      security.
+    variants:
+      - DoW
+    tags:
+      - military
+      - civilian
