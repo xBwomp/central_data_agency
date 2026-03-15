@@ -2,6 +2,7 @@ entries:
   - official: US Air Force
     abbreviation: USAF
     description: The aerial warfare service branch of the United States Armed Forces.
+    source: https://www.law.cornell.edu/uscode/text/10/subtitle-D
     tags:
       - military
       - branch
@@ -12,6 +13,7 @@ entries:
   - official: US Army
     abbreviation: USA
     description: The land warfare service branch of the United States Armed Forces.
+    source: https://www.law.cornell.edu/uscode/text/10/subtitle-B
     tags:
       - military
       - branch
@@ -23,6 +25,7 @@ entries:
     abbreviation: USCG
     description: The maritime law enforcement and search-and-rescue service branch
       of the United States Armed Forces.
+    source: https://www.law.cornell.edu/uscode/text/14
     tags:
       - military
       - branch
@@ -34,6 +37,7 @@ entries:
     abbreviation: USMC
     description: The amphibious and expeditionary warfare service branch of the
       United States Armed Forces.
+    source: https://www.law.cornell.edu/uscode/text/10/subtitle-C
     tags:
       - military
       - branch
@@ -45,6 +49,7 @@ entries:
   - official: US Navy
     abbreviation: USN
     description: The naval warfare service branch of the United States Armed Forces.
+    source: https://www.law.cornell.edu/uscode/text/10/subtitle-C
     tags:
       - military
       - branch
@@ -56,6 +61,7 @@ entries:
     abbreviation: USSF
     description: The space warfare service branch of the United States Armed Forces,
       established in 2019.
+    source: https://www.law.cornell.edu/uscode/text/10/subtitle-D
     tags:
       - military
       - branch
@@ -65,14 +71,13 @@ entries:
       - USSF
   - official: Department of Defense
     abbreviation: DoD
-    description: The Department of War is America's largest government agency. With
-      our military tracing its roots back to pre-Revolutionary times, the
-      department has grown and evolved with our nation. Our mission is to
-      provide the military forces needed to deter war and ensure our nation's
-      security.
-    variants:
-      - DoW
-      - Department-of-War
+    description: The executive branch department responsible for providing the military
+      forces needed to deter war and protect the security of the United States.
+    source: https://www.law.cornell.edu/uscode/text/10/111
     tags:
       - military
       - civilian
+    variants:
+      - DoD
+      - Department of War
+      - War Department

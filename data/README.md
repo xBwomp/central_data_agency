@@ -9,33 +9,28 @@ This directory contains YAML files, each representing a named-entity category. E
 | `official` | Yes | string | The canonical full name of the entity |
 | `abbreviation` | No | string | The shortest standard acronym or code |
 | `description` | No | string | A one-sentence plain-English description |
+| `source` | No | string | URL or citation for the official name (e.g. the API, document, or statute it was drawn from) |
 | `tags` | No | list of strings | Lowercase labels for grouping and filtering |
 | `variants` | Yes (min 1) | list of strings | All other acceptable names, spellings, or aliases (include the abbreviation here if it is used as a name) |
 
 ## File Format
 
-Each `.yml` file must have an `entries:` top-level key wrapping the list. This is required by Decap CMS (file collection type expects an object, not a bare list). The build script unwraps the key automatically.
-
-```yaml
-entries:
-  - official: US Navy
-    ...
-```
+Each `.yml` file is a bare YAML list, or an object with an `entries:` key (both are supported by the build script).
 
 ## Example Entry
 
 ```yaml
-entries:
-  - official: US Navy
-    abbreviation: USN
-    description: The naval warfare service branch of the United States Armed Forces.
-    tags:
-      - military
-      - branch
-    variants:
-      - United States Navy
-      - Navy
-      - USN
+- official: US Navy
+  abbreviation: USN
+  description: The naval warfare service branch of the United States Armed Forces.
+  source: https://www.defense.gov/About/Branches-of-the-Military/
+  tags:
+    - military
+    - branch
+  variants:
+    - United States Navy
+    - Navy
+    - USN
 ```
 
 ## Adding a New Dataset

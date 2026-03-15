@@ -20,6 +20,7 @@ Named-entity datasets live in the `data/` directory. Each category is a separate
 - `official` — canonical full name **(required)**
 - `abbreviation` — shortest standard acronym/code (optional)
 - `description` — one-sentence plain-English description (optional)
+- `source` — URL or citation for the official name (optional, e.g. API endpoint, statute, document)
 - `tags` — list of lowercase strings for grouping/filtering (optional)
 - `variants` — all other acceptable names/spellings/aliases **(required, at least 1)**
 
