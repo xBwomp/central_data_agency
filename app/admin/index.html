@@ -120,8 +120,8 @@
         #nc-root { color-scheme: dark; }
         #nc-root, #nc-root > div, #nc-root > div > div { background: ${BG} !important; color: ${TEXT} !important; }
 
-        /* Header */
-        [class*="AppHeader"] { background: ${BG2} !important; border-bottom: 1px solid ${BORDER} !important; box-shadow: none !important; }
+        /* Header — push below our fixed admin banner */
+        [class*="AppHeader"] { background: ${BG2} !important; border-bottom: 1px solid ${BORDER} !important; box-shadow: none !important; position: sticky !important; top: 36px !important; z-index: 1000 !important; }
         [class*="AppHeaderContent"], [class*="AppHeaderNav"] ul, [class*="AppHeaderNavList"] { background: ${BG2} !important; }
         [class*="AppHeaderButton"], [class*="AppHeaderNavLink"] { color: ${DIM} !important; background: transparent !important; }
         [class*="buttonActive"], [class*="header-link-active"] { background: ${RED_FAINT} !important; color: ${RED} !important; }
