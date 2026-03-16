@@ -46,3 +46,4 @@ Each `.yml` file is a bare YAML list, or an object with an `entries:` key (both 
 |---|---|---|
 | `military_services.yml` | The six branches of the US Military | Title 10 U.S.C. |
 | `federal_agencies.yml` | 111 federal top-tier agencies | USASpending.gov API |
+| `rdte_programs.yml` | 961 RDT&E program elements (R-1, FY 2025) | OSD Comptroller R-1 PDF |
