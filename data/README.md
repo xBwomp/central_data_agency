@@ -12,6 +12,7 @@ This directory contains YAML files, each representing a named-entity category. E
 | `source` | No | string | URL or citation for the official name (e.g. the API, document, or statute it was drawn from) |
 | `tags` | No | list of strings | Lowercase labels for grouping and filtering |
 | `variants` | Yes (min 1) | list of strings | All other acceptable names, spellings, or aliases (include the abbreviation here if it is used as a name) |
+| `related` | No | list of `{ref, type}` | Typed relationships to other entries (cross-collection). `ref` must match another entry's `abbreviation` or `official` name. Valid types: `variant`, `component`, `upgrade`, `successor`, `predecessor`, `operator`, `prime-contractor`, `customer`, `associated` |
 
 ## File Format
 
@@ -31,6 +32,9 @@ Each `.yml` file is a bare YAML list, or an object with an `entries:` key (both 
     - United States Navy
     - Navy
     - USN
+  related:
+    - ref: Department of Defense
+      type: customer
 ```
 
 ## Adding a New Dataset
@@ -47,3 +51,4 @@ Each `.yml` file is a bare YAML list, or an object with an `entries:` key (both 
 | `military_services.yml` | The six branches of the US Military | Title 10 U.S.C. |
 | `federal_agencies.yml` | 111 federal top-tier agencies | USASpending.gov API |
 | `rdte_programs.yml` | 961 RDT&E program elements (R-1, FY 2025) | OSD Comptroller R-1 PDF |
+| `mdap_programs.yml` | Major Defense Acquisition Programs (MDAPs) | GAO Weapon Systems Annual Assessment (GAO-24-106047) |

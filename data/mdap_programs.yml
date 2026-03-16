@@ -1,0 +1,806 @@
+# GAO Weapon Systems Annual Assessment — FY 2025 (GAO-25-107569)
+# Source: https://www.gao.gov/products/gao-25-107569
+# Do not edit manually — re-run scripts/ingest/gao_mdap.py to refresh
+
+- official: "B-52 Commercial Engine Replacement Program (B-52 CERP)"
+  abbreviation: "B-52 CERP"
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - air-force
+  related:
+    - ref: USAF
+      type: operator
+  variants:
+    - "B-52 CERP"
+    - "B-52 Commercial Engine Replacement Program (B-52 CERP)"
+
+- official: "B-52 Radar Modernization Program (B-52 RMP)"
+  abbreviation: "B-52 RMP"
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - air-force
+  related:
+    - ref: USAF
+      type: operator
+  variants:
+    - "B-52 RMP"
+    - "B-52 Radar Modernization Program (B-52 RMP)"
+
+- official: "E-7A Rapid Prototyping (E-7A RP)"
+  abbreviation: "E-7A RP"
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - air-force
+  related:
+    - ref: USAF
+      type: operator
+  variants:
+    - "E-7A RP"
+    - "E-7A Rapid Prototyping (E-7A RP)"
+
+- official: "F-15 Eagle Passive Active Warning Survivability System (F-15 EPAWSS)"
+  abbreviation: "F-15 EPAWSS"
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - air-force
+  related:
+    - ref: USAF
+      type: operator
+  variants:
+    - "F-15 EPAWSS"
+    - "F-15 Eagle Passive Active Warning Survivability System (F-15 EPAWSS)"
+
+- official: "F-15EX"
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - air-force
+  related:
+    - ref: USAF
+      type: operator
+  variants:
+    - "F-15EX"
+
+- official: "F-22 Sensor Enhancements (F-22 SeE)"
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - air-force
+  related:
+    - ref: USAF
+      type: operator
+  variants:
+    - "F-22 Sensor Enhancements (F-22 SeE)"
+
+- official: Hypersonic Attack Cruise Missile (HACM)
+  abbreviation: HACM
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - air-force
+  related:
+    - ref: USAF
+      type: operator
+  variants:
+    - HACM
+    - Hypersonic Attack Cruise Missile (HACM)
+
+- official: "KC-46A Tanker Modernization Program (KC-46A)"
+  abbreviation: "KC-46A"
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - air-force
+  related:
+    - ref: USAF
+      type: operator
+  variants:
+    - "KC-46A"
+    - "KC-46A Tanker Modernization Program (KC-46A)"
+
+- official: "LGM-35A Sentinel"
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - air-force
+  related:
+    - ref: USAF
+      type: operator
+  variants:
+    - "LGM-35A Sentinel"
+
+- official: Long Range Standoff (LRSO)
+  abbreviation: LRSO
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - air-force
+  related:
+    - ref: USAF
+      type: operator
+  variants:
+    - LRSO
+    - Long Range Standoff (LRSO)
+
+- official: "MH-139A Grey Wolf Helicopter (MH-139A)"
+  abbreviation: "MH-139A"
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - air-force
+  related:
+    - ref: USAF
+      type: operator
+  variants:
+    - "MH-139A"
+    - "MH-139A Grey Wolf Helicopter (MH-139A)"
+
+- official: Small Diameter Bomb Increment II (SDB II)
+  abbreviation: SDB II
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - air-force
+  related:
+    - ref: USAF
+      type: operator
+  variants:
+    - SDB II
+    - Small Diameter Bomb Increment II (SDB II)
+
+- official: "T-7A Red Hawk"
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - air-force
+  related:
+    - ref: USAF
+      type: operator
+  variants:
+    - "T-7A Red Hawk"
+
+- official: "VC-25B Presidential Aircraft Recapitalization (VC-25B)"
+  abbreviation: "VC-25B"
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - air-force
+  related:
+    - ref: USAF
+      type: operator
+  variants:
+    - "VC-25B"
+    - "VC-25B Presidential Aircraft Recapitalization (VC-25B)"
+
+- official: "CH-47F Block II Modernized Cargo Helicopter (CH-47F Block II)"
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - army
+  related:
+    - ref: USA
+      type: operator
+  variants:
+    - "CH-47F Block II Modernized Cargo Helicopter (CH-47F Block II)"
+
+- official: Future Long Range Assault Aircraft (FLRAA)
+  abbreviation: FLRAA
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - army
+  related:
+    - ref: USA
+      type: operator
+  variants:
+    - FLRAA
+    - Future Long Range Assault Aircraft (FLRAA)
+
+- official: High Accuracy Detection and Exploitation System (HADES)
+  abbreviation: HADES
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - army
+  related:
+    - ref: USA
+      type: operator
+  variants:
+    - HADES
+    - High Accuracy Detection and Exploitation System (HADES)
+
+- official: Indirect Fire Protection Capability Increment 2 (IFPC Inc 2)
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - army
+  related:
+    - ref: USA
+      type: operator
+  variants:
+    - Indirect Fire Protection Capability Increment 2 (IFPC Inc 2)
+
+- official: Improved Turbine Engine Program (ITEP)
+  abbreviation: ITEP
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - army
+  related:
+    - ref: USA
+      type: operator
+  variants:
+    - ITEP
+    - Improved Turbine Engine Program (ITEP)
+
+- official: Integrated Visual Augmentation System (IVAS)
+  abbreviation: IVAS
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - army
+  related:
+    - ref: USA
+      type: operator
+  variants:
+    - IVAS
+    - Integrated Visual Augmentation System (IVAS)
+
+- official: Long Range Hypersonic Weapon System (LRHW)
+  abbreviation: LRHW
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - army
+  related:
+    - ref: USA
+      type: operator
+  variants:
+    - LRHW
+    - Long Range Hypersonic Weapon System (LRHW)
+
+- official: "Lower-Tier Air and Missile Defense Sensor (LTAMDS)"
+  abbreviation: LTAMDS
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - army
+  related:
+    - ref: USA
+      type: operator
+  variants:
+    - LTAMDS
+    - "Lower-Tier Air and Missile Defense Sensor (LTAMDS)"
+
+- official: M10 Booker
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - army
+  related:
+    - ref: USA
+      type: operator
+  variants:
+    - M10 Booker
+
+- official: "Maneuver Short Range Air Defense Increment 3 (M-SHORAD Inc 3)"
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - army
+  related:
+    - ref: USA
+      type: operator
+  variants:
+    - "Maneuver Short Range Air Defense Increment 3 (M-SHORAD Inc 3)"
+
+- official: "Mid-Range Capability (MRC)"
+  abbreviation: MRC
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - army
+  related:
+    - ref: USA
+      type: operator
+  variants:
+    - MRC
+    - "Mid-Range Capability (MRC)"
+
+- official: Precision Strike Missile (PrSM)
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - army
+  related:
+    - ref: USA
+      type: operator
+  variants:
+    - Precision Strike Missile (PrSM)
+
+- official: XM30 Mechanized Infantry Combat Vehicle (XM30)
+  abbreviation: XM30
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - army
+  related:
+    - ref: USA
+      type: operator
+  variants:
+    - XM30
+    - XM30 Mechanized Infantry Combat Vehicle (XM30)
+
+- official: "Advanced Anti-Radiation Guided Missile—Extended Range (AARGM-ER)"
+  abbreviation: "AARGM-ER"
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - navy
+  related:
+    - ref: USN
+      type: operator
+  variants:
+    - "AARGM-ER"
+    - "Advanced Anti-Radiation Guided Missile—Extended Range (AARGM-ER)"
+
+- official: Air and Missile Defense Radar (AMDR)
+  abbreviation: AMDR
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - navy
+  related:
+    - ref: USN
+      type: operator
+  variants:
+    - AMDR
+    - Air and Missile Defense Radar (AMDR)
+
+- official: Conventional Prompt Strike (CPS)
+  abbreviation: CPS
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - navy
+  related:
+    - ref: USN
+      type: operator
+  variants:
+    - CPS
+    - Conventional Prompt Strike (CPS)
+
+- official: CVN 78 Gerald R. Ford Nuclear Aircraft Carrier (CVN 78)
+  abbreviation: CVN 78
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - navy
+  related:
+    - ref: USN
+      type: operator
+  variants:
+    - CVN 78
+    - CVN 78 Gerald R. Ford Nuclear Aircraft Carrier (CVN 78)
+
+- official: DDG 1000 Zumwalt Class Destroyer (DDG 1000)
+  abbreviation: DDG 1000
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - navy
+  related:
+    - ref: USN
+      type: operator
+  variants:
+    - DDG 1000
+    - DDG 1000 Zumwalt Class Destroyer (DDG 1000)
+
+- official: "DDG 51 Arleigh Burke Class Destroyer, Flight III (DDG 51 Flight III)"
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - navy
+  related:
+    - ref: USN
+      type: operator
+  variants:
+    - "DDG 51 Arleigh Burke Class Destroyer, Flight III (DDG 51 Flight III)"
+
+- official: DDG(X) Guided Missile Destroyer
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - navy
+  related:
+    - ref: USN
+      type: operator
+  variants:
+    - DDG(X) Guided Missile Destroyer
+
+- official: "E-6B Recapitalization (E-130J)"
+  abbreviation: "E-130J"
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - navy
+  related:
+    - ref: USN
+      type: operator
+  variants:
+    - "E-130J"
+    - "E-6B Recapitalization (E-130J)"
+
+- official: "F/A-18E/F Infrared Search and Track (IRST)"
+  abbreviation: IRST
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - navy
+  related:
+    - ref: USN
+      type: operator
+  variants:
+    - IRST
+    - "F/A-18E/F Infrared Search and Track (IRST)"
+
+- official: FFG 62 Constellation Class Frigate (FFG 62)
+  abbreviation: FFG 62
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - navy
+  related:
+    - ref: USN
+      type: operator
+  variants:
+    - FFG 62
+    - FFG 62 Constellation Class Frigate (FFG 62)
+
+- official: "Hypersonic Air-Launched Offensive Anti-Surface Warfare Weapon System (HALO)"
+  abbreviation: HALO
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - navy
+  related:
+    - ref: USN
+      type: operator
+  variants:
+    - HALO
+    - "Hypersonic Air-Launched Offensive Anti-Surface Warfare Weapon System (HALO)"
+
+- official: Large Unmanned Surface Vessel (LUSV)
+  abbreviation: LUSV
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - navy
+  related:
+    - ref: USN
+      type: operator
+  variants:
+    - LUSV
+    - Large Unmanned Surface Vessel (LUSV)
+
+- official: Medium Landing Ship (LSM)
+  abbreviation: LSM
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - navy
+  related:
+    - ref: USN
+      type: operator
+  variants:
+    - LSM
+    - Medium Landing Ship (LSM)
+
+- official: MK 54 MOD 2 Advanced Lightweight Torpedo (MK 54 MOD 2 ALWT)
+  abbreviation: MK 54 MOD 2 ALWT
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - navy
+  related:
+    - ref: USN
+      type: operator
+  variants:
+    - MK 54 MOD 2 ALWT
+    - MK 54 MOD 2 Advanced Lightweight Torpedo (MK 54 MOD 2 ALWT)
+
+- official: "MQ-25 Unmanned Aircraft System (MQ-25 Stingray)"
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - navy
+  related:
+    - ref: USN
+      type: operator
+  variants:
+    - "MQ-25 Unmanned Aircraft System (MQ-25 Stingray)"
+
+- official: "MQ-4C Triton Unmanned Aircraft System (MQ-4C Triton)"
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - navy
+  related:
+    - ref: USN
+      type: operator
+  variants:
+    - "MQ-4C Triton Unmanned Aircraft System (MQ-4C Triton)"
+
+- official: "Next Generation Jammer Low-Band (NGJ LB)"
+  abbreviation: NGJ LB
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - navy
+  related:
+    - ref: USN
+      type: operator
+  variants:
+    - NGJ LB
+    - "Next Generation Jammer Low-Band (NGJ LB)"
+
+- official: "Next Generation Jammer Mid-Band (NGJ MB)"
+  abbreviation: NGJ MB
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - navy
+  related:
+    - ref: USN
+      type: operator
+  variants:
+    - NGJ MB
+    - "Next Generation Jammer Mid-Band (NGJ MB)"
+
+- official: Orca Extra Large Unmanned Undersea Vehicle (XLUUV)
+  abbreviation: XLUUV
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - navy
+  related:
+    - ref: USN
+      type: operator
+  variants:
+    - XLUUV
+    - Orca Extra Large Unmanned Undersea Vehicle (XLUUV)
+
+- official: Ship to Shore Connector Amphibious Craft (SSC)
+  abbreviation: SSC
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - navy
+  related:
+    - ref: USN
+      type: operator
+  variants:
+    - SSC
+    - Ship to Shore Connector Amphibious Craft (SSC)
+
+- official: SSBN 826 Columbia Class Ballistic Missile Submarine (SSBN 826)
+  abbreviation: SSBN 826
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - navy
+  related:
+    - ref: USN
+      type: operator
+  variants:
+    - SSBN 826
+    - SSBN 826 Columbia Class Ballistic Missile Submarine (SSBN 826)
+
+- official: SSN 774 Virginia Class Submarine (VCS) Block V
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - navy
+  related:
+    - ref: USN
+      type: operator
+  variants:
+    - SSN 774 Virginia Class Submarine (VCS) Block V
+
+- official: "T-AGOS 25 Explorer Class Ocean Surveillance Ship (T-AGOS 25)"
+  abbreviation: "T-AGOS 25"
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - navy
+  related:
+    - ref: USN
+      type: operator
+  variants:
+    - "T-AGOS 25"
+    - "T-AGOS 25 Explorer Class Ocean Surveillance Ship (T-AGOS 25)"
+
+- official: "T-AO 205 John Lewis Class Fleet Replenishment Oiler (T-AO 205)"
+  abbreviation: "T-AO 205"
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - navy
+  related:
+    - ref: USN
+      type: operator
+  variants:
+    - "T-AO 205"
+    - "T-AO 205 John Lewis Class Fleet Replenishment Oiler (T-AO 205)"
+
+- official: Deep Space Advanced Radar Capability (DARC)
+  abbreviation: DARC
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - space-force
+  related:
+    - ref: USSF
+      type: operator
+  variants:
+    - DARC
+    - Deep Space Advanced Radar Capability (DARC)
+
+- official: Future Operationally Resilient Ground Evolution (FORGE)
+  abbreviation: FORGE
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - space-force
+  related:
+    - ref: USSF
+      type: operator
+  variants:
+    - FORGE
+    - Future Operationally Resilient Ground Evolution (FORGE)
+
+- official: "GPS III Follow-On (GPS IIIF)"
+  abbreviation: GPS IIIF
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - space-force
+  related:
+    - ref: USSF
+      type: operator
+  variants:
+    - GPS IIIF
+    - "GPS III Follow-On (GPS IIIF)"
+
+- official: Military GPS User Equipment (MGUE) Increment 1
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - space-force
+  related:
+    - ref: USSF
+      type: operator
+  variants:
+    - Military GPS User Equipment (MGUE) Increment 1
+
+- official: Military GPS User Equipment (MGUE) Increment 2
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - space-force
+  related:
+    - ref: USSF
+      type: operator
+  variants:
+    - Military GPS User Equipment (MGUE) Increment 2
+
+- official: National Security Space Launch (NSSL)
+  abbreviation: NSSL
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - space-force
+  related:
+    - ref: USSF
+      type: operator
+  variants:
+    - NSSL
+    - National Security Space Launch (NSSL)
+
+- official: Next Generation Operational Control Systems (OCX)
+  abbreviation: OCX
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - space-force
+  related:
+    - ref: USSF
+      type: operator
+  variants:
+    - OCX
+    - Next Generation Operational Control Systems (OCX)
+
+- official: Next Generation Overhead Persistent Infrared Geosynchronous Earth Orbit Satellites (Next Gen OPIR GEO)
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - space-force
+  related:
+    - ref: USSF
+      type: operator
+  variants:
+    - Next Generation Overhead Persistent Infrared Geosynchronous Earth Orbit Satellites (Next Gen OPIR GEO)
+
+- official: Next Generation Overhead Persistent Infrared Space Polar (Next Gen OPIR Polar)
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - space-force
+  related:
+    - ref: USSF
+      type: operator
+  variants:
+    - Next Generation Overhead Persistent Infrared Space Polar (Next Gen OPIR Polar)
+
+- official: "Protected Tactical SATCOM-Resilient (PTS-R)"
+  abbreviation: "PTS-R"
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - space-force
+  related:
+    - ref: USSF
+      type: operator
+  variants:
+    - "PTS-R"
+    - "Protected Tactical SATCOM-Resilient (PTS-R)"
+
+- official: Resilient Missile Warning/Missile Tracking Medium Earth Orbit (Resilient MW/MT MEO) – Epoch 1
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - space-force
+  related:
+    - ref: USSF
+      type: operator
+  variants:
+    - Resilient Missile Warning/Missile Tracking Medium Earth Orbit (Resilient MW/MT MEO) – Epoch 1
+
+- official: Tranche 1 and 2 Tracking Layer (T1 TRK and T2 TRK)
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - space-force
+  related:
+    - ref: USSF
+      type: operator
+  variants:
+    - Tranche 1 and 2 Tracking Layer (T1 TRK and T2 TRK)
+
+- official: Tranche 1 and 2 Transport Layers (T1TL and T2TL)
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - space-force
+  related:
+    - ref: USSF
+      type: operator
+  variants:
+    - Tranche 1 and 2 Transport Layers (T1TL and T2TL)
+
+- official: "Weather System Follow-On (WSF)"
+  abbreviation: WSF
+  source: "https://www.gao.gov/products/gao-25-107569"
+  tags:
+    - mdap
+    - space-force
+  related:
+    - ref: USSF
+      type: operator
+  variants:
+    - WSF
+    - "Weather System Follow-On (WSF)"

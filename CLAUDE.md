@@ -23,6 +23,11 @@ Named-entity datasets live in the `data/` directory. Each category is a separate
 - `source` — URL or citation for the official name (optional, e.g. API endpoint, statute, document)
 - `tags` — list of lowercase strings for grouping/filtering (optional)
 - `variants` — all other acceptable names/spellings/aliases **(required, at least 1)**
+- `related` — typed relationships to other entries, cross-collection (optional)
+  - Each item: `{ref: <abbreviation or official name>, type: <relationship type>}`
+  - Valid types: `variant`, `component`, `upgrade`, `successor`, `predecessor`, `operator`, `prime-contractor`, `customer`, `associated`
+  - `ref` is validated at build time — must match a known `abbreviation` or `official` in any collection
+  - The build script emits `dist/api/relationships.json` — a flat edge list for graph traversal
 
 ### Adding a New Dataset
 
@@ -44,8 +49,9 @@ scripts/
 data/               # Source YAML files — one file per collection
 dist/               # gitignored; assembled and deployed by publish.yml
   api/
-    index.json      # manifest: { collections: [{name, label, count, path}] }
+    index.json           # manifest: { collections: [{name, label, count, path}] }
     <collection>.json
+    relationships.json   # flat edge list: [{from, from_collection, to, to_collection, type}]
 ```
 
 ## Build & Deploy
@@ -79,7 +85,8 @@ Data is added by running ingestion scripts locally, reviewing the output, and pu
 - **USASpending.gov API** — federal agencies and sub-agencies with CGAC/SUBTIER codes
 - **OSD Comptroller R-1** — RDT&E program elements (PDF, annual)
 - **OSD Comptroller P-1** — Procurement programs (PDF, annual)
-- **GAO reports** — program assessments and high-risk list
+- **GAO Weapon Systems Annual Assessment** — MDAP list with lead component (PDF, annual; GAO-24-106047 = FY2024)
+- **GAO High-Risk List** — perennial problem programs with descriptions
 
 ## Adding a New Collection
 

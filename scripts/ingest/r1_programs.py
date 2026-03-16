@@ -97,7 +97,8 @@ def to_yaml_entry(pe: str, name: str, act: str, classification: str) -> str:
         variants.append(acronym)
 
     lines = [f"- official: {yaml_str(name)}"]
-    lines.append(f"  abbreviation: {yaml_str(pe)}")
+    if acronym and acronym != pe:
+        lines.append(f"  abbreviation: {yaml_str(acronym)}")
     lines.append(f"  source: {yaml_str(SOURCE_URL)}")
     lines.append(f"  tags:")
     for tag in tags:
