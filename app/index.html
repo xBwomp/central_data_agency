@@ -22,6 +22,9 @@
       --text-faint:#3a5040;
       --red:       #fe4a6a;
       --amber:     #feaa4a;
+      --cyan:      #4af0fe;
+      --cyan-dim:  #1a8090;
+      --cyan-faint:#0a2a30;
       --radius:    2px;
       --mono:      'IBM Plex Mono', monospace;
     }
@@ -288,18 +291,18 @@
       display: inline-flex;
       align-items: center;
       gap: 4px;
-      background: var(--green-faint);
-      border: 1px solid var(--green-dim);
+      background: var(--cyan-faint);
+      border: 1px solid var(--cyan-dim);
       border-radius: var(--radius);
       padding: 2px 6px;
       font-size: 9px;
-      color: var(--green);
+      color: var(--cyan);
       letter-spacing: 0.06em;
       white-space: nowrap;
     }
 
     .filter-chip-kind {
-      color: var(--green-dim);
+      color: var(--cyan-dim);
       font-size: 8px;
       text-transform: uppercase;
       letter-spacing: 0.12em;
@@ -308,7 +311,7 @@
     .filter-chip-remove {
       background: none;
       border: none;
-      color: var(--green-dim);
+      color: var(--cyan-dim);
       cursor: pointer;
       font-size: 10px;
       padding: 0;
