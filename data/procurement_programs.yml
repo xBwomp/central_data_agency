@@ -1,0 +1,7391 @@
+# Procurement Programs (P-1) — FY 2025 President's Budget
+# Source: https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf
+# Do not edit manually — re-run scripts/ingest/p1_programs.py to refresh
+
+- official: "A-10"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "A-10"
+
+- official: "Advanced Pilot Training T-7A"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "Advanced Pilot Training T-7A"
+
+- official: Aircraft Replacement Support Equip
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - Aircraft Replacement Support Equip
+
+- official: "B-1B"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "B-1B"
+
+- official: "B-21 Raider"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "B-21 Raider"
+
+- official: "B-2A"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "B-2A"
+
+- official: "B-2B"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "B-2B"
+
+- official: "B-52"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "B-52"
+
+- official: "C-12"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "C-12"
+
+- official: "C-130"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "C-130"
+
+- official: "C-130J"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "C-130J"
+
+- official: "C-130J Mods"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "C-130J Mods"
+
+- official: "C-135"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "C-135"
+
+- official: "C-17A"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "C-17A"
+
+- official: "C-21"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "C-21"
+
+- official: "C-32A"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "C-32A"
+
+- official: "C-37A"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "C-37A"
+
+- official: "C-40"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "C-40"
+
+- official: "C-40 Fleet Expansion"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "C-40 Fleet Expansion"
+
+- official: "C-5"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "C-5"
+
+- official: "CV-22 Mods"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "CV-22 Mods"
+
+- official: "CV-22 Post Production Support"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "CV-22 Post Production Support"
+
+- official: Cancelled Acct Adjustments
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - Cancelled Acct Adjustments
+
+- official: Civil Air Patrol A/C
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - Civil Air Patrol A/C
+
+- official: Combat Rescue Helicopter
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - Combat Rescue Helicopter
+
+- official: Compass Call
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - Compass Call
+
+- official: "E-11 BACN/HAG"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "E-11 BACN/HAG"
+
+- official: "E-3"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "E-3"
+
+- official: "E-4"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "E-4"
+
+- official: "F-15"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "F-15"
+
+- official: "F-15 EPAW"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "F-15 EPAW"
+
+- official: "F-15EX"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "F-15EX"
+
+- official: "F-16"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "F-16"
+
+- official: "F-22A"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "F-22A"
+
+- official: "F-35"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "F-35"
+
+- official: "F-35 Modifications"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "F-35 Modifications"
+
+- official: Glider Mods
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - Glider Mods
+
+- official: "H-1"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "H-1"
+
+- official: "H-60"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "H-60"
+
+- official: "HC/MC-130 Modifications"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "HC/MC-130 Modifications"
+
+- official: HH60W Modifications
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - HH60W Modifications
+
+- official: Industrial Responsiveness
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - Industrial Responsiveness
+
+- official: Initial Spares/Repair Parts
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - Initial Spares/Repair Parts
+
+- official: "KC-10A (ATCA)"
+  abbreviation: ATCA
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "KC-10A (ATCA)"
+    - ATCA
+
+- official: "KC-46A MDAP"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "KC-46A MDAP"
+
+- official: Large Aircraft Infrared Countermeasures
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - Large Aircraft Infrared Countermeasures
+
+- official: "MC-130J"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "MC-130J"
+
+- official: "MH-139A"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "MH-139A"
+
+- official: "MH-139A Mod"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "MH-139A Mod"
+
+- official: "MQ-9"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "MQ-9"
+
+- official: "MQ-9 Mods"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "MQ-9 Mods"
+
+- official: "MQ-9 Post Prod"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "MQ-9 Post Prod"
+
+- official: "Operational Support Aircraft Post-Production"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "Operational Support Aircraft Post-Production"
+
+- official: Other Aircraft
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - Other Aircraft
+
+- official: Other Production Charges
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - Other Production Charges
+
+- official: Pale Ale
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - Pale Ale
+
+- official: "RC-135"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "RC-135"
+
+- official: "RQ-20B Puma"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "RQ-20B Puma"
+
+- official: "RQ-4 Mods"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "RQ-4 Mods"
+
+- official: "RQ-4 Post Production Charges"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "RQ-4 Post Production Charges"
+
+- official: "Senior Leader C3 System - Aircraft"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "Senior Leader C3 System - Aircraft"
+
+- official: Spectrum Relocation Fund
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - Spectrum Relocation Fund
+
+- official: "T-1"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "T-1"
+
+- official: "T-38"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "T-38"
+
+- official: "T-6"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "T-6"
+
+- official: Target Drones
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - Target Drones
+
+- official: ULTRA
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - ULTRA
+
+- official: "VC-25A Mod"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "VC-25A Mod"
+
+- official: War Consumables
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - War Consumables
+
+- official: "combat flight inspection - CFIN"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - aircraft
+  variants:
+    - "combat flight inspection - CFIN"
+
+- official: AMRAAM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - missiles
+  variants:
+    - AMRAAM
+
+- official: Air Launch Cruise Missile (ALCM)
+  abbreviation: ALCM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - missiles
+  variants:
+    - Air Launch Cruise Missile (ALCM)
+    - ALCM
+
+- official: ICBM FUZE MOD
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - missiles
+  variants:
+    - ICBM FUZE MOD
+
+- official: Industrial Preparedness/Pol Prevention
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - missiles
+  variants:
+    - Industrial Preparedness/Pol Prevention
+
+- official: "Joint Air-Surface Standoff Missile"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - missiles
+  variants:
+    - "Joint Air-Surface Standoff Missile"
+
+- official: Joint Strike Missile
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - missiles
+  variants:
+    - Joint Strike Missile
+
+- official: "Long Range Stand-Off Weapon"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - missiles
+  variants:
+    - "Long Range Stand-Off Weapon"
+
+- official: MM III Modifications
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - missiles
+  variants:
+    - MM III Modifications
+
+- official: "Missile Replacement Eq-Ballistic"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - missiles
+  variants:
+    - "Missile Replacement Eq-Ballistic"
+
+- official: Mk21A Reentry Vehicle
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - missiles
+  variants:
+    - Mk21A Reentry Vehicle
+
+- official: Msl Sprs/Repair Parts (Initial)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - missiles
+  variants:
+    - Msl Sprs/Repair Parts (Initial)
+
+- official: Msl Sprs/Repair Parts (Replen)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - missiles
+  variants:
+    - Msl Sprs/Repair Parts (Replen)
+
+- official: Predator Hellfire Missile
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - missiles
+  variants:
+    - Predator Hellfire Missile
+
+- official: "Replac Equip & War Consumables"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - missiles
+  variants:
+    - "Replac Equip & War Consumables"
+
+- official: SMALL DIAMETER BOMB II
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - missiles
+  variants:
+    - SMALL DIAMETER BOMB II
+
+- official: "Sidewinder (AIM-9X)"
+  abbreviation: "AIM-9X"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - missiles
+  variants:
+    - "Sidewinder (AIM-9X)"
+    - "AIM-9X"
+
+- official: Small Diameter Bomb
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - missiles
+  variants:
+    - Small Diameter Bomb
+
+- official: Special Update Programs
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - missiles
+  variants:
+    - Special Update Programs
+
+- official: "Stand-In Attack Weapon (SIAW)"
+  abbreviation: SIAW
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - missiles
+  variants:
+    - "Stand-In Attack Weapon (SIAW)"
+    - SIAW
+
+- official: "3D Expeditionary Long-Range Radar"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - "3D Expeditionary Long-Range Radar"
+
+- official: AFNET
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - AFNET
+
+- official: "Af Global Command & Control Sys"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - "Af Global Command & Control Sys"
+
+- official: "Air & Space Operations Center (AOC)"
+  abbreviation: AOC
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - "Air & Space Operations Center (AOC)"
+    - AOC
+
+- official: Air Force Physical Security System
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Air Force Physical Security System
+
+- official: "Air Traffic Control & Landing Sys"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - "Air Traffic Control & Landing Sys"
+
+- official: Base Comm Infrastructure
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Base Comm Infrastructure
+
+- official: Base Information Transpt Infrast (BITI) Wired
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Base Information Transpt Infrast (BITI) Wired
+
+- official: Base Maintenance Support Vehicles
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Base Maintenance Support Vehicles
+
+- official: Base Maintenance and Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Base Maintenance and Support Equipment
+
+- official: Base Procured Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Base Procured Equipment
+
+- official: Battlefield Airborne Control Node (BACN)
+  abbreviation: BACN
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Battlefield Airborne Control Node (BACN)
+    - BACN
+
+- official: C3 Countermeasures
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - C3 Countermeasures
+
+- official: Cap Vehicles
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Cap Vehicles
+
+- official: Cargo and Utility Vehicles
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Cargo and Utility Vehicles
+
+- official: Cheyenne Mountain Complex
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Cheyenne Mountain Complex
+
+- official: Combat Survivor Evader Locater
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Combat Survivor Evader Locater
+
+- official: Combat Training Ranges
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Combat Training Ranges
+
+- official: Comm Elect Mods
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Comm Elect Mods
+
+- official: Comsec Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Comsec Equipment
+
+- official: DARP RC135
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - DARP RC135
+
+- official: "DCGS-AF"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - "DCGS-AF"
+
+- official: "Defense Enterprise Accounting & Mgt Sys"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - "Defense Enterprise Accounting & Mgt Sys"
+
+- official: Engineering and EOD Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Engineering and EOD Equipment
+
+- official: Fire Fighting/Crash Rescue Vehicles
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Fire Fighting/Crash Rescue Vehicles
+
+- official: Fuels Support Equipment (FSE)
+  abbreviation: FSE
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Fuels Support Equipment (FSE)
+    - FSE
+
+- official: General Information Technology
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - General Information Technology
+
+- official: "Integrated Strat Plan & Analy Network (ISPAN)"
+  abbreviation: ISPAN
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - "Integrated Strat Plan & Analy Network (ISPAN)"
+    - ISPAN
+
+- official: Intelligence Comm Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Intelligence Comm Equipment
+
+- official: Intelligence Training Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Intelligence Training Equipment
+
+- official: "International Intel Tech & Architectures"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - "International Intel Tech & Architectures"
+
+- official: Joint Communications Support Element (JCSE)
+  abbreviation: JCSE
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Joint Communications Support Element (JCSE)
+    - JCSE
+
+- official: Joint Light Tactical Vehicle
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Joint Light Tactical Vehicle
+
+- official: "Maintenance Repair & Overhaul Initiative"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - "Maintenance Repair & Overhaul Initiative"
+
+- official: Materials Handling Vehicles
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Materials Handling Vehicles
+
+- official: Mechanized Material Handling Equip
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Mechanized Material Handling Equip
+
+- official: Medium Tactical Vehicle
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Medium Tactical Vehicle
+
+- official: Minimum Essential Emergency Comm N
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Minimum Essential Emergency Comm N
+
+- official: Mission Planning Systems
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Mission Planning Systems
+
+- official: Mobility Command And Control
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Mobility Command And Control
+
+- official: Mobility Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Mobility Equipment
+
+- official: National Airspace System
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - National Airspace System
+
+- official: POWER CONDITIONING EQUIPMENT
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - POWER CONDITIONING EQUIPMENT
+
+- official: Passenger Carrying Vehicles
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Passenger Carrying Vehicles
+
+- official: Personal Safety and Rescue Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Personal Safety and Rescue Equipment
+
+- official: Radio Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Radio Equipment
+
+- official: Runway Snow Remov And Cleaning Equ
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Runway Snow Remov And Cleaning Equ
+
+- official: STRATEGIC MICROELECTRONIC SUPPLY SYSTEM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - STRATEGIC MICROELECTRONIC SUPPLY SYSTEM
+
+- official: Security And Tactical Vehicles
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Security And Tactical Vehicles
+
+- official: Spares And Repair Parts
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Spares And Repair Parts
+
+- official: Spares and Repair Parts (Cyber)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Spares and Repair Parts (Cyber)
+
+- official: Special Purpose Vehicles
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Special Purpose Vehicles
+
+- official: Special Update Program
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Special Update Program
+
+- official: Strategic Command And Control
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Strategic Command And Control
+
+- official: "Strategic Mission Planning & Execution System"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - "Strategic Mission Planning & Execution System"
+
+- official: "Tactical C-E Equipment"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - "Tactical C-E Equipment"
+
+- official: Theater Air Control Sys Improvemen
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Theater Air Control Sys Improvemen
+
+- official: Theater Battle Mgt C2 System
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Theater Battle Mgt C2 System
+
+- official: USCENTCOM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - USCENTCOM
+
+- official: USSPACECOM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - USSPACECOM
+
+- official: USSTRATCOM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - USSTRATCOM
+
+- official: Weather Observation Forecast
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Weather Observation Forecast
+
+- official: Wide Area Surveillance (WAS)
+  abbreviation: WAS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - air-force
+    - ammunition
+  variants:
+    - Wide Area Surveillance (WAS)
+    - WAS
+
+- official: "AH-64 Apache Block IIIA Reman"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - aircraft
+  variants:
+    - "AH-64 Apache Block IIIA Reman"
+
+- official: "AH-64 MODS"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - aircraft
+  variants:
+    - "AH-64 MODS"
+
+- official: Aviation ASSURED PNT
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - aircraft
+  variants:
+    - Aviation ASSURED PNT
+
+- official: "CH-47 Helicopter"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - aircraft
+  variants:
+    - "CH-47 Helicopter"
+
+- official: CMWS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - aircraft
+  variants:
+    - CMWS
+
+- official: Common Infrared Countermeasures (CIRCM)
+  abbreviation: CIRCM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - aircraft
+  variants:
+    - Common Infrared Countermeasures (CIRCM)
+    - CIRCM
+
+- official: "Comms, Nav Surveillance"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - aircraft
+  variants:
+    - "Comms, Nav Surveillance"
+
+- official: Degraded Visual Environment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - aircraft
+  variants:
+    - Degraded Visual Environment
+
+- official: Future UAS Family
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - aircraft
+  variants:
+    - Future UAS Family
+
+- official: GATM Rollup
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - aircraft
+  variants:
+    - GATM Rollup
+
+- official: Gray Eagle Mods2
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - aircraft
+  variants:
+    - Gray Eagle Mods2
+
+- official: "Launcher Guided Missile: Longbow Hellfire XM2"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - aircraft
+  variants:
+    - "Launcher Guided Missile: Longbow Hellfire XM2"
+
+- official: "MQ-1 PAYLOAD"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - aircraft
+  variants:
+    - "MQ-1 PAYLOAD"
+
+- official: "MQ-1 UAV"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - aircraft
+  variants:
+    - "MQ-1 UAV"
+
+- official: Network And Mission Plan
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - aircraft
+  variants:
+    - Network And Mission Plan
+
+- official: SMALL UNMANNED AIRCRAFT SYSTEMS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - aircraft
+  variants:
+    - SMALL UNMANNED AIRCRAFT SYSTEMS
+
+- official: Spectrum Army SUAS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - aircraft
+  variants:
+    - Spectrum Army SUAS
+
+- official: UAS MODS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - aircraft
+  variants:
+    - UAS MODS
+
+- official: "UH-60 Black Hawk L and V Models"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - aircraft
+  variants:
+    - "UH-60 Black Hawk L and V Models"
+
+- official: "ARMY TACTICAL MSL SYS (ATACMS) - SYS SUM"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - missiles
+  variants:
+    - "ARMY TACTICAL MSL SYS (ATACMS) - SYS SUM"
+
+- official: COUNTER SMALL UNMANNED AERIAL SYSTEM INTERCEP
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - missiles
+  variants:
+    - COUNTER SMALL UNMANNED AERIAL SYSTEM INTERCEP
+
+- official: FAMILY OF LOW ALTITUDE UNMANNED SYSTEMS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - missiles
+  variants:
+    - FAMILY OF LOW ALTITUDE UNMANNED SYSTEMS
+
+- official: Hellfire Sys Summary
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - missiles
+  variants:
+    - Hellfire Sys Summary
+
+- official: "INDIRECT FIRE PROTECTION CAPABILITY INC 2-I"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - missiles
+  variants:
+    - "INDIRECT FIRE PROTECTION CAPABILITY INC 2-I"
+
+- official: INDUSTRIAL PREPAREDNESS ARMY MISSILE
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - missiles
+  variants:
+    - INDUSTRIAL PREPAREDNESS ARMY MISSILE
+
+- official: LETHAL MINIATURE AERIAL MISSILE SYSTEM (LMAMS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - missiles
+  variants:
+    - LETHAL MINIATURE AERIAL MISSILE SYSTEM (LMAMS
+
+- official: "LONG-RANGE HYPERSONIC WEAPON"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - missiles
+  variants:
+    - "LONG-RANGE HYPERSONIC WEAPON"
+
+- official: Lower Tier Air and Missile Defense (AMD) Sen
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - missiles
+  variants:
+    - Lower Tier Air and Missile Defense (AMD) Sen
+
+- official: "M-SHORAD - Procurement"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - missiles
+  variants:
+    - "M-SHORAD - Procurement"
+
+- official: "MID-RANGE CAPABILITY (MRC)"
+  abbreviation: MRC
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - missiles
+  variants:
+    - "MID-RANGE CAPABILITY (MRC)"
+    - MRC
+
+- official: PRECISION STRIKE MISSILE (PRSM)
+  abbreviation: PRSM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - missiles
+  variants:
+    - PRECISION STRIKE MISSILE (PRSM)
+    - PRSM
+
+- official: TOW 2 System Summary
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - missiles
+  variants:
+    - TOW 2 System Summary
+
+- official: ASSAULT BREACHER VEHICLE (ABV)
+  abbreviation: ABV
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - ASSAULT BREACHER VEHICLE (ABV)
+    - ABV
+
+- official: Abrams Upgrade Program
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - Abrams Upgrade Program
+
+- official: Armored Multi Purpose Vehicle (AMPV)
+  abbreviation: AMPV
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - Armored Multi Purpose Vehicle (AMPV)
+    - AMPV
+
+- official: BRADLEY FIRE SUPPORT TEAM (BFIST) VEHICLE
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - BRADLEY FIRE SUPPORT TEAM (BFIST) VEHICLE
+
+- official: Bradley Program (MOD)
+  abbreviation: MOD
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - Bradley Program (MOD)
+    - MOD
+
+- official: Carbine
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - Carbine
+
+- official: Handgun
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - Handgun
+
+- official: IMPROVED RECOVERY VEHICLE (M88 HERCULES)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - IMPROVED RECOVERY VEHICLE (M88 HERCULES)
+
+- official: Joint Assault Bridge
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - Joint Assault Bridge
+
+- official: "LOCATION & AZIMUTH DETERMINATION SYSTEM (LADS"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - "LOCATION & AZIMUTH DETERMINATION SYSTEM (LADS"
+
+- official: M109 FOV Modifications
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - M109 FOV Modifications
+
+- official: M119 Modifications
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - M119 Modifications
+
+- official: M2 50 Cal Machine Gun MODS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - M2 50 Cal Machine Gun MODS
+
+- official: M240 Medium Machine Gun (7.62mm)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - M240 Medium Machine Gun (7.62mm)
+
+- official: M777 Mods
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - M777 Mods
+
+- official: "MULTI-ROLE ANTI-ARMOR ANTI-PERSONNEL WEAPON S"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - "MULTI-ROLE ANTI-ARMOR ANTI-PERSONNEL WEAPON S"
+
+- official: "Machine Gun, Cal .50 M2 Roll"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - "Machine Gun, Cal .50 M2 Roll"
+
+- official: Mortar Modification
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - Mortar Modification
+
+- official: Next Generation Squad Weapon
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - Next Generation Squad Weapon
+
+- official: Paladin Integrated Management (PIM)
+  abbreviation: PIM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - Paladin Integrated Management (PIM)
+    - PIM
+
+- official: Personal Defense Weapon (Roll)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - Personal Defense Weapon (Roll)
+
+- official: Precision Sniper Rifle
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - Precision Sniper Rifle
+
+- official: Stryker (Mod)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - Stryker (Mod)
+
+- official: Stryker Upgrade
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - Stryker Upgrade
+
+- official: XM320 Grenade Launcher Module (GLM)
+  abbreviation: GLM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - weapons-tracked-vehicles
+  variants:
+    - XM320 Grenade Launcher Module (GLM)
+    - GLM
+
+- official: "120MM Mortar, All Types"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - "120MM Mortar, All Types"
+
+- official: "Ammo Components, All Types"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - "Ammo Components, All Types"
+
+- official: Ammunition Peculiar Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - Ammunition Peculiar Equipment
+
+- official: "Artillery Cartridges, 75MM & 105MM, All Types"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - "Artillery Cartridges, 75MM & 105MM, All Types"
+
+- official: "Artillery Propellants, Fuzes and Primers, All"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - "Artillery Propellants, Fuzes and Primers, All"
+
+- official: "CAD/PAD, All Types"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - "CAD/PAD, All Types"
+
+- official: "CTG, .50 Cal, All Types"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - "CTG, .50 Cal, All Types"
+
+- official: "CTG, 20mm, All Types"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - "CTG, 20mm, All Types"
+
+- official: "CTG, 25mm, All Types"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - "CTG, 25mm, All Types"
+
+- official: "CTG, 30mm, All Types"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - "CTG, 30mm, All Types"
+
+- official: "CTG, 40mm, All Types"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - "CTG, 40mm, All Types"
+
+- official: "CTG, 5.56MM, All Types"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - "CTG, 5.56MM, All Types"
+
+- official: "CTG, 7.62MM, All Types"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - "CTG, 7.62MM, All Types"
+
+- official: "CTG, Handgun, All Types"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - "CTG, Handgun, All Types"
+
+- official: "Cartridges, Tank, 105MM And 120MM, All Types"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - "Cartridges, Tank, 105MM And 120MM, All Types"
+
+- official: Close Terrain Shaping Obstacle
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - Close Terrain Shaping Obstacle
+
+- official: "Demolition Munitions, All Types"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - "Demolition Munitions, All Types"
+
+- official: First Destination Transportation (AMMO)
+  abbreviation: AMMO
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - First Destination Transportation (AMMO)
+    - AMMO
+
+- official: "Grenades, All Types"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - "Grenades, All Types"
+
+- official: Items Less Than $5 Million (AMMO)
+  abbreviation: AMMO
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - Items Less Than $5 Million (AMMO)
+    - AMMO
+
+- official: "MINE, AT, VOLCANO, All Types"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - "MINE, AT, VOLCANO, All Types"
+
+- official: NEXT GENERATION SQUAD WEAPON AMMUNITION
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - NEXT GENERATION SQUAD WEAPON AMMUNITION
+
+- official: "Non-Lethal Ammunition, All Types"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - "Non-Lethal Ammunition, All Types"
+
+- official: PRECISION ARTILLERY MUNITIONS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - PRECISION ARTILLERY MUNITIONS
+
+- official: REACTIVE ARMOR TILES
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - REACTIVE ARMOR TILES
+
+- official: "Rocket, Hydra 70, All Types"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - "Rocket, Hydra 70, All Types"
+
+- official: "Shoulder Launched Munitions, All Types"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - "Shoulder Launched Munitions, All Types"
+
+- official: "Signals, All Types"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - "Signals, All Types"
+
+- official: "Simulators, All Types"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - ammunition
+  variants:
+    - "Simulators, All Types"
+
+- official: AIAMD FAMILY OF SYSTEMS (FOS) COMPONENTS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - AIAMD FAMILY OF SYSTEMS (FOS) COMPONENTS
+
+- official: AIR VIGILANCE (AV)
+  abbreviation: AV
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - AIR VIGILANCE (AV)
+    - AV
+
+- official: ARCYBER DEFENSIVE CYBER OPERATIONS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - ARCYBER DEFENSIVE CYBER OPERATIONS
+
+- official: ARMY LINK 16 SYSTEMS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - ARMY LINK 16 SYSTEMS
+
+- official: ARNG HMMWV Modernization Program
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - ARNG HMMWV Modernization Program
+
+- official: All Terrain Cranes
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - All Terrain Cranes
+
+- official: Army Command Post Integrated Infrastructure (
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Army Command Post Integrated Infrastructure (
+
+- official: "Army Communications & Electronics"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "Army Communications & Electronics"
+
+- official: Army Watercraft Esp
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Army Watercraft Esp
+
+- official: "Assured Positioning, Navigation and Timing"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "Assured Positioning, Navigation and Timing"
+
+- official: BCT Emerging Technologies
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - BCT Emerging Technologies
+
+- official: BIOMETRIC TACTICAL COLLECTION DEVICES
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - BIOMETRIC TACTICAL COLLECTION DEVICES
+
+- official: BRIDGE SUPPLEMENTAL SET
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - BRIDGE SUPPLEMENTAL SET
+
+- official: "BUILDING, PRE-FAB, RELOCATABLE"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "BUILDING, PRE-FAB, RELOCATABLE"
+
+- official: Base Defense Systems (BDS)
+  abbreviation: BDS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Base Defense Systems (BDS)
+    - BDS
+
+- official: CBRN Defense
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - CBRN Defense
+
+- official: CI AND HUMINT INTELLIGENCE (HUMINT) CAPABILIT
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - CI AND HUMINT INTELLIGENCE (HUMINT) CAPABILIT
+
+- official: "CI AUTOMATION ARCHITECTURE-INTEL"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "CI AUTOMATION ARCHITECTURE-INTEL"
+
+- official: CI MODERNIZATION
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - CI MODERNIZATION
+
+- official: COE Tactical Server Infrastructure (TSI)
+  abbreviation: TSI
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - COE Tactical Server Infrastructure (TSI)
+    - TSI
+
+- official: COTS Communications Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - COTS Communications Equipment
+
+- official: "COUNTER SMALL UNMANNED AERIAL SYSTEM (C-SUAS)"
+  abbreviation: "C-SUAS"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "COUNTER SMALL UNMANNED AERIAL SYSTEM (C-SUAS)"
+    - "C-SUAS"
+
+- official: CSS Communications
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - CSS Communications
+
+- official: Common Bridge Transporter (CBT) Recap
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Common Bridge Transporter (CBT) Recap
+
+- official: Communications Security (COMSEC)
+  abbreviation: COMSEC
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Communications Security (COMSEC)
+    - COMSEC
+
+- official: "Computer Ballistics: LHMBC XM32"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "Computer Ballistics: LHMBC XM32"
+
+- official: Contract Writing System
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Contract Writing System
+
+- official: Defense Military Deception Initiative
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Defense Military Deception Initiative
+
+- official: Defensive CYBER Operations
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Defensive CYBER Operations
+
+- official: Disaster Incident Response Comms Terminal (DI
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Disaster Incident Response Comms Terminal (DI
+
+- official: "EW Planning & Management Tools (EWPMT)"
+  abbreviation: EWPMT
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "EW Planning & Management Tools (EWPMT)"
+    - EWPMT
+
+- official: Emergency Management Modernization Program
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Emergency Management Modernization Program
+
+- official: FAMILY OF PERSISTENT SURVEILLANCE CAP.
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - FAMILY OF PERSISTENT SURVEILLANCE CAP.
+
+- official: FAMILY OF WEAPON SIGHTS (FWS)
+  abbreviation: FWS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - FAMILY OF WEAPON SIGHTS (FWS)
+    - FWS
+
+- official: Family Of Engr Combat and Construction Sets
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Family Of Engr Combat and Construction Sets
+
+- official: Family Of Forklifts
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Family Of Forklifts
+
+- official: "Family Of Non-Lethal Equipment (FNLE)"
+  abbreviation: FNLE
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "Family Of Non-Lethal Equipment (FNLE)"
+    - FNLE
+
+- official: Family of Boats and Motors
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Family of Boats and Motors
+
+- official: "Family of Cold Weather All-Terrain Vehicle (C"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "Family of Cold Weather All-Terrain Vehicle (C"
+
+- official: Family of Diver Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Family of Diver Support Equipment
+
+- official: Family of Med Comm for Combat Casualty Care
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Family of Med Comm for Combat Casualty Care
+
+- official: Fire Support C2 Family
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Fire Support C2 Family
+
+- official: Force Provider
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Force Provider
+
+- official: Forward Looking Infrared (IFLIR)
+  abbreviation: IFLIR
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Forward Looking Infrared (IFLIR)
+    - IFLIR
+
+- official: General Fund Enterprise Business Systems Fam
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - General Fund Enterprise Business Systems Fam
+
+- official: Generators And Associated Equip
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Generators And Associated Equip
+
+- official: "Global Combat Support System-Army (GCSS-A)"
+  abbreviation: "GCSS-A"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "Global Combat Support System-Army (GCSS-A)"
+    - "GCSS-A"
+
+- official: Ground Mobility Vehicles (GMV)
+  abbreviation: GMV
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Ground Mobility Vehicles (GMV)
+    - GMV
+
+- official: Ground Soldier System
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Ground Soldier System
+
+- official: Handheld Manpack Small Form Fit (HMS)
+  abbreviation: HMS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Handheld Manpack Small Form Fit (HMS)
+    - HMS
+
+- official: "Handheld Standoff Minefield Detection Sys-HST"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "Handheld Standoff Minefield Detection Sys-HST"
+
+- official: "Heaters and ECU's"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "Heaters and ECU's"
+
+- official: High Mobility Engineer Excavator (HMEE)
+  abbreviation: HMEE
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - High Mobility Engineer Excavator (HMEE)
+    - HMEE
+
+- official: High Perf Computing Mod Pgm (HPCMP)
+  abbreviation: HPCMP
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - High Perf Computing Mod Pgm (HPCMP)
+    - HPCMP
+
+- official: IAMD Battle Command System
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - IAMD Battle Command System
+
+- official: Indirect Fire Protection Family Of Systems
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Indirect Fire Protection Family Of Systems
+
+- official: "Information System Security Program-ISSP"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "Information System Security Program-ISSP"
+
+- official: "Insider Threat Program - Unit Activity Monito"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "Insider Threat Program - Unit Activity Monito"
+
+- official: Installation Info Infrastructure Mod Program
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Installation Info Infrastructure Mod Program
+
+- official: "Integrated Personnel and Pay System-Army (IPP"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "Integrated Personnel and Pay System-Army (IPP"
+
+- official: Items Less Than $5.0M (Float/Rail)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Items Less Than $5.0M (Float/Rail)
+
+- official: Items Less Than $5M (Eng Spt)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Items Less Than $5M (Eng Spt)
+
+- official: "JOINT BATTLE COMMAND - PLATFORM (JBC-P)"
+  abbreviation: "JBC-P"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "JOINT BATTLE COMMAND - PLATFORM (JBC-P)"
+    - "JBC-P"
+
+- official: JOINT LIGHT TACTICAL VEHICLE FAMILY OF VEHICL
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - JOINT LIGHT TACTICAL VEHICLE FAMILY OF VEHICL
+
+- official: "JOINT TACTICAL GROUND STATION (JTAGS)-INTEL"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "JOINT TACTICAL GROUND STATION (JTAGS)-INTEL"
+
+- official: "JTT/CIBS-M"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "JTT/CIBS-M"
+
+- official: "MOD of In-Svc Equipment (ENFIRE)"
+  abbreviation: ENFIRE
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "MOD of In-Svc Equipment (ENFIRE)"
+    - ENFIRE
+
+- official: "MULTI-DOMAIN INTELLIGENCE"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "MULTI-DOMAIN INTELLIGENCE"
+
+- official: Maneuver Support Vessel (MSV)
+  abbreviation: MSV
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Maneuver Support Vessel (MSV)
+    - MSV
+
+- official: Mobile Maintenance Equipment Systems
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Mobile Maintenance Equipment Systems
+
+- official: Mobile Soldier Power
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Mobile Soldier Power
+
+- official: "Multi-Function Electronic Warfare (MFEW) Syst"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "Multi-Function Electronic Warfare (MFEW) Syst"
+
+- official: Network Management Initialization and Service
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Network Management Initialization and Service
+
+- official: Night Vision Devices
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Night Vision Devices
+
+- official: "NonTactical Vehicles, Other"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "NonTactical Vehicles, Other"
+
+- official: PLS ESP
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - PLS ESP
+
+- official: Personnel Recovery Support System (PRSS)
+  abbreviation: PRSS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Personnel Recovery Support System (PRSS)
+    - PRSS
+
+- official: Physical Security Systems (OPA3)
+  abbreviation: OPA3
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Physical Security Systems (OPA3)
+    - OPA3
+
+- official: QUALITY SURVEILLANCE EQUIPMENT
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - QUALITY SURVEILLANCE EQUIPMENT
+
+- official: Render Safe Sets kits Outfits
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Render Safe Sets kits Outfits
+
+- official: "Semitrailers, Flatbed:"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "Semitrailers, Flatbed:"
+
+- official: "Semitrailers, tankers"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "Semitrailers, tankers"
+
+- official: Signal Modernization Program
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Signal Modernization Program
+
+- official: Special Equipment for Test and Evaluation
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Special Equipment for Test and Evaluation
+
+- official: Spectrum METSAT
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Spectrum METSAT
+
+- official: TROJAN
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - TROJAN
+
+- official: Tactical Communications And Protective System
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Tactical Communications And Protective System
+
+- official: Tactical Electric Power Recapitalization
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Tactical Electric Power Recapitalization
+
+- official: Tactical Network Technology Mod In Svc
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Tactical Network Technology Mod In Svc
+
+- official: Tactical Wheeled Vehicle Protection Kits
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Tactical Wheeled Vehicle Protection Kits
+
+- official: Test Equipment Modernization (TEMOD)
+  abbreviation: TEMOD
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Test Equipment Modernization (TEMOD)
+    - TEMOD
+
+- official: "Tractor, Full Tracked"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - "Tractor, Full Tracked"
+
+- official: Transportable Tactical Command Communications
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Transportable Tactical Command Communications
+
+- official: Unified Command Suite
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - army
+    - other-procurement
+  variants:
+    - Unified Command Suite
+
+- official: Aegis Ashore Phase III
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Aegis Ashore Phase III
+
+- official: Aegis BMD
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Aegis BMD
+
+- official: Aegis BMD Hardware and Software
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Aegis BMD Hardware and Software
+
+- official: Arrow 3 Upper Tier Systems
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Arrow 3 Upper Tier Systems
+
+- official: "Automation/Educational Support & Logistics"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - "Automation/Educational Support & Logistics"
+
+- official: "BMDS AN/TPY-2 Radars"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - "BMDS AN/TPY-2 Radars"
+
+- official: "CB Protection & Hazard Mitigation"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - "CB Protection & Hazard Mitigation"
+
+- official: Chemical Biological Situational Awareness
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Chemical Biological Situational Awareness
+
+- official: Cyberspace Operations
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Cyberspace Operations
+
+- official: Defense of Guam Procurement
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Defense of Guam Procurement
+
+- official: Fourth Estate Network Optimization (4ENO)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Fourth Estate Network Optimization (4ENO)
+
+- official: Ground Based Midcourse
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Ground Based Midcourse
+
+- official: Information Systems Security
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Information Systems Security
+
+- official: Iron Dome
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Iron Dome
+
+- official: Items Less Than $5 Million
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Items Less Than $5 Million
+
+- official: "Joint Forces Headquarters - DODIN"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - "Joint Forces Headquarters - DODIN"
+
+- official: Joint Regional Security Stacks (JRSS)
+  abbreviation: JRSS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Joint Regional Security Stacks (JRSS)
+    - JRSS
+
+- official: Joint Service Provider
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Joint Service Provider
+
+- official: Major Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Major Equipment
+
+- official: "Major Equipment, OSD"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - "Major Equipment, OSD"
+
+- official: Other Major Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Other Major Equipment
+
+- official: "SM-3 IIAs"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - "SM-3 IIAs"
+
+- official: Senior Leadership Enterprise
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Senior Leadership Enterprise
+
+- official: Short Range Ballistic Missile Defense (SRBMD)
+  abbreviation: SRBMD
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Short Range Ballistic Missile Defense (SRBMD)
+    - SRBMD
+
+- official: THAAD
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - THAAD
+
+- official: Teleport Program
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Teleport Program
+
+- official: Unmanned ISR
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Unmanned ISR
+
+- official: Vehicles
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Vehicles
+
+- official: White House Communication Agency
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - White House Communication Agency
+
+- official: "Misc Equipment - AF Reserve"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - "Misc Equipment - AF Reserve"
+
+- official: "Misc Equipment - Air Force National Guard"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - "Misc Equipment - Air Force National Guard"
+
+- official: "Misc Equipment - Army National Guard"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - "Misc Equipment - Army National Guard"
+
+- official: "Misc Equipment - Army Reserve"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - "Misc Equipment - Army Reserve"
+
+- official: "Misc Equipment - Marine Corps Reserve"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - "Misc Equipment - Marine Corps Reserve"
+
+- official: "Misc Equipment - Navy Reserve"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - "Misc Equipment - Navy Reserve"
+
+- official: Defense Production Act Purchases
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Defense Production Act Purchases
+
+- official: 5 Inch/54 Gun Ammunition
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - 5 Inch/54 Gun Ammunition
+
+- official: Air Expendable Countermeasures
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Air Expendable Countermeasures
+
+- official: "Airborne Rockets, All Types"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - "Airborne Rockets, All Types"
+
+- official: Ammo Modernization
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Ammo Modernization
+
+- official: Ammunition Less Than $5 Million
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Ammunition Less Than $5 Million
+
+- official: Artillery Munitions
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Artillery Munitions
+
+- official: Cancelled Account Adjustments (87)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Cancelled Account Adjustments (87)
+
+- official: "Cartridges & Cart Actuated Devices"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - "Cartridges & Cart Actuated Devices"
+
+- official: Combat Support Munitions
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Combat Support Munitions
+
+- official: Direct Support Munitions
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Direct Support Munitions
+
+- official: Expeditionary Loitering Munitions
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Expeditionary Loitering Munitions
+
+- official: General Purpose Bombs
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - General Purpose Bombs
+
+- official: Infantry Weapons Ammunition
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Infantry Weapons Ammunition
+
+- official: Intermediate Caliber Gun Ammunition
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Intermediate Caliber Gun Ammunition
+
+- official: Items Less Than $5 Million
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Items Less Than $5 Million
+
+- official: JATOS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - JATOS
+
+- official: JDAM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - JDAM
+
+- official: Machine Gun Ammunition
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Machine Gun Ammunition
+
+- official: Mortars
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Mortars
+
+- official: Other Ship Gun Ammunition
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Other Ship Gun Ammunition
+
+- official: Practice Bombs
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Practice Bombs
+
+- official: Pyrotechnic and Demolition
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Pyrotechnic and Demolition
+
+- official: "Small Arms & Landing Party Ammo"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - "Small Arms & Landing Party Ammo"
+
+- official: "B-61"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - "B-61"
+
+- official: "B61-12 Trainer"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - "B61-12 Trainer"
+
+- official: Cad/Pad
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Cad/Pad
+
+- official: Cartridges
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Cartridges
+
+- official: Expendable Countermeasures
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Expendable Countermeasures
+
+- official: Explosive Ordnance Disposal (EOD)
+  abbreviation: EOD
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Explosive Ordnance Disposal (EOD)
+    - EOD
+
+- official: First Destination Transportation
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - First Destination Transportation
+
+- official: Fuzes
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Fuzes
+
+- official: General Purpose Bombs
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - General Purpose Bombs
+
+- official: "Items Less Than $5,000,000"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - "Items Less Than $5,000,000"
+
+- official: Joint Direct Attack Munition
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Joint Direct Attack Munition
+
+- official: Rockets
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Rockets
+
+- official: Small Arms
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Small Arms
+
+- official: Spares And Repair Parts
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Spares And Repair Parts
+
+- official: AF Satellite Comm System
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - AF Satellite Comm System
+
+- official: Cancelled Year Adjustments
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Cancelled Year Adjustments
+
+- official: Counterspace Systems
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Counterspace Systems
+
+- official: FABT FORCE ELEMENT TERMINAL
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - FABT FORCE ELEMENT TERMINAL
+
+- official: "Family of Beyond Line-of-Sight Terminals"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - "Family of Beyond Line-of-Sight Terminals"
+
+- official: GPS III Space Segment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - GPS III Space Segment
+
+- official: GPSIII Follow On
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - GPSIII Follow On
+
+- official: "General Information Tech - Space"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - "General Information Tech - Space"
+
+- official: Global Postioning (Space)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Global Postioning (Space)
+
+- official: HERITAGE TRANSITION
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - HERITAGE TRANSITION
+
+- official: Joint Tactical Ground Stations
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Joint Tactical Ground Stations
+
+- official: Judgement Fund Reimbursement
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Judgement Fund Reimbursement
+
+- official: MILSATCOM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - MILSATCOM
+
+- official: Mobile User Objective System
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Mobile User Objective System
+
+- official: NUDET Detection System
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - NUDET Detection System
+
+- official: National Security Space Launch
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - National Security Space Launch
+
+- official: PTES HUB
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - PTES HUB
+
+- official: Power Conditioning Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Power Conditioning Equipment
+
+- official: Rocket Systems Launch Program
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Rocket Systems Launch Program
+
+- official: SBIR High (Space)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - SBIR High (Space)
+
+- official: Space Development Agency Launch
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Space Development Agency Launch
+
+- official: Space Mods
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Space Mods
+
+- official: Spaceborne Equip (Comsec)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Spaceborne Equip (Comsec)
+
+- official: Spacelift Range System Space
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Spacelift Range System Space
+
+- official: Spares and Repair Parts
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Spares and Repair Parts
+
+- official: Special Space Activities
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Special Space Activities
+
+- official: USSF Replacement Vehicles
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - USSF Replacement Vehicles
+
+- official: Wideband Gapfiller Satellites(Space)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - defense-wide
+    - procurement
+  variants:
+    - Wideband Gapfiller Satellites(Space)
+
+- official: 155mm Lightweight Towed Howitzer
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - 155mm Lightweight Towed Howitzer
+
+- official: AAV7A1 PIP
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - AAV7A1 PIP
+
+- official: Air Operations C2 Systems
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Air Operations C2 Systems
+
+- official: Amphibious Combat Vehicle Family of Vehicles
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Amphibious Combat Vehicle Family of Vehicles
+
+- official: Amphibious Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Amphibious Support Equipment
+
+- official: "Anti-Armor Missile-Javelin"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - "Anti-Armor Missile-Javelin"
+
+- official: "Anti-Armor Missile-TOW"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - "Anti-Armor Missile-TOW"
+
+- official: Artillery Weapons System
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Artillery Weapons System
+
+- official: "Comm & Elec Infrastructure Support"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - "Comm & Elec Infrastructure Support"
+
+- official: "Comm Switching & Control Systems"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - "Comm Switching & Control Systems"
+
+- official: Command Post Systems
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Command Post Systems
+
+- official: Commercial Cargo Vehicles
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Commercial Cargo Vehicles
+
+- official: Common Aviation Command and Control System (C
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Common Aviation Command and Control System (C
+
+- official: Common Computer Resources
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Common Computer Resources
+
+- official: Cyber Mission Forces
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Cyber Mission Forces
+
+- official: Cyberspace Activities
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Cyberspace Activities
+
+- official: "DCGS-MC"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - "DCGS-MC"
+
+- official: DON UAS Video 5
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - DON UAS Video 5
+
+- official: EOD Systems
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - EOD Systems
+
+- official: Electro Magnetic Spectrum Operations (EMSO)
+  abbreviation: EMSO
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Electro Magnetic Spectrum Operations (EMSO)
+    - EMSO
+
+- official: Expeditionary Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Expeditionary Support Equipment
+
+- official: "Family Anti-Armor Weapon Systems (FOAAWS)"
+  abbreviation: FOAAWS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - "Family Anti-Armor Weapon Systems (FOAAWS)"
+    - FOAAWS
+
+- official: Family of Construction Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Family of Construction Equipment
+
+- official: Field Medical Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Field Medical Equipment
+
+- official: Fire Support System
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Fire Support System
+
+- official: "GCSS-MC"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - "GCSS-MC"
+
+- official: Ground Based Air Defense
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Ground Based Air Defense
+
+- official: Ground/Air Task Oriented Radar (G/ATOR)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Ground/Air Task Oriented Radar (G/ATOR)
+
+- official: Guided MLRS Rocket (GMLRS)
+  abbreviation: GMLRS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Guided MLRS Rocket (GMLRS)
+    - GMLRS
+
+- official: Intelligence Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Intelligence Support Equipment
+
+- official: Items Less Than $5 Million
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Items Less Than $5 Million
+
+- official: "Items Under $5 Million (Comm & Elec)"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - "Items Under $5 Million (Comm & Elec)"
+
+- official: LAV PIP
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - LAV PIP
+
+- official: Marine Corps Enterprise Network (MCEN)
+  abbreviation: MCEN
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Marine Corps Enterprise Network (MCEN)
+    - MCEN
+
+- official: Modification Kits
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Modification Kits
+
+- official: Motor Transport Modifications
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Motor Transport Modifications
+
+- official: Naval Strike Missile (NSM)
+  abbreviation: NSM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Naval Strike Missile (NSM)
+    - NSM
+
+- official: Physical Security Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Physical Security Equipment
+
+- official: Power Equipment Assorted
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Power Equipment Assorted
+
+- official: Radio Systems
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Radio Systems
+
+- official: Repair and Test Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Repair and Test Equipment
+
+- official: Spares and Repair Parts
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Spares and Repair Parts
+
+- official: Tactical Fuel Systems
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Tactical Fuel Systems
+
+- official: Tomahawk
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Tomahawk
+
+- official: Trailers
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Trailers
+
+- official: Training Devices
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Training Devices
+
+- official: UAS Payloads
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - UAS Payloads
+
+- official: "Ultra-Light Tactical Vehicle (ULTV)"
+  abbreviation: ULTV
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - "Ultra-Light Tactical Vehicle (ULTV)"
+    - ULTV
+
+- official: Unmanned Air Systems (Intel)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Unmanned Air Systems (Intel)
+
+- official: Unmanned Expeditionary Systems
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Unmanned Expeditionary Systems
+
+- official: Weapons and Combat Vehicles Under $5 Million
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - marine-corps
+    - procurement
+  variants:
+    - Weapons and Combat Vehicles Under $5 Million
+
+- official: "AV-8 Series"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "AV-8 Series"
+
+- official: Advanced Helicopter Training System
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - Advanced Helicopter Training System
+
+- official: Adversary
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - Adversary
+
+- official: Aircraft Industrial Facilities
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - Aircraft Industrial Facilities
+
+- official: Aviation Life Support Mods
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - Aviation Life Support Mods
+
+- official: "C-130 Series"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "C-130 Series"
+
+- official: "CH-53K (Heavy Lift)"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "CH-53K (Heavy Lift)"
+
+- official: Cancelled Account Adjustments
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - Cancelled Account Adjustments
+
+- official: Cargo/Transport A/C Series
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - Cargo/Transport A/C Series
+
+- official: Common Avionics Changes
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - Common Avionics Changes
+
+- official: Common Defensive Weapon System
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - Common Defensive Weapon System
+
+- official: Common ECM Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - Common ECM Equipment
+
+- official: Common Ground Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - Common Ground Equipment
+
+- official: DON Other 3 (TTNT)
+  abbreviation: TTNT
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - DON Other 3 (TTNT)
+    - TTNT
+
+- official: DON Other 4 (TTNT)
+  abbreviation: TTNT
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - DON Other 4 (TTNT)
+    - TTNT
+
+- official: DON Other 6 (TTNT)
+  abbreviation: TTNT
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - DON Other 6 (TTNT)
+    - TTNT
+
+- official: "E-2 Series"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "E-2 Series"
+
+- official: "E-2D Adv Hawkeye"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "E-2D Adv Hawkeye"
+
+- official: "E-6 Series"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "E-6 Series"
+
+- official: "EP-3 Series"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "EP-3 Series"
+
+- official: Executive Helicopters Series
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - Executive Helicopters Series
+
+- official: "F-18 A-D Unique"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "F-18 A-D Unique"
+
+- official: "F-18 Series"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "F-18 Series"
+
+- official: "F-18E/F and EA-18G Modernization and Sustainm"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "F-18E/F and EA-18G Modernization and Sustainm"
+
+- official: "F-35 CV Series"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "F-35 CV Series"
+
+- official: "F-35 STOVL Series"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "F-35 STOVL Series"
+
+- official: "F/A-18E/F (Fighter) Hornet"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "F/A-18E/F (Fighter) Hornet"
+
+- official: FEWSG
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - FEWSG
+
+- official: "H-1 Series"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "H-1 Series"
+
+- official: "H-1 Upgrades (UH-1Y/AH-1Z)"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "H-1 Upgrades (UH-1Y/AH-1Z)"
+
+- official: "H-53 Series"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "H-53 Series"
+
+- official: ID Systems
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - ID Systems
+
+- official: Infrared Search and Track (IRST)
+  abbreviation: IRST
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - Infrared Search and Track (IRST)
+    - IRST
+
+- official: JPATS Series
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - JPATS Series
+
+- official: Joint Strike Fighter CV
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - Joint Strike Fighter CV
+
+- official: "KC-130J"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "KC-130J"
+
+- official: MAGTF EW for Aviation
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - MAGTF EW for Aviation
+
+- official: "MH-60 Series"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "MH-60 Series"
+
+- official: "MQ-25"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "MQ-25"
+
+- official: "MQ-4 Series"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "MQ-4 Series"
+
+- official: "MQ-4 Triton"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "MQ-4 Triton"
+
+- official: "MQ-8 UAV"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "MQ-8 UAV"
+
+- official: Marine Group 5 UAS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - Marine Group 5 UAS
+
+- official: Marine Group 5 UAS Series
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - Marine Group 5 UAS Series
+
+- official: "Multi-Engine Training System (METS)"
+  abbreviation: METS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "Multi-Engine Training System (METS)"
+    - METS
+
+- official: Next Generation Jammer (NGJ)
+  abbreviation: NGJ
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - Next Generation Jammer (NGJ)
+    - NGJ
+
+- official: Other Production Charges
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - Other Production Charges
+
+- official: "P-8A Poseidon"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "P-8A Poseidon"
+
+- official: Power Plant Changes
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - Power Plant Changes
+
+- official: QRC
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - QRC
+
+- official: "RQ-21 Series"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "RQ-21 Series"
+
+- official: Spares and Repair Parts
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - Spares and Repair Parts
+
+- official: Special Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - Special Support Equipment
+
+- official: "T-45 Series"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "T-45 Series"
+
+- official: Trainer A/C Series
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - Trainer A/C Series
+
+- official: "V-22 (Tilt/Rotor ACFT) Osprey"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - "V-22 (Tilt/Rotor ACFT) Osprey"
+
+- official: War Consumables
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - aircraft
+  variants:
+    - War Consumables
+
+- official: "AARGM-ER"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - "AARGM-ER"
+
+- official: AMRAAM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - AMRAAM
+
+- official: ASW Range Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - ASW Range Support
+
+- official: ASW Targets
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - ASW Targets
+
+- official: Aerial Targets
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - Aerial Targets
+
+- official: Airborne Mine Neutralization Systems
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - Airborne Mine Neutralization Systems
+
+- official: CIWS Mods
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - CIWS Mods
+
+- official: Cancelled Account Adjustments
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - Cancelled Account Adjustments
+
+- official: Coast Guard Weapons
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - Coast Guard Weapons
+
+- official: Conventional Prompt Strike
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - Conventional Prompt Strike
+
+- official: DON PGM Transition Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - DON PGM Transition Support
+
+- official: ESSM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - ESSM
+
+- official: First Destination Transportation
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - First Destination Transportation
+
+- official: Gun Mount Mods
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - Gun Mount Mods
+
+- official: Hellfire
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - Hellfire
+
+- official: Industrial Preparedness
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - Industrial Preparedness
+
+- official: Joint Air Ground Missile (JAGM)
+  abbreviation: JAGM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - Joint Air Ground Missile (JAGM)
+    - JAGM
+
+- official: LCS Module Weapons
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - LCS Module Weapons
+
+- official: LRASM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - LRASM
+
+- official: "MK-48 Torpedo"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - "MK-48 Torpedo"
+
+- official: "MK-48 Torpedo ADCAP Mods"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - "MK-48 Torpedo ADCAP Mods"
+
+- official: "MK-54 Torpedo Mods"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - "MK-54 Torpedo Mods"
+
+- official: Maritime Mines
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - Maritime Mines
+
+- official: Missile Industrial Facilities
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - Missile Industrial Facilities
+
+- official: Naval Strike Missile (NSM)
+  abbreviation: NSM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - Naval Strike Missile (NSM)
+    - NSM
+
+- official: Ordnance Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - Ordnance Support Equipment
+
+- official: Other Missile Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - Other Missile Support
+
+- official: Ram
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - Ram
+
+- official: SSTD
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - SSTD
+
+- official: Sidewinder
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - Sidewinder
+
+- official: Small Arms and Weapons
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - Small Arms and Weapons
+
+- official: Spares and Repair Parts
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - Spares and Repair Parts
+
+- official: Standard Missile
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - Standard Missile
+
+- official: Standard Missiles Mods
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - Standard Missiles Mods
+
+- official: Tomahawk
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - Tomahawk
+
+- official: Tomahawk Mods
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - Tomahawk Mods
+
+- official: Torpedo Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - Torpedo Support Equipment
+
+- official: Weapons Industrial Facilities
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - weapons
+  variants:
+    - Weapons Industrial Facilities
+
+- official: Auxiliary Personnel Lighter
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - shipbuilding
+  variants:
+    - Auxiliary Personnel Lighter
+
+- official: Auxiliary Vessels (Used Sealift)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - shipbuilding
+  variants:
+    - Auxiliary Vessels (Used Sealift)
+
+- official: COLUMBIA Class Submarine
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - shipbuilding
+  variants:
+    - COLUMBIA Class Submarine
+
+- official: CVN Refueling Overhauls
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - shipbuilding
+  variants:
+    - CVN Refueling Overhauls
+
+- official: Completion of PY Shipbuilding Programs
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - shipbuilding
+  variants:
+    - Completion of PY Shipbuilding Programs
+
+- official: DDG 1000
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - shipbuilding
+  variants:
+    - DDG 1000
+
+- official: "DDG-51"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - shipbuilding
+  variants:
+    - "DDG-51"
+
+- official: Expeditionary Fast Transport (EPF)
+  abbreviation: EPF
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - shipbuilding
+  variants:
+    - Expeditionary Fast Transport (EPF)
+    - EPF
+
+- official: "FFG-Frigate"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - shipbuilding
+  variants:
+    - "FFG-Frigate"
+
+- official: LCAC SLEP
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - shipbuilding
+  variants:
+    - LCAC SLEP
+
+- official: LCU 1700
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - shipbuilding
+  variants:
+    - LCU 1700
+
+- official: LHA Replacement
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - shipbuilding
+  variants:
+    - LHA Replacement
+
+- official: LPD Flight II
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - shipbuilding
+  variants:
+    - LPD Flight II
+
+- official: Medium Landing Ship
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - shipbuilding
+  variants:
+    - Medium Landing Ship
+
+- official: Outfitting
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - shipbuilding
+  variants:
+    - Outfitting
+
+- official: Service Craft
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - shipbuilding
+  variants:
+    - Service Craft
+
+- official: Ship to Shore Connector
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - shipbuilding
+  variants:
+    - Ship to Shore Connector
+
+- official: TAO Fleet Oiler
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - shipbuilding
+  variants:
+    - TAO Fleet Oiler
+
+- official: "Towing, Salvage, and Rescue Ship (ATS)"
+  abbreviation: ATS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - shipbuilding
+  variants:
+    - "Towing, Salvage, and Rescue Ship (ATS)"
+    - ATS
+
+- official: Virginia Class Submarine
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - shipbuilding
+  variants:
+    - Virginia Class Submarine
+
+- official: "1695-1710 MHz Portal (Navy)"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - "1695-1710 MHz Portal (Navy)"
+
+- official: "AN/SLQ-32"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - "AN/SLQ-32"
+
+- official: "AN/SQQ-89 Surf ASW Combat System"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - "AN/SQQ-89 Surf ASW Combat System"
+
+- official: ASW Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - ASW Support Equipment
+
+- official: ATDLS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - ATDLS
+
+- official: Advanced Arresting Gear (AAG)
+  abbreviation: AAG
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Advanced Arresting Gear (AAG)
+    - AAG
+
+- official: Afloat ATC Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Afloat ATC Equipment
+
+- official: Airborne MCM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Airborne MCM
+
+- official: Aircraft Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Aircraft Support Equipment
+
+- official: American Forces Radio and TV Service
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - American Forces Radio and TV Service
+
+- official: Amphibious Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Amphibious Equipment
+
+- official: "Anti-Ship Missile Decoy System"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - "Anti-Ship Missile Decoy System"
+
+- official: "Architect & Cap for Autonomy in Nav Enter (AR"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - "Architect & Cap for Autonomy in Nav Enter (AR"
+
+- official: Ashore ATC Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Ashore ATC Equipment
+
+- official: Aviation Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Aviation Support Equipment
+
+- official: Battle Force Tactical Network
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Battle Force Tactical Network
+
+- official: C4ISR Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - C4ISR Equipment
+
+- official: CG Modernization
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - CG Modernization
+
+- official: Cancelled Account Adjustments
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Cancelled Account Adjustments
+
+- official: Chemical Warfare Detectors
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Chemical Warfare Detectors
+
+- official: Coast Guard Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Coast Guard Equipment
+
+- official: Command Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Command Support Equipment
+
+- official: Command and Control Switchboard
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Command and Control Switchboard
+
+- official: Communications Items Under $5M
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Communications Items Under $5M
+
+- official: "Construction & Maintenance Equip"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - "Construction & Maintenance Equip"
+
+- official: Cooperative Engagement Capability
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Cooperative Engagement Capability
+
+- official: Cryptologic Communications Equip
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Cryptologic Communications Equip
+
+- official: Cyber Mission Forces
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Cyber Mission Forces
+
+- official: Cyberspace Activities
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Cyberspace Activities
+
+- official: "DCGS-N"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - "DCGS-N"
+
+- official: DDG 1000 Class Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - DDG 1000 Class Support Equipment
+
+- official: DDG Mod
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - DDG Mod
+
+- official: DON Robotics
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - DON Robotics
+
+- official: "DON TRR-1 (Afloat)"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - "DON TRR-1 (Afloat)"
+
+- official: DON UAS Video 5 (Afloat)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - DON UAS Video 5 (Afloat)
+
+- official: DSSP Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - DSSP Equipment
+
+- official: Directed Energy Systems
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Directed Energy Systems
+
+- official: Diving and Salvage Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Diving and Salvage Equipment
+
+- official: EMI Control Instrumentation
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - EMI Control Instrumentation
+
+- official: Electromagnetic Aircraft Launch System (EMALS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Electromagnetic Aircraft Launch System (EMALS
+
+- official: Enterprise Information Technology
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Enterprise Information Technology
+
+- official: Environmental Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Environmental Support Equipment
+
+- official: Explosive Ordnance Disposal Equip
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Explosive Ordnance Disposal Equip
+
+- official: Fire Fighting Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Fire Fighting Equipment
+
+- official: Firefighting Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Firefighting Equipment
+
+- official: First Destination Transportation
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - First Destination Transportation
+
+- official: Fixed Surveillance System
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Fixed Surveillance System
+
+- official: GPETE
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - GPETE
+
+- official: General Purpose Trucks
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - General Purpose Trucks
+
+- official: Harpoon Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Harpoon Support Equipment
+
+- official: ID Systems
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - ID Systems
+
+- official: "In-Service Radars and Sensors"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - "In-Service Radars and Sensors"
+
+- official: Info Systems Security Program (ISSP)
+  abbreviation: ISSP
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Info Systems Security Program (ISSP)
+    - ISSP
+
+- official: Integ Combat System Test Facility
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Integ Combat System Test Facility
+
+- official: Items Less Than $5 Million
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Items Less Than $5 Million
+
+- official: Joint Communications Support Element (JCSE)
+  abbreviation: JCSE
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Joint Communications Support Element (JCSE)
+    - JCSE
+
+- official: Judgment Fund Reimbursement
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Judgment Fund Reimbursement
+
+- official: LCAC
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - LCAC
+
+- official: LCC 19/20 Extended Service Life Program
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - LCC 19/20 Extended Service Life Program
+
+- official: "LCS In-Service Modernization"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - "LCS In-Service Modernization"
+
+- official: LHA/LHD Midlife
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - LHA/LHD Midlife
+
+- official: MIO Intel Exploitation Team
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - MIO Intel Exploitation Team
+
+- official: Medical Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Medical Support Equipment
+
+- official: Meteorological Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Meteorological Equipment
+
+- official: Minesweeping System Replacement
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Minesweeping System Replacement
+
+- official: Minotaur
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Minotaur
+
+- official: "NAVY METOC-4"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - "NAVY METOC-4"
+
+- official: Naval MIP Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Naval MIP Support Equipment
+
+- official: Naval Mission Planning Systems
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Naval Mission Planning Systems
+
+- official: Naval Tactical Command Support System (NTCSS)
+  abbreviation: NTCSS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Naval Tactical Command Support System (NTCSS)
+    - NTCSS
+
+- official: Navstar GPS Receivers (SPACE)
+  abbreviation: SPACE
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Navstar GPS Receivers (SPACE)
+    - SPACE
+
+- official: Next Generation Enterprise Service
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Next Generation Enterprise Service
+
+- official: Operating Forces Ipe
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Operating Forces Ipe
+
+- official: Operating Forces Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Operating Forces Support Equipment
+
+- official: Other Drug Interdiction Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Other Drug Interdiction Support
+
+- official: Other Navigation Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Other Navigation Equipment
+
+- official: Passenger Carrying Vehicles
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Passenger Carrying Vehicles
+
+- official: Physical Security Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Physical Security Equipment
+
+- official: Physical Security Vehicles
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Physical Security Vehicles
+
+- official: Pollution Control Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Pollution Control Equipment
+
+- official: RADIAC
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - RADIAC
+
+- official: Reactor Components
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Reactor Components
+
+- official: Reactor Power Units
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Reactor Power Units
+
+- official: "SPQ-9B Radar"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - "SPQ-9B Radar"
+
+- official: SSN Acoustic Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - SSN Acoustic Equipment
+
+- official: SSN Combat Control Systems
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - SSN Combat Control Systems
+
+- official: SSTD
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - SSTD
+
+- official: SURTASS
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - SURTASS
+
+- official: Satellite Communications Systems
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Satellite Communications Systems
+
+- official: Ship Communications Automation
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Ship Communications Automation
+
+- official: Ship Gun Systems Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Ship Gun Systems Equipment
+
+- official: "Ship Maintenance, Repair and Modernization"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - "Ship Maintenance, Repair and Modernization"
+
+- official: Ship Missile Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Ship Missile Support Equipment
+
+- official: Shipboard IW Exploit
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Shipboard IW Exploit
+
+- official: Shipboard Tactical Communications
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Shipboard Tactical Communications
+
+- official: "Small & Medium UUV"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - "Small & Medium UUV"
+
+- official: "Sonobuoys - All Types"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - "Sonobuoys - All Types"
+
+- official: Spares and Repair Parts
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Spares and Repair Parts
+
+- official: Special Purpose Supply Systems
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Special Purpose Supply Systems
+
+- official: Standard Boats
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Standard Boats
+
+- official: Strategic Missile Systems Equip
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Strategic Missile Systems Equip
+
+- official: Strategic Platform Support Equip
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Strategic Platform Support Equip
+
+- official: "Sub Periscope, Imaging and Supt Equip Prog"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - "Sub Periscope, Imaging and Supt Equip Prog"
+
+- official: Submarine Acoustic Warfare System
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Submarine Acoustic Warfare System
+
+- official: Submarine Broadcast Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Submarine Broadcast Support
+
+- official: Submarine Communication Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Submarine Communication Equipment
+
+- official: Submarine Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Submarine Support Equipment
+
+- official: Submarine Training Device Mods
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Submarine Training Device Mods
+
+- official: Supply Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Supply Equipment
+
+- official: "Surface Combatant HM&E"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - "Surface Combatant HM&E"
+
+- official: Surface Power Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Surface Power Equipment
+
+- official: Surface Training Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Surface Training Equipment
+
+- official: Tactical Vehicles
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Tactical Vehicles
+
+- official: Tactical/Mobile C4I Systems
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Tactical/Mobile C4I Systems
+
+- official: Tomahawk Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Tomahawk Support Equipment
+
+- official: Training Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Training Support Equipment
+
+- official: Training and Education Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Training and Education Equipment
+
+- official: "UMCS-Unman Carrier Aviation(UCA)Mission Cntrl"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - "UMCS-Unman Carrier Aviation(UCA)Mission Cntrl"
+
+- official: USN (SESEF) Test Ranges
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - USN (SESEF) Test Ranges
+
+- official: USN Ashore/Shipboard CONOPS Verification and
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - USN Ashore/Shipboard CONOPS Verification and
+
+- official: USN EME Sensing and Monitoring
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - USN EME Sensing and Monitoring
+
+- official: "USN Training Ranges - Codify CONOPS/TTPs"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - "USN Training Ranges - Codify CONOPS/TTPs"
+
+- official: "USN Training Ranges - Spectrum Sensing"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - "USN Training Ranges - Spectrum Sensing"
+
+- official: Undersea Warfare Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Undersea Warfare Support Equipment
+
+- official: VIRGINIA Class (VACL) Spares and Repair parts
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - VIRGINIA Class (VACL) Spares and Repair parts
+
+- official: Virginia Class Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Virginia Class Support Equipment
+
+- official: Weapons Range Support Equipment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_p1.pdf"
+  tags:
+    - procurement
+    - p1
+    - navy
+    - other-procurement
+  variants:
+    - Weapons Range Support Equipment

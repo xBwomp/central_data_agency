@@ -1,0 +1,3459 @@
+# Operation & Maintenance Programs (O-1) — FY 2025 President's Budget
+# Source: https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf
+# Do not edit manually — re-run scripts/ingest/o1_programs.py to refresh
+
+- official: Administration
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - admin-servicewide
+  variants:
+    - Administration
+
+- official: "Air Operations Training (OJT, Maintain Skills)"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - "Air Operations Training (OJT, Maintain Skills)"
+
+- official: Airlift Operations
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - mobilization
+  variants:
+    - Airlift Operations
+
+- official: Base Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - Base Support
+
+- official: CENTCOM Cyberspace Sustainment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - CENTCOM Cyberspace Sustainment
+
+- official: Civil Air Patrol
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - admin-servicewide
+  variants:
+    - Civil Air Patrol
+
+- official: Civilian Education and Training
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - training-recruiting
+  variants:
+    - Civilian Education and Training
+
+- official: Classified Programs
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - Classified Programs
+
+- official: Combat Enhancement Forces
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - Combat Enhancement Forces
+
+- official: Contractor Logistics Support and System Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - Contractor Logistics Support and System Support
+
+- official: Cyberspace Activities
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - Cyberspace Activities
+
+- official: Cyberspace Sustainment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - Cyberspace Sustainment
+
+- official: Def Acquisition Workforce Development account
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - admin-servicewide
+  variants:
+    - Def Acquisition Workforce Development account
+
+- official: Depot Purchase Equipment Maintenance
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - Depot Purchase Equipment Maintenance
+
+- official: Examining
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - training-recruiting
+  variants:
+    - Examining
+
+- official: "Facilities Sustainment, Restoration & Modernization"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - "Facilities Sustainment, Restoration & Modernization"
+
+- official: Flight Training
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - training-recruiting
+  variants:
+    - Flight Training
+
+- official: Flying Hour Program
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - Flying Hour Program
+
+- official: Global C3I and Early Warning
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - Global C3I and Early Warning
+
+- official: International Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - admin-servicewide
+  variants:
+    - International Support
+
+- official: Joint Cyber Mission Force Programs
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - Joint Cyber Mission Force Programs
+
+- official: Judgement Fund Reimbursement
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - admin-servicewide
+  variants:
+    - Judgement Fund Reimbursement
+
+- official: Junior ROTC
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - training-recruiting
+  variants:
+    - Junior ROTC
+
+- official: Launch Facilities
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - Launch Facilities
+
+- official: Logistics Operations
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - admin-servicewide
+  variants:
+    - Logistics Operations
+
+- official: Medical Readiness
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - Medical Readiness
+
+- official: Mobilization Preparedness
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - mobilization
+  variants:
+    - Mobilization Preparedness
+
+- official: "Off-Duty and Voluntary Education"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - training-recruiting
+  variants:
+    - "Off-Duty and Voluntary Education"
+
+- official: Officer Acquisition
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - training-recruiting
+  variants:
+    - Officer Acquisition
+
+- official: Other Combat Ops Spt Programs
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - Other Combat Ops Spt Programs
+
+- official: Other Servicewide Activities
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - admin-servicewide
+  variants:
+    - Other Servicewide Activities
+
+- official: Primary Combat Forces
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - Primary Combat Forces
+
+- official: Professional Development Education
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - training-recruiting
+  variants:
+    - Professional Development Education
+
+- official: Recruit Training
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - training-recruiting
+  variants:
+    - Recruit Training
+
+- official: Recruiting and Advertising
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - training-recruiting
+  variants:
+    - Recruiting and Advertising
+
+- official: Reserve Officers Training Corps (ROTC)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - training-recruiting
+  variants:
+    - Reserve Officers Training Corps (ROTC)
+
+- official: Servicewide Communications
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - admin-servicewide
+  variants:
+    - Servicewide Communications
+
+- official: Specialized Skill Training
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - training-recruiting
+  variants:
+    - Specialized Skill Training
+
+- official: Technical Support Activities
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - admin-servicewide
+  variants:
+    - Technical Support Activities
+
+- official: Training Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - training-recruiting
+  variants:
+    - Training Support
+
+- official: US CENTCOM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - US CENTCOM
+
+- official: US CYBERCOM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - US CYBERCOM
+
+- official: US NORTHCOM/NORAD
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - US NORTHCOM/NORAD
+
+- official: US SOCOM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - US SOCOM
+
+- official: US STRATCOM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - US STRATCOM
+
+- official: US TRANSCOM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - US TRANSCOM
+
+- official: USSPACECOM
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - USSPACECOM
+
+- official: Administration
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - admin-servicewide
+  variants:
+    - Administration
+
+- official: Audiovisual
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - admin-servicewide
+  variants:
+    - Audiovisual
+
+- official: Base Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - Base Support
+
+- official: Contractor Logistics Support and System Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - Contractor Logistics Support and System Support
+
+- official: Cyberspace Activities
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - Cyberspace Activities
+
+- official: Depot Purchase Equipment Maintenance
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - Depot Purchase Equipment Maintenance
+
+- official: "Facilities Sustainment, Restoration & Modernization"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - "Facilities Sustainment, Restoration & Modernization"
+
+- official: Military Manpower and Pers Mgmt (ARPC)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - admin-servicewide
+  variants:
+    - Military Manpower and Pers Mgmt (ARPC)
+
+- official: Mission Support Operations
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - Mission Support Operations
+
+- official: Other Pers Support (Disability Comp)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - admin-servicewide
+  variants:
+    - Other Pers Support (Disability Comp)
+
+- official: Primary Combat Forces
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - operating-forces
+  variants:
+    - Primary Combat Forces
+
+- official: Recruiting and Advertising
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - air-force
+    - admin-servicewide
+  variants:
+    - Recruiting and Advertising
+
+- official: Additional Activities
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Additional Activities
+
+- official: Administration
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Administration
+
+- official: Ammunition Management
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Ammunition Management
+
+- official: Army Claims Activities
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Army Claims Activities
+
+- official: Army Prepositioned Stocks
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - mobilization
+  variants:
+    - Army Prepositioned Stocks
+
+- official: Aviation Assets
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Aviation Assets
+
+- official: Base Operations Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Base Operations Support
+
+- official: Central Supply Activities
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Central Supply Activities
+
+- official: Civilian Education and Training
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - training-recruiting
+  variants:
+    - Civilian Education and Training
+
+- official: Classified Programs
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Classified Programs
+
+- official: "Cyberspace Activities - Cybersecurity"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - "Cyberspace Activities - Cybersecurity"
+
+- official: "Cyberspace Activities - Cyberspace Operations"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - "Cyberspace Activities - Cyberspace Operations"
+
+- official: Def Acquisition Workforce Development Account
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Def Acquisition Workforce Development Account
+
+- official: Defense Environmental Restoration Account (DERA)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Defense Environmental Restoration Account (DERA)
+
+- official: Echelons Above Brigade
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Echelons Above Brigade
+
+- official: Energy Savings
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Energy Savings
+
+- official: Examining
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - training-recruiting
+  variants:
+    - Examining
+
+- official: "Facilities Sustainment, Restoration & Modernization"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - "Facilities Sustainment, Restoration & Modernization"
+
+- official: Financial Management and Audit Readiness
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Financial Management and Audit Readiness
+
+- official: Flight Training
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - training-recruiting
+  variants:
+    - Flight Training
+
+- official: Force Readiness Operations Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Force Readiness Operations Support
+
+- official: Foreign Currency Fluctuation
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Foreign Currency Fluctuation
+
+- official: Industrial Preparedness
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - mobilization
+  variants:
+    - Industrial Preparedness
+
+- official: International Military Headquarters
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - International Military Headquarters
+
+- official: Joint Cyber Mission Forces
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Joint Cyber Mission Forces
+
+- official: Judgment Fund
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Judgment Fund
+
+- official: Junior Reserve Officer Training Corps
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - training-recruiting
+  variants:
+    - Junior Reserve Officer Training Corps
+
+- official: Land Forces Depot Maintenance
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Land Forces Depot Maintenance
+
+- official: Land Forces Operations Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Land Forces Operations Support
+
+- official: Land Forces Systems Readiness
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Land Forces Systems Readiness
+
+- official: Logistic Support Activities
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Logistic Support Activities
+
+- official: Management and Operational Headquarters
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Management and Operational Headquarters
+
+- official: Maneuver Units
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Maneuver Units
+
+- official: Manpower Management
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Manpower Management
+
+- official: Medical Readiness
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Medical Readiness
+
+- official: Misc. Support of Other Nations
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Misc. Support of Other Nations
+
+- official: Modular Support Brigades
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Modular Support Brigades
+
+- official: "Off-Duty and Voluntary Education"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - training-recruiting
+  variants:
+    - "Off-Duty and Voluntary Education"
+
+- official: Officer Acquisition
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - training-recruiting
+  variants:
+    - Officer Acquisition
+
+- official: One Station Unit Training
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - training-recruiting
+  variants:
+    - One Station Unit Training
+
+- official: Other Personnel Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Other Personnel Support
+
+- official: Other Service Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Other Service Support
+
+- official: Professional Development Education
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - training-recruiting
+  variants:
+    - Professional Development Education
+
+- official: RESET
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - RESET
+
+- official: Real Estate Management
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Real Estate Management
+
+- official: Recruit Training
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - training-recruiting
+  variants:
+    - Recruit Training
+
+- official: Recruiting and Advertising
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - training-recruiting
+  variants:
+    - Recruiting and Advertising
+
+- official: Senior Reserve Officers Training Corps
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - training-recruiting
+  variants:
+    - Senior Reserve Officers Training Corps
+
+- official: Servicewide Communications
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Servicewide Communications
+
+- official: Servicewide Transportation
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Servicewide Transportation
+
+- official: Specialized Skill Training
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - training-recruiting
+  variants:
+    - Specialized Skill Training
+
+- official: Strategic Mobility
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - mobilization
+  variants:
+    - Strategic Mobility
+
+- official: Theater Level Assets
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Theater Level Assets
+
+- official: Training Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - training-recruiting
+  variants:
+    - Training Support
+
+- official: US Africa Command
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - US Africa Command
+
+- official: US European Command
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - US European Command
+
+- official: US Forces Korea
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - US Forces Korea
+
+- official: US Southern Command
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - US Southern Command
+
+- official: Administration
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Administration
+
+- official: Aviation Assets
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Aviation Assets
+
+- official: Base Operations Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Base Operations Support
+
+- official: "Cyberspace Activities - Cybersecurity"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - "Cyberspace Activities - Cybersecurity"
+
+- official: "Cyberspace Activities - Cyberspace Operations"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - "Cyberspace Activities - Cyberspace Operations"
+
+- official: Echelons Above Brigade
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Echelons Above Brigade
+
+- official: Energy Savings
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Energy Savings
+
+- official: "Facilities Sustainment, Restoration & Modernization"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - "Facilities Sustainment, Restoration & Modernization"
+
+- official: Force Readiness Operations Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Force Readiness Operations Support
+
+- official: Land Forces Depot Maintenance
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Land Forces Depot Maintenance
+
+- official: Land Forces Operations Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Land Forces Operations Support
+
+- official: Land Forces Systems Readiness
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Land Forces Systems Readiness
+
+- official: Management and Operational Headquarters
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Management and Operational Headquarters
+
+- official: Maneuver Units
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Maneuver Units
+
+- official: Manpower Management
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Manpower Management
+
+- official: Modular Support Brigades
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Modular Support Brigades
+
+- official: Other Personnel Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Other Personnel Support
+
+- official: Real Estate Management
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Real Estate Management
+
+- official: Servicewide Communications
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Servicewide Communications
+
+- official: Servicewide Transportation
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - admin-servicewide
+  variants:
+    - Servicewide Transportation
+
+- official: Theater Level Assets
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - army
+    - operating-forces
+  variants:
+    - Theater Level Assets
+
+- official: Activities
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Activities
+
+- official: CYBER
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - CYBER
+
+- official: Civil Military Programs
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Civil Military Programs
+
+- official: Classified Programs
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Classified Programs
+
+- official: Cyberspace Operations
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Cyberspace Operations
+
+- official: Defense Acquisition University
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - training-recruiting
+  variants:
+    - Defense Acquisition University
+
+- official: Defense Contract Audit Agency
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Defense Contract Audit Agency
+
+- official: "Defense Contract Audit Agency - CYBER"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - "Defense Contract Audit Agency - CYBER"
+
+- official: Defense Contract Management Agency
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Defense Contract Management Agency
+
+- official: "Defense Contract Management Agency - CYBER"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - "Defense Contract Management Agency - CYBER"
+
+- official: Defense Counterintelligence and Security Agency
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Defense Counterintelligence and Security Agency
+
+- official: Defense Human Resources Activity
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Defense Human Resources Activity
+
+- official: "Defense Human Resources Activity - CYBER"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - "Defense Human Resources Activity - CYBER"
+
+- official: Defense Information Systems Agency
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Defense Information Systems Agency
+
+- official: "Defense Information Systems Agency - CYBER"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - "Defense Information Systems Agency - CYBER"
+
+- official: Defense Legal Services Agency
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Defense Legal Services Agency
+
+- official: Defense Logistics Agency
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Defense Logistics Agency
+
+- official: Defense Media Activity
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Defense Media Activity
+
+- official: Defense POW/MIA Office
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Defense POW/MIA Office
+
+- official: Defense Security Cooperation Agency
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Defense Security Cooperation Agency
+
+- official: Defense Technology Security Administration
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Defense Technology Security Administration
+
+- official: Defense Threat Reduction Agency
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Defense Threat Reduction Agency
+
+- official: "Defense Threat Reduction Agency - CYBER"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - "Defense Threat Reduction Agency - CYBER"
+
+- official: Department of Defense Education Activity
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Department of Defense Education Activity
+
+- official: Education
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - training-recruiting
+  variants:
+    - Education
+
+- official: Headquarters
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Headquarters
+
+- official: Joint Chiefs of Staff
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Joint Chiefs of Staff
+
+- official: "Joint Chiefs of Staff - CYBER"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - "Joint Chiefs of Staff - CYBER"
+
+- official: "Joint Chiefs of Staff - JTEEP"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - "Joint Chiefs of Staff - JTEEP"
+
+- official: Missile Defense Agency
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Missile Defense Agency
+
+- official: Office of the Local Defense Community Cooperation
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Office of the Local Defense Community Cooperation
+
+- official: Office of the Secretary of Defense
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Office of the Secretary of Defense
+
+- official: "Office of the Secretary of Defense - CYBER"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - "Office of the Secretary of Defense - CYBER"
+
+- official: "Office of the Secretary of Defense - MISO"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - "Office of the Secretary of Defense - MISO"
+
+- official: Special Operations Command Cyberspace Activities
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Special Operations Command Cyberspace Activities
+
+- official: Special Operations Command Intelligence
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Special Operations Command Intelligence
+
+- official: Special Operations Command Maintenance
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Special Operations Command Maintenance
+
+- official: Special Operations Command Operational Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Special Operations Command Operational Support
+
+- official: Special Operations Command Theater Forces
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Special Operations Command Theater Forces
+
+- official: USCYBERCOM Headquarters
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - USCYBERCOM Headquarters
+
+- official: Washington Headquarters Services
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Washington Headquarters Services
+
+- official: "Us Court of Appeals for the Armed Forces, Defense"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - "Us Court of Appeals for the Armed Forces, Defense"
+
+- official: "Interdiction and Counter-Drug Activities, Defense"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - ba20
+  variants:
+    - "Interdiction and Counter-Drug Activities, Defense"
+
+- official: Office of the Inspector General
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Office of the Inspector General
+
+- official: "Office of the Inspector General - CYBER"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - "Office of the Inspector General - CYBER"
+
+- official: Acq Workforce Dev Fd
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Acq Workforce Dev Fd
+
+- official: PROC DoD Healthcare Management System Modernization
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - training-recruiting
+  variants:
+    - PROC DoD Healthcare Management System Modernization
+
+- official: PROC Initial Outfitting
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - training-recruiting
+  variants:
+    - PROC Initial Outfitting
+
+- official: PROC Joint Operational Medicine Information System
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - training-recruiting
+  variants:
+    - PROC Joint Operational Medicine Information System
+
+- official: "PROC Military Health System - Desktop to Datacenter"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - training-recruiting
+  variants:
+    - "PROC Military Health System - Desktop to Datacenter"
+
+- official: "PROC Replacement & Modernization"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - training-recruiting
+  variants:
+    - "PROC Replacement & Modernization"
+
+- official: "R&D Advanced Development"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - mobilization
+  variants:
+    - "R&D Advanced Development"
+
+- official: "R&D Capabilities Enhancement"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - mobilization
+  variants:
+    - "R&D Capabilities Enhancement"
+
+- official: "R&D Demonstration/Validation"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - mobilization
+  variants:
+    - "R&D Demonstration/Validation"
+
+- official: "R&D Engineering Development"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - mobilization
+  variants:
+    - "R&D Engineering Development"
+
+- official: "R&D Exploratry Development"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - mobilization
+  variants:
+    - "R&D Exploratry Development"
+
+- official: "R&D Management and Support"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - mobilization
+  variants:
+    - "R&D Management and Support"
+
+- official: "R&D Research"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - mobilization
+  variants:
+    - "R&D Research"
+
+- official: Cooperative Threat Reduction
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Cooperative Threat Reduction
+
+- official: "Overseas Humanitarian, Disaster and Civic Aid"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - "Overseas Humanitarian, Disaster and Civic Aid"
+
+- official: AMBIT Post Auction
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - AMBIT Post Auction
+
+- official: "AMBIT Pre-Auction"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - "AMBIT Pre-Auction"
+
+- official: Administration
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Administration
+
+- official: Base Operating Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Base Operating Support
+
+- official: CBRS (3550 MHz)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - CBRS (3550 MHz)
+
+- official: Cancelled Account Adjustment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Cancelled Account Adjustment
+
+- official: Classified Programs
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Classified Programs
+
+- official: Cyber Mission Forces
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Cyber Mission Forces
+
+- official: Cyberspace Activities
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Cyberspace Activities
+
+- official: DON TRR (Ashore)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - DON TRR (Ashore)
+
+- official: DON UAS Video 5
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - DON UAS Video 5
+
+- official: Depot Maintenance
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Depot Maintenance
+
+- official: Field Logistics
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Field Logistics
+
+- official: Forestry Program
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Forestry Program
+
+- official: HQMC Transition Management Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - HQMC Transition Management Support
+
+- official: Junior ROTC
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - training-recruiting
+  variants:
+    - Junior ROTC
+
+- official: Maritime Prepositioning
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Maritime Prepositioning
+
+- official: "Off-Duty and Voluntary Education"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - training-recruiting
+  variants:
+    - "Off-Duty and Voluntary Education"
+
+- official: Officer Acquisition
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - training-recruiting
+  variants:
+    - Officer Acquisition
+
+- official: Operational Forces
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Operational Forces
+
+- official: Professional Development Education
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - training-recruiting
+  variants:
+    - Professional Development Education
+
+- official: Recruit Training
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - training-recruiting
+  variants:
+    - Recruit Training
+
+- official: Recruiting and Advertising
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - training-recruiting
+  variants:
+    - Recruiting and Advertising
+
+- official: Recycling
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Recycling
+
+- official: Servicewide Transportation
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Servicewide Transportation
+
+- official: Specialized Skill Training
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - training-recruiting
+  variants:
+    - Specialized Skill Training
+
+- official: "Sustainment, Restoration & Modernization"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - "Sustainment, Restoration & Modernization"
+
+- official: Training Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - training-recruiting
+  variants:
+    - Training Support
+
+- official: USMC Commercial Industry Deployment Coordination
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - USMC Commercial Industry Deployment Coordination
+
+- official: USMC Engineering and Sharing Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - USMC Engineering and Sharing Support
+
+- official: USMC G/ATOR System Modifications
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - USMC G/ATOR System Modifications
+
+- official: Administration
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Administration
+
+- official: Aviation Assets
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Aviation Assets
+
+- official: Base Operations Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Base Operations Support
+
+- official: "Cyberspace Activities - Cybersecurity"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - "Cyberspace Activities - Cybersecurity"
+
+- official: "Cyberspace Activities - Cyberspace Operations"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - "Cyberspace Activities - Cyberspace Operations"
+
+- official: Echelons Above Brigade
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Echelons Above Brigade
+
+- official: Energy Savings
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Energy Savings
+
+- official: "Facilities Sustainment, Restoration & Modernization"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - "Facilities Sustainment, Restoration & Modernization"
+
+- official: Force Readiness Operations Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Force Readiness Operations Support
+
+- official: Land Forces Depot Maintenance
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Land Forces Depot Maintenance
+
+- official: Land Forces Operations Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Land Forces Operations Support
+
+- official: Land Forces Systems Readiness
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Land Forces Systems Readiness
+
+- official: Management and Operational Headquarters
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Management and Operational Headquarters
+
+- official: Manpower Management
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Manpower Management
+
+- official: Modular Support Brigades
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Modular Support Brigades
+
+- official: Other Personnel Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Other Personnel Support
+
+- official: Servicewide Communications
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Servicewide Communications
+
+- official: Servicewide Transportation
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Servicewide Transportation
+
+- official: Theater Level Assets
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Theater Level Assets
+
+- official: IRAQ
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - IRAQ
+
+- official: SYRIA
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - SYRIA
+
+- official: Administration
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Administration
+
+- official: Classified Programs
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Classified Programs
+
+- official: Contractor Logistics and System Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Contractor Logistics and System Support
+
+- official: Cyberspace Activities
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Cyberspace Activities
+
+- official: Depot Maintenance
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Depot Maintenance
+
+- official: "Education & Training"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - "Education & Training"
+
+- official: "Facilities Sustainment, Restoration & Modernization"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - "Facilities Sustainment, Restoration & Modernization"
+
+- official: "Global C3I & Early Warning"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - "Global C3I & Early Warning"
+
+- official: Judgement Fund Reimbursement
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Judgement Fund Reimbursement
+
+- official: Logistics Operations
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Logistics Operations
+
+- official: Space Launch Operations
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Space Launch Operations
+
+- official: Space Operations
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Space Operations
+
+- official: "Space Operations -BOS"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - "Space Operations -BOS"
+
+- official: Administration
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Administration
+
+- official: Aircraft Operations
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Aircraft Operations
+
+- official: Base Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Base Support
+
+- official: Contractor Logistics Support and System Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Contractor Logistics Support and System Support
+
+- official: Cyberspace Activities
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Cyberspace Activities
+
+- official: Cyberspace Sustainment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Cyberspace Sustainment
+
+- official: Depot Purchase Equipment Maintenance
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Depot Purchase Equipment Maintenance
+
+- official: "Facilities Sustainment, Restoration & Modernization"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - "Facilities Sustainment, Restoration & Modernization"
+
+- official: Mission Support Operations
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Mission Support Operations
+
+- official: Recruiting and Advertising
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Recruiting and Advertising
+
+- official: Defense Stockpile
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Defense Stockpile
+
+- official: LG Med Spd Ro/Ro Maintenance
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - mobilization
+  variants:
+    - LG Med Spd Ro/Ro Maintenance
+
+- official: MPF MLP
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - MPF MLP
+
+- official: National Def Sealift Vessel
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - mobilization
+  variants:
+    - National Def Sealift Vessel
+
+- official: Post Delivery and Outfitting
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Post Delivery and Outfitting
+
+- official: Research And Development
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - admin-servicewide
+  variants:
+    - Research And Development
+
+- official: TAH Maintenance
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - mobilization
+  variants:
+    - TAH Maintenance
+
+- official: Buildings Maintenance Fund
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Buildings Maintenance Fund
+
+- official: Defense Counterintelligence and Security Agency
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Defense Counterintelligence and Security Agency
+
+- official: of Department of Defense Real Property
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - ba20
+  variants:
+    - of Department of Defense Real Property
+
+- official: Contributions to the CTR Program
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - defense-wide
+    - operating-forces
+  variants:
+    - Contributions to the CTR Program
+
+- official: Administration
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - marine-corps
+    - admin-servicewide
+  variants:
+    - Administration
+
+- official: Base Operating Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - marine-corps
+    - operating-forces
+  variants:
+    - Base Operating Support
+
+- official: Depot Maintenance
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - marine-corps
+    - operating-forces
+  variants:
+    - Depot Maintenance
+
+- official: Operating Forces
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - marine-corps
+    - operating-forces
+  variants:
+    - Operating Forces
+
+- official: "Sustainment, Restoration and Modernization"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - marine-corps
+    - operating-forces
+  variants:
+    - "Sustainment, Restoration and Modernization"
+
+- official: "1695-1710 Portal (ITS)"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - "1695-1710 Portal (ITS)"
+
+- official: "1695-1710 Portal (Navy)"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - "1695-1710 Portal (Navy)"
+
+- official: AMBIT Post Auction
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - AMBIT Post Auction
+
+- official: "AMBIT Pre-Auction"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - "AMBIT Pre-Auction"
+
+- official: "Acquisition, Logistics, and Oversight"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - "Acquisition, Logistics, and Oversight"
+
+- official: Administration
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - Administration
+
+- official: Air Operations and Safety Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Air Operations and Safety Support
+
+- official: Air Systems Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Air Systems Support
+
+- official: Aircraft Depot Maintenance
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Aircraft Depot Maintenance
+
+- official: Aircraft Depot Operations Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Aircraft Depot Operations Support
+
+- official: Aviation Logistics
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Aviation Logistics
+
+- official: "Aviation Technical Data & Engineering Services"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - "Aviation Technical Data & Engineering Services"
+
+- official: Base Operating Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Base Operating Support
+
+- official: CBRS (3550 MHz)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - CBRS (3550 MHz)
+
+- official: Cancelled Account Adjustments
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - Cancelled Account Adjustments
+
+- official: Civilian Education and Training
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - training-recruiting
+  variants:
+    - Civilian Education and Training
+
+- official: Civilian Manpower and Personnel Management
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - Civilian Manpower and Personnel Management
+
+- official: Classified Programs
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - Classified Programs
+
+- official: Coast Guard Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - mobilization
+  variants:
+    - Coast Guard Support
+
+- official: Combat Communications and Electronic Warfare
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Combat Communications and Electronic Warfare
+
+- official: Combat Support Forces
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Combat Support Forces
+
+- official: Combatant Commanders Core Operations
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Combatant Commanders Core Operations
+
+- official: Combatant Commanders Direct Mission Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Combatant Commanders Direct Mission Support
+
+- official: Cyber Mission Forces
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Cyber Mission Forces
+
+- official: Cyberspace Activities
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Cyberspace Activities
+
+- official: DON CIO Oversight and Implementation
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - DON CIO Oversight and Implementation
+
+- official: DON HQ Transition Process Management
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - DON HQ Transition Process Management
+
+- official: DON Oversight and Implementation
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - DON Oversight and Implementation
+
+- official: DON Robotics
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - DON Robotics
+
+- official: DON Robotics Transition Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - DON Robotics Transition Support
+
+- official: "DON TRR-1 (Afloat)"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - "DON TRR-1 (Afloat)"
+
+- official: DON UAS Video 5 (Afloat)
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - DON UAS Video 5 (Afloat)
+
+- official: Def Acquisition Workforce Development Account
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - Def Acquisition Workforce Development Account
+
+- official: Enterprise Information
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Enterprise Information
+
+- official: Environmental Programs
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - Environmental Programs
+
+- official: Equipment Maintenance and Depot Operations Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Equipment Maintenance and Depot Operations Support
+
+- official: Expeditionary Health Services Systems
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - mobilization
+  variants:
+    - Expeditionary Health Services Systems
+
+- official: Fleet Air Training
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Fleet Air Training
+
+- official: Fleet Ballistic Missile
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Fleet Ballistic Missile
+
+- official: HQ Transition Process Management
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - HQ Transition Process Management
+
+- official: Investigative and Security Services
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - Investigative and Security Services
+
+- official: Judgement Fund
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - Judgement Fund
+
+- official: Junior ROTC
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - training-recruiting
+  variants:
+    - Junior ROTC
+
+- official: Medical Activities
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - Medical Activities
+
+- official: Military Manpower and Personnel Management
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - Military Manpower and Personnel Management
+
+- official: Mission and Other Flight Operations
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Mission and Other Flight Operations
+
+- official: Mission and Other Ship Operations
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Mission and Other Ship Operations
+
+- official: "Navy METOC-1"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - "Navy METOC-1"
+
+- official: "Navy METOC-4"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - "Navy METOC-4"
+
+- official: "Off-Duty and Voluntary Education"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - training-recruiting
+  variants:
+    - "Off-Duty and Voluntary Education"
+
+- official: Officer Acquisition
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - training-recruiting
+  variants:
+    - Officer Acquisition
+
+- official: Operational Meteorology and Oceanography
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Operational Meteorology and Oceanography
+
+- official: Other Weapon Systems Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Other Weapon Systems Support
+
+- official: "Planning, Engineering, and Program Support"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - "Planning, Engineering, and Program Support"
+
+- official: Professional Development Education
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - training-recruiting
+  variants:
+    - Professional Development Education
+
+- official: Ready Reserve Force
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - mobilization
+  variants:
+    - Ready Reserve Force
+
+- official: Recruit Training
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - training-recruiting
+  variants:
+    - Recruit Training
+
+- official: Recruiting and Advertising
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - training-recruiting
+  variants:
+    - Recruiting and Advertising
+
+- official: Reserve Officers Training Corps
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - training-recruiting
+  variants:
+    - Reserve Officers Training Corps
+
+- official: Servicewide Transportation
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - Servicewide Transportation
+
+- official: Ship Activations/Inactivations
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - mobilization
+  variants:
+    - Ship Activations/Inactivations
+
+- official: Ship Depot Maintenance
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Ship Depot Maintenance
+
+- official: Ship Depot Operations Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Ship Depot Operations Support
+
+- official: "Ship Operations Support & Training"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - "Ship Operations Support & Training"
+
+- official: Ship Prepositioning and Surge
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - mobilization
+  variants:
+    - Ship Prepositioning and Surge
+
+- official: Space Systems and Surveillance
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Space Systems and Surveillance
+
+- official: Specialized Skill Training
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - training-recruiting
+  variants:
+    - Specialized Skill Training
+
+- official: Spectrum Efficient National Surveillance Radar
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - Spectrum Efficient National Surveillance Radar
+
+- official: "Sustainment, Restoration and Modernization"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - "Sustainment, Restoration and Modernization"
+
+- official: Training Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - training-recruiting
+  variants:
+    - Training Support
+
+- official: "USMC METOC-3"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - "USMC METOC-3"
+
+- official: USN CBRS Sharing Ecosystem Assessment
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - USN CBRS Sharing Ecosystem Assessment
+
+- official: USN EME Sensing and Monitoring
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - USN EME Sensing and Monitoring
+
+- official: USN EMI Recognition
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - USN EMI Recognition
+
+- official: USN Engineering and Sharing Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - USN Engineering and Sharing Support
+
+- official: "USN Training Ranges - Spectrum Sensing"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - "USN Training Ranges - Spectrum Sensing"
+
+- official: Warfare Tactics
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Warfare Tactics
+
+- official: Weapons Maintenance
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Weapons Maintenance
+
+- official: Acquisition and Program Management
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - Acquisition and Program Management
+
+- official: Administration
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - Administration
+
+- official: Air Systems Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Air Systems Support
+
+- official: Aircraft Depot Maintenance
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Aircraft Depot Maintenance
+
+- official: Aircraft Depot Operations Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Aircraft Depot Operations Support
+
+- official: Aviation Logistics
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Aviation Logistics
+
+- official: Base Operating Support
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Base Operating Support
+
+- official: Cancelled Account Adjustments
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - Cancelled Account Adjustments
+
+- official: Combat Communications
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Combat Communications
+
+- official: Combat Support Forces
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Combat Support Forces
+
+- official: Cyberspace Activities
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Cyberspace Activities
+
+- official: Enterprise Information
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Enterprise Information
+
+- official: Intermediate Maintenance
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Intermediate Maintenance
+
+- official: Judgment Fund
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - Judgment Fund
+
+- official: Military Manpower and Personnel Management
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - admin-servicewide
+  variants:
+    - Military Manpower and Personnel Management
+
+- official: Mission and Other Flight Operations
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - Mission and Other Flight Operations
+
+- official: "Sustainment, Restoration and Modernization"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_o1.pdf"
+  tags:
+    - o-and-m
+    - navy
+    - operating-forces
+  variants:
+    - "Sustainment, Restoration and Modernization"

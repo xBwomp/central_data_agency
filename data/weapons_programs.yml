@@ -1,0 +1,971 @@
+# Major Weapon System Programs — FY 2025 President's Budget
+# Source: https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf
+# Do not edit manually — re-run scripts/ingest/weapons_programs.py to refresh
+
+- official: "F-35 Joint Strike Fighter"
+  abbreviation: "F-35"
+  description: "Provides all-weather, precision, stealthy, ground strike and air-to-air capability, including direct attack on the most lethal surface-to-air missiles and air defenses"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - joint
+  variants:
+    - "F-35"
+    - Joint Strike Fighter
+
+- official: "V-22 Osprey"
+  abbreviation: "V-22"
+  description: "Conducts airborne assault, vertical lift, combat search and rescue, and special operations missions. The CMV-22 variant replaces the Navy’s C-2A Greyhound for the COD mission"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - joint
+  variants:
+    - "V-22"
+    - Osprey
+
+- official: "C-130J Hercules"
+  abbreviation: "C-130J"
+  description: "Provides responsive air movement and delivery of combat troops/supplies directly into objective areas through air landing, extraction, airdrop, and the air logistics support of theater forces"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - joint
+  variants:
+    - "C-130J"
+    - Hercules
+
+- official: "MQ-1C Gray Eagle"
+  abbreviation: "MQ-1C"
+  description: "Operates over-the-horizon at medium altitude for long endurance and provides real-time intelligence, surveillance, reconnaissance, target acquisition, and strike capability to aggressively prosecute time-sensitive targets. The system includes a Synthetic Aperture Radar, Ground Moving Target Indicato"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - joint
+  variants:
+    - "MQ-1C"
+    - Gray Eagle
+
+- official: "MQ-9 Reaper"
+  abbreviation: "MQ-9"
+  description: "Provides reconnaissance and embedded strike capability against time-critical targets"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - joint
+  variants:
+    - "MQ-9"
+    - Reaper
+
+- official: "MQ-4C / RQ-4 Triton/Global Hawk/NATO AGS"
+  abbreviation: "MQ-4C / RQ-4"
+  description: "The Navy MQ-4C provides persistent maritime ISR and Multi-Intelligence (Multi-INT), while the USAF and NATO AGS RQ-4 systems perform high-altitude, near-real-time, high- resolution ISR collection. Both systems support Combatant Commander requirements while the MQ-4C also supports the numbered Fleet "
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - joint
+  variants:
+    - "MQ-4C / RQ-4"
+    - Triton/Global Hawk/NATO AGS
+
+- official: AO Armed Overwatch / Targeting
+  abbreviation: AO
+  description: "Provides CAS, precision strike, and armed ISR"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - joint
+  variants:
+    - AO
+    - Armed Overwatch / Targeting
+
+- official: "AH-64E Apache: Remanufacture/New Build"
+  abbreviation: "AH-64E"
+  description: "Conducts armed reconnaissance, close combat, mobile strike, and vertical maneuver missions in day, night, obscured battlefields, and adverse weather conditions"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - army
+  variants:
+    - "AH-64E"
+    - "Apache: Remanufacture/New Build"
+
+- official: "CH-47 Chinook"
+  abbreviation: "CH-47"
+  description: "Performs heavy lift missions, including troop transport, air assault, resupply in combat, combat support, and combat service support"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - army
+  variants:
+    - "CH-47"
+    - Chinook
+
+- official: "UH-60 Black Hawk"
+  abbreviation: "UH-60"
+  description: "Provides a highly maneuverable, air transportable, troop-carrying helicopter for all intensities of conflict without regard to geographical location or environmental conditions. It moves troops, equipment, and supplies into combat, performing aeromedical evacuation and multiple functions supporting "
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - army
+  variants:
+    - "UH-60"
+    - Black Hawk
+
+- official: "FLRAA Future Long-Range Assault Aircraft"
+  abbreviation: FLRAA
+  description: "Conducts air assault, urban assault/security, maritime interdiction, medical evacuation, humanitarian assistance/disaster relief, tactical resupply, direct action, noncombatant evacuation, and combat search and rescue operations. FLRAA will support the Army, including Special Operations Command (USS"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - army
+  variants:
+    - FLRAA
+    - "Future Long-Range Assault Aircraft"
+
+- official: "MQ-25 Stingray"
+  abbreviation: "MQ-25"
+  description: Conducts aerial refueling as a primary mission and provides ISR as a secondary mission
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - navy
+  variants:
+    - "MQ-25"
+    - Stingray
+
+- official: "F/A-18 Super Hornet"
+  abbreviation: "F/A-18"
+  description: "Provides multi-role attack and strike fighter capability, which includes the traditional applications, such as fighter escort and fleet air defense, combined with the attack applications, such as interdiction and close air support"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - navy
+  variants:
+    - "F/A-18"
+    - Super Hornet
+
+- official: "E-2D Advanced Hawkeye"
+  abbreviation: "E-2D"
+  description: Provides theater air and missile sensing and early warning; battlefield management command and control; acquisition tracking and targeting of surface warfare contacts; surveillance of littoral area objectives and targets; and tracking of strike warfare assets
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - navy
+  variants:
+    - "E-2D"
+    - Advanced Hawkeye
+
+- official: "CH-53K Heavy Lift Replacement Helicopter"
+  abbreviation: "CH-53K"
+  description: "Conducts expeditionary heavy-lift assault transport of armored vehicles, equipment, and personnel to support distributed operations deep inland from a sea-based center of operations"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - navy
+  variants:
+    - "CH-53K"
+    - Heavy Lift Replacement Helicopter
+
+- official: "B-21 Raider"
+  abbreviation: "B-21"
+  description: "Destroys strategic targets to debilitate an adversary’s capacity and capability to wage war. The B-21 will deliver the capability to operate in contested environments, counter emerging threats, and support the nuclear triad by providing a visible and flexible nuclear deterrent capability. Additional"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - army
+  variants:
+    - "B-21"
+    - Raider
+
+- official: "B-1, B-2, B-52 Bombers"
+  abbreviation: "B-1, B-2, B-52"
+  description: "Fly into enemy territory to destroy strategic targets such as major military installations, factories, and ports to debilitate an adversary’s capacity to wage war. The B-1B bomber can perform a variety of missions, including that of conventional carrier for theater operations and can rapidly deliver"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - army
+  variants:
+    - "B-1, B-2, B-52"
+    - Bombers
+
+- official: "KC-46A Pegasus"
+  abbreviation: "KC-46A"
+  description: "Provides the capability to refuel joint and coalition receivers via a boom or drogue system and will augment the airlift fleet with cargo, passenger, and aeromedical evacuation capabilities. The Air Force uses tanker aircraft to support these strategic, operational, and tactical missions across the "
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - army
+  variants:
+    - "KC-46A"
+    - Pegasus
+
+- official: "VC-25B Presidential Aircraft Recapitalization"
+  abbreviation: "VC-25B"
+  description: "Provides safe, secure, worldwide transport to ensure the President can execute the constitutional roles of Commander-in-Chief, Head of State, and Chief Executive"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - army
+  variants:
+    - "VC-25B"
+    - Presidential Aircraft Recapitalization
+
+- official: "F-22 Raptor"
+  abbreviation: "F-22"
+  description: "Provides the U.S. enhanced air superiority/global strike capability to counter and defeat air-to-air and air-to-ground threats in highly contested environment by conducting counter-air, destruction of enemy air defenses, and cruise missile defense missions"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - army
+  variants:
+    - "F-22"
+    - Raptor
+
+- official: "F-15 Eagle"
+  abbreviation: "F-15"
+  description: "Supports the fifth-generation fighter fleet to gain and maintain air superiority and provide global precision attack over the battlefield"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - army
+  variants:
+    - "F-15"
+    - Eagle
+
+- official: "HH-60W Combat Rescue Helicopter"
+  abbreviation: "HH-60W"
+  description: "Conducts day and night marginal weather CSAR to recover downed aircrew and isolated personnel in hostile environments. The HH-60W will perform various collateral missions, including casualty evacuation, medical evacuation, non-combat evacuation operations, civil search and rescue, international aid,"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - army
+  variants:
+    - "HH-60W"
+    - Combat Rescue Helicopter
+
+- official: "T-7A Advanced Pilot Training"
+  abbreviation: "T-7A"
+  description: "Provides student pilots in the Specialized Undergraduate Pilot Training advanced phase and Introduction to Fighter Fundamentals, the skills and competencies required to transition more effectively into fourth and fifth-generation fighter and bomber aircraft. The aircraft and maintenance simulators w"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - army
+  variants:
+    - "T-7A"
+    - Advanced Pilot Training
+
+- official: "MH-139A Grey Wolf"
+  abbreviation: "MH-139A"
+  description: "Partially replaces the Vietnam-era UH-1N fleet that provides emergency response and convoy support for the nuclear forces and address capability shortfalls in speed, range, endurance, and carrying capacity. Milestone C decision and low-rate initial production (LRIP) contract was awarded in March 202"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - army
+  variants:
+    - "MH-139A"
+    - Grey Wolf
+
+- official: "E-7A Airborne Warning and Control System Replacement"
+  abbreviation: "E-7A"
+  description: Provides Airborne Moving Target Indicator (AMTI)/Battle Management Command and Control (BMC2) capability
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - army
+  variants:
+    - "E-7A"
+    - Airborne Warning and Control System Replacement
+
+- official: "C-40 C-40 Fleet Expansion - -"
+  abbreviation: "C-40 C-40"
+  description: "Supports the top five users: Vice President, First Spouse, Secretary of State, Secretary of Defense, and Chairman of the Joint Chiefs of Staff"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - army
+  variants:
+    - "C-40 C-40"
+    - "Fleet Expansion - -"
+
+- official: TNT Tactical Network Technology
+  abbreviation: TNT
+  description: "Modernizes the Tactical Network as one the Army’s top six modernization priorities for multi-domain operations and supports the Army of 2030 and 2040 initiatives"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - army
+  variants:
+    - TNT
+    - Tactical Network Technology
+
+- official: "HMS Handheld, Manpack, and Small Form Fit Radios"
+  abbreviation: HMS
+  description: "Provide voice and data communications to the tactical edge and the expeditionary Warfighter with an OTM, ATH, and stationary LOS / BLOS capability for both dismounted personnel and mounted platforms"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - army
+  variants:
+    - HMS
+    - "Handheld, Manpack, and Small Form Fit Radios"
+
+- official: Cyberspace Cyberspace Activities
+  description: "Improve the cyber resiliency of the Joint Force and its supporting elements to ensure they can execute their missions successfully in contested cyberspace environments; strengthen the Joint Force by conducting cyberspace operations that enhance U.S. military advantages, harden weapon systems through"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - army
+  variants:
+    - Cyberspace Cyberspace Activities
+
+- official: CJADC2 CJADC2 Programs
+  abbreviation: CJADC2 CJADC2
+  description: "CJADC2 builds on the Air, Land Battle (Air Land Battle) framework of the Cold War, with a modern version extends the integration framework from two domains (air and land) to all domains including sea, space and cyber. It accelerates the command-and-control function to a continuous real-time decision"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - aviation
+    - army
+  variants:
+    - CJADC2 CJADC2
+    - Programs
+
+- official: JLTV Joint Light Tactical Vehicle
+  abbreviation: JLTV
+  description: "Provides protected, sustained, and networked light tactical mobility to the Joint forces capable of worldwide deployment across the full spectrum of military operations and mission profiles under all weather and terrain conditions"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - ground
+    - joint
+  variants:
+    - JLTV
+    - Joint Light Tactical Vehicle
+
+- official: "M-1 Abrams Tank Modification/Upgrades"
+  abbreviation: "M-1"
+  description: "Dominate adversaries through lethal firepower, unparalleled survivability, and audacious maneuver"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - ground
+    - army
+  variants:
+    - "M-1"
+    - Abrams Tank Modification/Upgrades
+
+- official: "AMPV Armored Multi-Purpose Vehicle"
+  abbreviation: AMPV
+  description: "Enable units to operate more securely and effectively with the tanks, Bradley vehicles, and self-propelled artillery pieces within the Armored Brigade Combat Team (ABCTs)"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - ground
+    - army
+  variants:
+    - AMPV
+    - "Armored Multi-Purpose Vehicle"
+
+- official: NGSW Next Generation Squad Weapon
+  abbreviation: NGSW
+  description: "Develop and field a NGSW, compliant with the Adaptive Squad Architecture, capable of defeating emerging protected and unprotected threats. The NGSW aims to improve engagement time, maximum effective range, accuracy, and target effects"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - ground
+    - army
+  variants:
+    - NGSW
+    - Next Generation Squad Weapon
+
+- official: PIM Paladin Integrated Management
+  abbreviation: PIM
+  description: "Provide the primary indirect fire support for Armored Brigade Combat Teams, armored and mechanized infantry divisions, and the full spectrum of operations"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - ground
+    - army
+  variants:
+    - PIM
+    - Paladin Integrated Management
+
+- official: Stryker Stryker Family of Armored Vehicles
+  description: Provides rapid protected transport to the Infantry and Scouts of the Stryker Brigade Combat Team (SBCT) allowing them to maneuver in open and urban terrain across the full spectrum of operations
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - ground
+    - army
+  variants:
+    - Stryker Stryker Family of Armored Vehicles
+
+- official: M10 M10 Booker (Mobile Protected Firepower)
+  abbreviation: M10 M10
+  description: "Provide Army Infantry Bridges with the mobile, protected firepower capability necessary to defeat enemy prepared positions, destroy enemy armored vehicles, close with the enemy through fire and maneuver, and ensure freedom of maneuver and action in close contact with the enemy"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - ground
+    - army
+  variants:
+    - M10 M10
+    - Booker (Mobile Protected Firepower)
+
+- official: FMTV Family of Medium Tactical Vehicles
+  abbreviation: FMTV
+  description: "Provides unit mobility and resupply of equipment and personnel for rapidly deployable worldwide operations on primary and secondary roads, trails, cross-country terrain, and all climatic conditions"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - ground
+    - army
+  variants:
+    - FMTV
+    - Family of Medium Tactical Vehicles
+
+- official: FHTV Family of Heavy Tactical Vehicles
+  abbreviation: FHTV
+  description: "Provide transportation of heavy cargo to supply and re-supply combat vehicles and weapons systems. The PLS is fielded to transportation units, ammunition units, and forward support battalions with the capability to self-load and transport a 20-foot container. The upgraded HEMTT A4 provides logistics"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - ground
+    - army
+  variants:
+    - FHTV
+    - Family of Heavy Tactical Vehicles
+
+- official: XM30 XM30 Combat Vehicle
+  abbreviation: XM30 XM30
+  description: "Maneuvers soldiers in the Forward Operating Environment to a position of advantage to engage in close combat and deliver decisive lethality. The XM30 Combat Vehicle is a Middle Tier Acquisition - Rapid Prototyping Program that must exceed current capabilities while overmatching similar threat class "
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - ground
+    - army
+  variants:
+    - XM30 XM30
+    - Combat Vehicle
+
+- official: ACV Amphibious Combat Vehicle
+  abbreviation: ACV
+  description: "Provides protected mobility and general support lift to elements of Marine Infantry battalions. The ACV is an advanced generation, eight-wheeled armored personnel carrier, capable of mitigating capability gaps by providing improved lethality against dismounted enemy troops through more effective lan"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - ground
+    - marine-corps
+  variants:
+    - ACV
+    - Amphibious Combat Vehicle
+
+- official: "GMD Ground-based Midcourse Defense"
+  abbreviation: GMD
+  description: "Provides the Combatant Commanders with capability to defend the United States, including Hawaii and Alaska, against long-range ballistic missiles in the midcourse phase of flight"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missile-defense
+    - joint
+  variants:
+    - GMD
+    - "Ground-based Midcourse Defense"
+
+- official: THAAD Terminal High Altitude Area Defense
+  abbreviation: THAAD
+  description: "Provides Combatant Commanders with a globally transportable, rapidly deployable capability against short-range, medium-range, and limited intermediate-range ballistic missile threats inside or outside the atmosphere during terminal phase of flight"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missile-defense
+    - joint
+  variants:
+    - THAAD
+    - Terminal High Altitude Area Defense
+
+- official: "Aegis Sea-Based Weapons System"
+  description: "Provides a forward-deployable, mobile, and Aegis Ashore capability to detect and track missiles of all ranges in all phases of flight with the ability to destroy missiles in the midcourse and terminal phases"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missile-defense
+    - joint
+  variants:
+    - "Aegis Sea-Based Weapons System"
+
+- official: PATRIOT / PAC–3 PATRIOT Advanced Capability
+  abbreviation: PATRIOT / PAC–3 PATRIOT
+  description: "Contributes to the Ballistic Missile Defense System overall situational awareness for short-range terminal ballistic missile and unmanned system threats. It can cue other systems while protecting Joint assets. The PATRIOT force is 15 battalions; many remain forward stationed in multiple theaters of "
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missile-defense
+    - army
+  variants:
+    - PATRIOT / PAC–3 PATRIOT
+    - Advanced Capability
+
+- official: "PAC-3 / MSE PAC-3/Missile Segment Enhancement"
+  abbreviation: "PAC-3 / MSE"
+  description: "Provide the Combatant Commanders with a hit-to-kill, surface-to-air missile that can intercept tactical ballistic missiles, cruise missiles, and air-breathing threats that have chemical, biological, radiological, nuclear, and conventional high explosive warheads. The MSE extends the PAC-3 range, fil"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missile-defense
+    - army
+  variants:
+    - "PAC-3 / MSE"
+    - "PAC-3/Missile Segment Enhancement"
+
+- official: JDAM Joint Direct Attack Munition
+  abbreviation: JDAM
+  description: "Enhances DoD conventional strike system capabilities by providing the ability to precisely attack time-critical, high value, fixed or maritime targets under adverse environmental conditions and from all altitudes"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missiles-munitions
+    - joint
+  variants:
+    - JDAM
+    - Joint Direct Attack Munition
+
+- official: SDB I Small Diameter Bomb I
+  abbreviation: SDB I
+  description: "Destroy targets from a medium-range standoff or close air support position deliverable by both fighter and bomber aircraft, with higher load-out and less collateral damage compared to other weapons"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missiles-munitions
+    - joint
+  variants:
+    - SDB I
+    - Small Diameter Bomb I
+
+- official: SDB II Small Diameter Bomb II
+  abbreviation: SDB II
+  description: "Destroys targets from a medium-range USAF Image standoff position deliverable by both fighter and bomber aircraft, with higher load-out and less collateral damage compared to other weapons"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missiles-munitions
+    - joint
+  variants:
+    - SDB II
+    - Small Diameter Bomb II
+
+- official: "JASSM Joint Air-to-Surface Standoff Missile"
+  abbreviation: JASSM
+  description: "Destroys high value targets from a long-range standoff position deliverable by fighter and bomber aircraft"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missiles-munitions
+    - joint
+  variants:
+    - JASSM
+    - "Joint Air-to-Surface Standoff Missile"
+
+- official: "AIM-9X Air Intercept Missile - 9X"
+  abbreviation: "AIM-9X"
+  description: "Destroys low and high altitude, high-speed enemy targets in an electronic countermeasures environment"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missiles-munitions
+    - joint
+  variants:
+    - "AIM-9X"
+    - "Air Intercept Missile - 9X"
+
+- official: "AMRAAM Advanced Medium Range Air-to-Air Missile"
+  abbreviation: AMRAAM
+  description: "Destroys low and high altitude, high-speed enemy targets in an electronic countermeasures environment. The AMRAAM is a fire-and-forget air-to-air missile and is the U.S.’s primary beyond visual range intercept missile. The current generation, AIM-120D, has a two-way datalink, Global Position System-"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missiles-munitions
+    - joint
+  variants:
+    - AMRAAM
+    - "Advanced Medium Range Air-to-Air Missile"
+
+- official: "Chem-Demil Chemical Demilitarization"
+  description: "There are two mission areas funded by the CAMD,D appropriation: • Decontaminate and decommission the ACWA program sites (Colorado and Kentucky) and continue secondary waste disposal from the Kentucky site. • Support the Chemical Stockpile Emergency Preparedness Program (CSEPP) emergency response cap"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missiles-munitions
+    - joint
+  variants:
+    - "Chem-Demil Chemical Demilitarization"
+
+- official: "JAGM Joint Air-to-Ground Missile"
+  abbreviation: JAGM
+  description: "Engages and defeats high value stationary, moving, and relocatable land and naval targets with precision point and fire-and-forget targeting day or night, in adverse weather, battlefield obscured conditions, and against a variety of countermeasures"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missiles-munitions
+    - joint
+  variants:
+    - JAGM
+    - "Joint Air-to-Ground Missile"
+
+- official: "LRASM Long Range Anti-Ship Missile"
+  abbreviation: LRASM
+  description: "Provide robust anti-surface warfare capability to ensure freedom of maneuver, maintain sea lines-of-communication, and extend joint warfighter combat reach in contested maritime environments"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missiles-munitions
+    - joint
+  variants:
+    - LRASM
+    - "Long Range Anti-Ship Missile"
+
+- official: AMMO Ammunition
+  abbreviation: AMMO
+  description: "Provide for the production and fielding of ammunition. Includes small, medium, and large caliber direct fire ammunition; artillery and mortar projectiles; grenades, area denial, shoulder launched munitions, rocket-assisted projectiles, countermine, and pyrotechnics"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missiles-munitions
+    - joint
+  variants:
+    - AMMO
+    - Ammunition
+
+- official: "AARGM-ER Advanced Anti-Radiation Guided Missile"
+  abbreviation: "AARGM-ER"
+  description: "AARGM-ER production units will prosecute integrated air defense systems supporting suppression and destruction of enemy air defenses missions"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missiles-munitions
+    - joint
+  variants:
+    - "AARGM-ER"
+    - "Advanced Anti-Radiation Guided Missile"
+
+- official: GMLRS Guided Multiple Launch Rocket System
+  abbreviation: GMLRS
+  description: "Complements cannon artillery fires by suppressing, neutralizing, or destroying enemy indirect fire support, air defense capabilities, and other light materiel/personnel targets"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missiles-munitions
+    - joint
+  variants:
+    - GMLRS
+    - Guided Multiple Launch Rocket System
+
+- official: "Javelin Javelin Advanced Anti-Tank Weapon System"
+  description: "Provides the dismounted soldier with the only man-portable, fire-and-forget system that is highly lethal against targets ranging from main battle tanks to fleeting targets of opportunity found in current threat environments"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missiles-munitions
+    - joint
+  variants:
+    - "Javelin Javelin Advanced Anti-Tank Weapon System"
+
+- official: PrSM Precision Strike Missile
+  description: "Destroy/neutralize/suppress targets at ranges from 70-400 km (threshold) using missile- delivered indirect precision fires"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missiles-munitions
+    - army
+  variants:
+    - PrSM Precision Strike Missile
+
+- official: Trident II Trident II Ballistic Missile Modifications
+  description: "Aboard a virtually undetectable platform, the submarine launched fleet ballistic missile deters nuclear war by means of assured second-strike capability in response to a major attack on the United States or its allies"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missiles-munitions
+    - navy
+  variants:
+    - Trident II Trident II Ballistic Missile Modifications
+
+- official: "SM-6 Standard Missile-"
+  abbreviation: "SM-6"
+  description: "Provides all-weather, anti-aircraft armament for cruisers and destroyers. The most recent variant of Standard Missile is SM-6, which incorporates an AMRAAM seeker for increased performance, including overland capability"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missiles-munitions
+    - navy
+  variants:
+    - "SM-6"
+    - "Standard Missile-"
+
+- official: RAM Rolling Airframe Missile
+  abbreviation: RAM
+  description: "Provides high firepower close-in defense of combatant and auxiliary ships by utilizing a dual mode, passive radio frequency/infrared missile in a compact 21 missile launcher"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missiles-munitions
+    - navy
+  variants:
+    - RAM
+    - Rolling Airframe Missile
+
+- official: NSM Naval Strike Missile
+  abbreviation: NSM
+  description: "Destroys low and high altitude, high-speed enemy targets in an electronic countermeasures environment"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missiles-munitions
+    - navy
+  variants:
+    - NSM
+    - Naval Strike Missile
+
+- official: Tomahawk Tactical Tomahawk Cruise Missile
+  description: Provides precision strike against long and medium range tactical targets
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missiles-munitions
+    - navy
+  variants:
+    - Tomahawk Tactical Tomahawk Cruise Missile
+
+- official: "LGM-35A Sentinel"
+  abbreviation: "LGM-35A"
+  description: "Provides land-based strategic nuclear deterrence, assurance, and stability by delivering a responsive and resilient capability. That assures allies do not need to expand their own capability, dissuades proliferation, and deters adversaries"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missiles-munitions
+    - army
+  variants:
+    - "LGM-35A"
+    - Sentinel
+
+- official: "LRSO Long Range Stand-Off Weapon"
+  abbreviation: LRSO
+  description: "Retains penetrating and survivable capabilities against advanced Integrated Air Defense Systems in GPS- denied environments from significant stand-off ranges, ensuring a credible deterrent. Combined with nuclear capable bombers, LRSO provides the nuclear triad with a clear, visible, and tailorable d"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - missiles-munitions
+    - army
+  variants:
+    - LRSO
+    - "Long Range Stand-Off Weapon"
+
+- official: CVN 78 Gerald R. Ford Class Nuclear Aircraft Carrier
+  abbreviation: CVN 78
+  description: "Provides the United States with the core capabilities for forward presence, deterrence, sea control, power projection, maritime security, and humanitarian assistance. The Gerald R. Ford class will be the premier forward asset for crisis response and early decisive striking power in a major combat op"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - shipbuilding
+    - navy
+  variants:
+    - CVN 78
+    - Gerald R. Ford Class Nuclear Aircraft Carrier
+
+- official: SSBN 826 Columbia Class Ballistic Missile Submarine
+  abbreviation: SSBN 826
+  description: "Provides a sea-based strategic nuclear force. Maintains an appropriate state of readiness to assist in deterring nuclear attack on the United States and its allies. Launches missiles against targets should deterrence fail. Performs extended strategic deterrent patrols without requiring assistance or"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - shipbuilding
+    - navy
+  variants:
+    - SSBN 826
+    - Columbia Class Ballistic Missile Submarine
+
+- official: SSN 774 Virginia Class Submarine
+  abbreviation: SSN 774
+  description: "Seeks and destroys enemy ships and submarines across a wide spectrum of scenarios, working independently and in concert with a battle group, separate ships, and independent units. Provides theater commanders with critical time sensitive information for accurate knowledge of the battlefield"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - shipbuilding
+    - navy
+  variants:
+    - SSN 774
+    - Virginia Class Submarine
+
+- official: DDG 51 Arleigh Burke Class Destroyer
+  abbreviation: DDG 51
+  description: "Operates within a carrier strike group or independently to provide multi-mission offensive and defensive capabilities. Conducts Anti-Air Warfare, Anti-Submarine Warfare, and Anti-Surface Warfare"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - shipbuilding
+    - navy
+  variants:
+    - DDG 51
+    - Arleigh Burke Class Destroyer
+
+- official: FFG(X) Constellation Class Guided Missile Frigate
+  abbreviation: FFG(X)
+  description: "Provides the Fleet with escort mission capabilities, performs naval-presence missions and conducts offensive operations"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - shipbuilding
+    - navy
+  variants:
+    - FFG(X)
+    - Constellation Class Guided Missile Frigate
+
+- official: CVN Refueling Complex Overhaul
+  abbreviation: CVN
+  description: "Refuel and upgrade the Nimitz class aircraft carriers at mid-life to ensure reliable operations during the remaining 25 plus years of ship life using only the normal maintenance cycle"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - shipbuilding
+    - navy
+  variants:
+    - CVN
+    - Refueling Complex Overhaul
+
+- official: LPD 17 San Antonio Class Amphibious Ship
+  abbreviation: LPD 17
+  description: "Transports and lands Marines, their equipment, and supplies by embarked Landing Craft Air Cushion (LCAC) or conventional landing craft and amphibious assault vehicles (AAV) augmented by helicopters or vertical take-off and landing aircraft (MV 22). These ships support amphibious assault, special ope"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - shipbuilding
+    - navy
+  variants:
+    - LPD 17
+    - San Antonio Class Amphibious Ship
+
+- official: "T-AO 205 John Lewis Class Fleet Replenishment Oiler"
+  abbreviation: "T-AO 205"
+  description: "Transfers fuel and lubricants to Navy surface ships operating at sea to extend at-sea time for the ships and embarked aircraft. The T-AO Class operates as shuttle ships from resupply posts to customer ships. Additionally, in conjunction with a T-AKE, they will accompany and stay on- station with a C"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - shipbuilding
+    - navy
+  variants:
+    - "T-AO 205"
+    - John Lewis Class Fleet Replenishment Oiler
+
+- official: USV Medium and Large Unmanned Surface Vessels
+  abbreviation: USV
+  description: "Supports combatant ships by providing additional Anti-Surface Warfare and Strike capacity"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - shipbuilding
+    - navy
+  variants:
+    - USV
+    - Medium and Large Unmanned Surface Vessels
+
+- official: LHA America Class Amphibious Assault Ship
+  abbreviation: LHA
+  description: "Provides forward presence and power projection as an integral part of joint, interagency, and multinational maritime expeditionary forces. Operates for sustained periods in transit to and operations in an Amphibious Objective Area to include the embarkation, deployment, and landing of a Marine Landi"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - shipbuilding
+    - navy
+  variants:
+    - LHA
+    - America Class Amphibious Assault Ship
+
+- official: LSM Medium Landing Ship
+  abbreviation: LSM
+  description: "Provides a highly maneuverable, mobile, independent, intra-theater range ship to complement the mix of traditional amphibious warfare ships. This ship will deploy tailored logistics, select power projection and support strike capabilities via the embarked MLR"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - shipbuilding
+    - navy
+  variants:
+    - LSM
+    - Medium Landing Ship
+
+- official: "NSSL & RSLP Launch Enterprise"
+  abbreviation: "NSSL & RSLP"
+  description: "To be the Guardians of Assured Access -- Launching when and where the nation needs it. Launch Enterprise provides highly reliable launch services and support under the NSSL program and launch services with tailorable mission assurance and support under the RSLP for DoD, Intelligence Community, and o"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - space
+    - space-force
+  variants:
+    - "NSSL & RSLP"
+    - Launch Enterprise
+
+- official: "GPS III & Projects Global Positioning System Enterprise"
+  abbreviation: "GPS III &"
+  description: Provides worldwide PNT to military and civilian users
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - space
+    - space-force
+  variants:
+    - "GPS III &"
+    - Projects Global Positioning System Enterprise
+
+- official: OPIR Space Based Missile Warning Systems
+  abbreviation: OPIR
+  description: "Provides warning and tracking of strategic missile attack on the United States, its deployed forces, and its allies. Supports missile defense, battlespace awareness, and technical intelligence"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - space
+    - space-force
+  variants:
+    - OPIR
+    - Space Based Missile Warning Systems
+
+- official: SATCOM Projects Satellite Communications (SATCOM) Projects
+  abbreviation: SATCOM
+  description: "Provides worldwide secure voice, video, and data communications for DoD users"
+  source: "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/FY2025_Weapons.pdf"
+  tags:
+    - weapons-program
+    - space
+    - space-force
+  variants:
+    - SATCOM
+    - Projects Satellite Communications (SATCOM) Projects
