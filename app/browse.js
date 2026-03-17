@@ -24,8 +24,10 @@
     entries: [],          // { official, abbreviation, description, tags, variants, _collection }
     collections: [],      // [{ name, label, count }]
     allTags: [],          // sorted unique tag strings
+    allSources: [],       // sorted unique source URLs
     activeCollection: '', // '' = all
     activeTags: new Set(),
+    activeSources: new Set(),
     query: '',
   };
 
@@ -37,6 +39,7 @@
     search:     $('search'),
     collList:   $('collection-list'),
     tagList:    $('tag-list'),
+    sourceList: $('source-list'),
     main:       $('main'),
     resultCount:$('result-count'),
     toolbarHint:$('toolbar-hint'),
@@ -70,6 +73,7 @@
       );
 
       const tagSet = new Set();
+      const sourceSet = new Set();
 
       results.forEach(r => {
         if (r.status === 'rejected') {
@@ -81,11 +85,13 @@
         entries.forEach(e => {
           state.entries.push({ ...e, _collection: name, _collectionLabel: label });
           (e.tags || []).forEach(t => tagSet.add(t));
+          if (e.source) sourceSet.add(e.source);
         });
         state.collections.push({ name, label, count: entries.length });
       });
 
       state.allTags = [...tagSet].sort();
+      state.allSources = [...sourceSet].sort();
 
       renderSidebar();
       renderResults();
@@ -97,8 +103,36 @@
     }
   }
 
+  const COLLECTION_LABELS = {
+    'mdap_programs':        'MDAP Programs',
+    'rdte_programs':        'RDT&E Programs',
+    'om_programs':          'O&M Programs',
+    'weapons_programs':     'Weapons Programs',
+    'procurement_programs': 'Procurement Programs',
+    'federal_agencies':     'Federal Agencies',
+    'military_services':    'Military Services',
+  };
+
   function labelFromName(name) {
+    if (COLLECTION_LABELS[name]) return COLLECTION_LABELS[name];
     return name.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+  }
+
+  function sourceLabel(url) {
+    if (!url) return '';
+    try {
+      const u = new URL(url);
+      const host = u.hostname.replace(/^www\./, '');
+      const file = u.pathname.split('/').pop() || '';
+      if (host.includes('comptroller.defense.gov')) return file || 'OSD Comptroller';
+      if (host.includes('usaspending.gov'))          return 'USASpending.gov';
+      if (host.includes('gao.gov'))                  return file || 'GAO';
+      if (host.includes('uscode.house.gov'))         return 'U.S. Code';
+      if (host.includes('defense.gov'))              return 'Defense.gov';
+      return file || host;
+    } catch {
+      return url;
+    }
   }
 
   // ── Sidebar ───────────────────────────────────────────────────────────────
@@ -123,6 +157,20 @@
       btn.setAttribute('aria-selected', 'false');
       btn.addEventListener('click', () => toggleTag(tag));
       el.tagList.appendChild(btn);
+    });
+
+    // Sources
+    el.sourceList.innerHTML = '';
+    state.allSources.forEach(src => {
+      const btn = document.createElement('button');
+      btn.className = 'source-btn';
+      btn.textContent = sourceLabel(src);
+      btn.title = src;
+      btn.dataset.source = src;
+      btn.setAttribute('role', 'option');
+      btn.setAttribute('aria-selected', 'false');
+      btn.addEventListener('click', () => toggleSource(src));
+      el.sourceList.appendChild(btn);
     });
   }
 
@@ -165,9 +213,24 @@
     renderResults();
   }
 
+  function toggleSource(src) {
+    if (state.activeSources.has(src)) {
+      state.activeSources.delete(src);
+    } else {
+      state.activeSources.add(src);
+    }
+    document.querySelectorAll('.source-btn').forEach(b => {
+      const active = state.activeSources.has(b.dataset.source);
+      b.classList.toggle('active', active);
+      b.setAttribute('aria-selected', String(active));
+    });
+    renderResults();
+  }
+
   function clearFilters() {
     state.activeCollection = '';
     state.activeTags.clear();
+    state.activeSources.clear();
     state.query = '';
     el.search.value = '';
     document.querySelectorAll('.coll-btn').forEach(b => {
@@ -176,6 +239,10 @@
       b.setAttribute('aria-selected', String(active));
     });
     document.querySelectorAll('.tag-btn').forEach(b => {
+      b.classList.remove('active');
+      b.setAttribute('aria-selected', 'false');
+    });
+    document.querySelectorAll('.source-btn').forEach(b => {
       b.classList.remove('active');
       b.setAttribute('aria-selected', 'false');
     });
@@ -209,12 +276,16 @@
           if (!entryTags.has(t)) return false;
         }
       }
+      // Source filter (any selected source must match)
+      if (state.activeSources.size > 0 && !state.activeSources.has(e.source)) return false;
       // Text search
       if (q) {
         const haystack = [
           e.official,
           e.abbreviation,
           e.description,
+          e.source,
+          e.source ? sourceLabel(e.source) : '',
           ...(e.variants || []),
         ].filter(Boolean).join(' ').toLowerCase();
         if (!haystack.includes(q)) return false;
@@ -225,7 +296,7 @@
 
   function renderResults() {
     const filtered = getFiltered();
-    const hasFilters = state.activeCollection || state.activeTags.size > 0 || state.query;
+    const hasFilters = state.activeCollection || state.activeTags.size > 0 || state.activeSources.size > 0 || state.query;
 
     // Toolbar
     el.resultCount.innerHTML = `<span>${filtered.length}</span> of ${state.entries.length} entries`;
@@ -308,6 +379,15 @@
         tagsDiv.appendChild(t);
       });
       card.appendChild(tagsDiv);
+    }
+
+    // Source
+    if (entry.source) {
+      const srcDiv = document.createElement('div');
+      srcDiv.className = 'card-source';
+      const lbl = sourceLabel(entry.source);
+      srcDiv.innerHTML = `<span class="card-source-label">src</span><a href="${escHtml(entry.source)}" target="_blank" rel="noopener" title="${escHtml(entry.source)}">${escHtml(lbl)}</a>`;
+      card.appendChild(srcDiv);
     }
 
     // Variants

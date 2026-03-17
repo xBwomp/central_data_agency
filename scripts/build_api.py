@@ -35,7 +35,20 @@ VALID_RELATIONSHIP_TYPES = {
 }
 
 
+_COLLECTION_LABELS: dict[str, str] = {
+    "mdap_programs":        "MDAP Programs",
+    "rdte_programs":        "RDT&E Programs",
+    "om_programs":          "O&M Programs",
+    "weapons_programs":     "Weapons Programs",
+    "procurement_programs": "Procurement Programs",
+    "federal_agencies":     "Federal Agencies",
+    "military_services":    "Military Services",
+}
+
+
 def label_from_name(name: str) -> str:
+    if name in _COLLECTION_LABELS:
+        return _COLLECTION_LABELS[name]
     return name.replace("_", " ").title()
 
 

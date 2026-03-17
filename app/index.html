@@ -105,8 +105,23 @@
       text-transform: uppercase;
     }
 
-    #header-status {
+    #header-right {
       margin-left: auto;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    #github-link {
+      font-size: 10px;
+      color: var(--text-faint);
+      text-decoration: none;
+      letter-spacing: 0.08em;
+      transition: color 0.15s;
+    }
+    #github-link:hover { color: var(--green-dim); }
+
+    #header-status {
       font-size: 10px;
       color: var(--text-faint);
       letter-spacing: 0.08em;
@@ -417,6 +432,60 @@
     .card-tag:hover { border-color: var(--green-dim); color: var(--green-dim); }
     .card-tag.active { background: var(--green-faint); border-color: var(--green-dim); color: var(--green); }
 
+    /* Source row */
+    .card-source {
+      font-size: 9px;
+      color: var(--text-faint);
+      letter-spacing: 0.06em;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .card-source-label {
+      color: var(--text-faint);
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+    }
+
+    .card-source a {
+      color: var(--green-dim);
+      text-decoration: none;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 260px;
+      display: inline-block;
+      vertical-align: middle;
+    }
+    .card-source a:hover { color: var(--green); text-decoration: underline; }
+
+    /* Source filter */
+    #source-list {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .source-btn {
+      background: none;
+      border: none;
+      border-radius: var(--radius);
+      padding: 4px 8px;
+      font-family: var(--mono);
+      font-size: 10px;
+      color: var(--text-dim);
+      cursor: pointer;
+      text-align: left;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      letter-spacing: 0.03em;
+      transition: background 0.1s, color 0.1s;
+    }
+    .source-btn:hover { background: var(--bg3); color: var(--text); }
+    .source-btn.active { background: var(--green-faint); color: var(--green); }
+
     /* Variants */
     .card-variants {
       border-top: 1px solid var(--border);
@@ -516,7 +585,10 @@
     <div id="header-logo">Central Data Agency</div>
     <div id="header-sep"></div>
     <div id="header-sub">Entity Registry</div>
-    <div id="header-status" aria-live="polite">INITIALIZING…</div>
+    <div id="header-right">
+      <a id="github-link" href="https://github.com/xBwomp/central_data_agency" target="_blank" rel="noopener">⌥ GitHub</a>
+      <div id="header-status" aria-live="polite">INITIALIZING…</div>
+    </div>
   </header>
 
   <div id="app">
@@ -539,6 +611,13 @@
       <div class="sidebar-section">
         <div class="sidebar-label">Tags</div>
         <div id="tag-list" role="group" aria-label="Filter by tag">
+          <!-- populated by JS -->
+        </div>
+      </div>
+
+      <div class="sidebar-section">
+        <div class="sidebar-label">Source</div>
+        <div id="source-list" role="group" aria-label="Filter by source">
           <!-- populated by JS -->
         </div>
       </div>
