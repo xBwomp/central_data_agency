@@ -1,0 +1,882 @@
+# MDAP Programs from Modernized Selected Acquisition Reports (MSARs) — FY 2023
+# Source: https://www.esd.whs.mil/Records-Declass/FOIA/Reading-Room/Reading-Room-List_2/Selected_Acquisition_Reports/FY_2023_SARS/
+# Do not edit manually — re-run scripts/ingest/msar_programs.py to refresh
+
+- official: "AH-64E Apache Remanufacture"
+  abbreviation: "AH-64E Remanufacture"
+  description: This field is intentionally left blank
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/AH-64E_Remanufacture_MSAR_Dec_2023.pdf"
+  # peo: PEO Aviation International Partners Egypt, Greece, Kuwait, Netherlands,
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "AH-64E Remanufacture"
+    - "AH-64E Apache Remanufacture"
+
+- official: "AIM-9X Block II Sidewinder"
+  abbreviation: "AIM-9X Blk II"
+  description: "The AIM-9X Block II Sidewinder (AIM-9X Blk II) short-range air-to-air missile is a long term evolution of the AIM-9 series of fielded missiles. The missile program provides a launch and leave, air combat munitions that uses passive Infrared (IR) energy for acquisition and tracking of enemy aircraft and complements the Advanced Medium Range Air-to-Air Missile. Air superiority in the short-range air"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/AIM-9X%20Blk%20II%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Unmanned Aviation & Strike Weapons
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "AIM-9X Blk II"
+    - "AIM-9X Block II Sidewinder"
+
+- official: "Advanced Anti-Radiation Guided Missile - Extended Range"
+  abbreviation: "AARGM-ER"
+  description: "The AGM-88G Advanced Anti-Radiation Guided Missile-Extended Range (AARGM-ER) is an air- launched missile with the capability to rapidly engage air-defense threats. The AARGM-ER configuration will leverage previous investments on the AGM-88E AARGM and incorporate a new solid rocket motor for increased range. AARGM-ER will be integrated on the F/A-18E/F Super Hornet and EA-18G Growler aircraft and c"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/AARGM-ER%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Unmanned Aviation & Strike Weapons
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "AARGM-ER"
+    - "Advanced Anti-Radiation Guided Missile - Extended Range"
+
+- official: Advanced Arresting Gear
+  abbreviation: AAG
+  description: "The Advanced Arresting Gear (AAG) program is a system-level acquisition for a new arresting gear for the GERALD R. FORD-class (CVN 78) aircraft carrier. The AAG is designed to provide total life-cycle cost savings by reducing O&M costs when compared to the NIMITZ-class (CVN 68). The AAG provides new operational capabilities required by the CVN 78-class, which include the ability to safely and effi"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/AAG%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Tactical Air International Partners France Acquisition Type
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - AAG
+    - Advanced Arresting Gear
+
+- official: Air Force Intercontinental Ballistic Missile Fuze Modernization
+  abbreviation: ICBM Fuze Mod
+  description: The Air Force ICBM Fuze Mod Program will provide arming and fuzing capability to the Mk21 Reentry Vehicle (RV)/W87 Warhead designed to support both the Minuteman III and Sentinel ICBM fleets from 2024 and beyond. The program continues to capitalize on collaboration with the National Nuclear Security Administration (NNSA) and the Navy Mark 5 Alt 370 program on the extensive fuze work done to date t
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/ICBM_Fuze_Mod_MSAR_Dec_2023.pdf"
+  # peo: Air Force Program Executive Officer/ Intercontinental Ballistic Missiles
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - ICBM Fuze Mod
+    - Air Force Intercontinental Ballistic Missile Fuze Modernization
+
+- official: Air and Missile Defense Radar Family of Radars
+  abbreviation: AMDR FoR
+  description: "Developed under the Air and Missile Defense Radar (AMDR) program, the AN/SPY-6(V)1 is the Navy's next generation radar system that will address Ballistic Missile Defense (BMD) and Air Defense (AD) capability gaps identified in the Maritime Air and Missile Defense of Joint Forces (MAMDJF) Initial Capabilities Document (ICD). AN/SPY-6(V)1 is an Integrated Air and Missile Defense (IAMD) radar providi"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/AMDR%20FoR%20MSAR%20Dec%202023%20As%20Amended.pdf"
+  # peo: PEO Integrated Warfare Systems
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - AMDR FoR
+    - Air and Missile Defense Radar Family of Radars
+
+- official: Amphibious Combat Vehicle Family of Vehicles
+  abbreviation: ACV FoV
+  description: "On January 8, 2019, an ADM was approved to combine the Amphibious Combat Vehicle (ACV) 1.1 Personnel Carrier program and the future ACV 1.2 program into one MDAP. The recommendation was based on the demonstrated performance of the ACV 1.1 program meeting key requirements for the ACV 1.2 such as ship-to-shore capability. The Milestone C ADM also directed the continued development of ACV Mission Rol"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/ACV%20FoV%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Land Systems Acquisition Type Major Defense Acquisition
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - ACV FoV
+    - Amphibious Combat Vehicle Family of Vehicles
+
+- official: "Armored Multi-Purpose Vehicle"
+  abbreviation: AMPV
+  description: "The Armored Multi-Purpose Vehicle (AMPV) is the materiel solution for replacement of the Army's Armored Personnel Carrier (M113) Family of Vehicles (FoV) within the Armored Brigade Combat Team (ABCT). It mitigates capability gaps in force protection, mobility, reliability, and interoperability."
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/AMPV_MSAR_Dec_2023.pdf"
+  # peo: PEO Ground Combat Systems (GCS) Acquisition Type Major
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - AMPV
+    - "Armored Multi-Purpose Vehicle"
+
+- official: Auxiliary General Ocean Surveillance Ship
+  abbreviation: "T-AGOS 25"
+  description: "Auxiliary General Ocean Surveillance (T-AGOS) ships gather underwater acoustical data to support the mission of the Integrated Undersea Surveillance System (IUSS) by providing a ship platform capable of theater anti-submarine acoustic passive and active surveillance. T-AGOS ships are operated by Military Sealift Command to support the anti-submarine warfare mission of the commanders of the Atlanti"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/T-AGOS%2025%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Ships Acquisition Type Major Defense Acquisition Program
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "T-AGOS 25"
+    - Auxiliary General Ocean Surveillance Ship
+
+- official: "B-52 Radar Modernization Program (RMP)"
+  abbreviation: "B-52 RMP"
+  description: "The B-52 Radar Modernization Program (RMP) supports nuclear and conventional operations by upgrading or replacing, in whole or in part, the current APQ-166 radar Line Replaceable Units (LRU) on the B-52H aircraft. The APQ-166 system will be increasingly difficult to sustain due to diminished manufacturing sources and obsolescent technologies; the current failure rate of the APQ-166 places long dur"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/B-52_RMP_MSAR_Dec_2023.pdf"
+  # peo: Bombers Directorate (AFPEO/BOMBERS) Acquisition Type Major Defense Acquisition
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "B-52 RMP"
+    - "B-52 Radar Modernization Program (RMP)"
+
+- official: "B-52J Commercial Engine Replacement Program"
+  abbreviation: "B-52J CERP"
+  description: "The B-52J Commercial Engine Replacement Program (CERP) supports nuclear and conventional operations by replacing the current TF33-PW-103 engine on the B-52H aircraft. The TF33- PW-103 engine is experiencing significant supportability challenges due to diminished manufacturing sources and obsolescent technologies. This program will replace the current TF33-PW-103 engine with new military derivative"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/B-52_CERP_MSAR_Dec_2023.pdf"
+  # peo: Bombers Directorate (AFPEO/BOMBERS) Acquisition Type Major Defense Acquisition
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "B-52J CERP"
+    - "B-52J Commercial Engine Replacement Program"
+
+- official: "CH-47F Modernized Cargo Helicopter"
+  abbreviation: "CH-47F Block II"
+  description: This field is intentionally left blank.
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/CH-47F_Block_II_MSAR_Dec_2023.pdf"
+  # peo: PEO Aviation International Partners Germany Acquisition Type Major
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "CH-47F Block II"
+    - "CH-47F Modernized Cargo Helicopter"
+
+- official: "CH-53K King Stallion"
+  abbreviation: "CH-53K"
+  description: "Joint Program International Partners No Israel Adaptive Acquisition Pathway Acquisition Type Major Capability Acquisition Major Defense Acquisition Program Acquisition Category Acquired Systems IC CH-53K Acquisition Status Active Acquisition Mission The CH-53K Heavy Lift Replacement Helicopter (CH-53K) program mission is to generate and support a robust United States Marine Corps heavy-lift capabi"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/CH-53K%20MSAR%20Dec%202023.pdf"
+  # peo: PEO ASW Assault & Special Mission International Partners
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "CH-53K"
+    - "CH-53K King Stallion"
+
+- official: CVN 78 Gerald R. Ford Class Nuclear Aircraft Carrier
+  abbreviation: CVN 78
+  description: "The CVN 78 Gerald R. Ford Class Nuclear Aircraft Carrier (CVN 78) is the successor to the NIMITZ Class (CVN 68) aircraft carrier. The CVN 78 mission is to provide credible, sustainable, independent forward presence during peacetime without access to land bases; operate as the cornerstone of a joint and/or allied maritime expeditionary force in response to crisis; and carry the war to the enemy thr"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/CVN%2078%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Aircraft Carriers Acquisition Type Major Defense Acquisition
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - CVN 78
+    - CVN 78 Gerald R. Ford Class Nuclear Aircraft Carrier
+
+- official: Common Infrared Countermeasure
+  abbreviation: CIRCM
+  description: "Common Infrared Countermeasure (CIRCM), an ACAT IC program, is a laser-based infrared (IR) countermeasure system designed to work in conjunction with Service missile warning systems. CIRCM provides laser based infrared countermeasure systems for rotary-wing, tilt-rotor, and small fixed wing aircraft across the Department of Defense."
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/CIRCM_MSAR_Dec_2023_cleared.pdf"
+  # peo: PEO Intelligence, Electronic Warfare & Sensors (IEWS) Acquisition
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - CIRCM
+    - Common Infrared Countermeasure
+
+- official: Cooperative Engagement Capability
+  abbreviation: CEC
+  description: "The Cooperative Engagement Capability (CEC) acquisition program is an ACAT IC program which is based on the Mission Needs Statement (MNS) M030-086-093 approved by the Chief of Naval Operations (CNO) on February 5, 1993. The CEC system makes it possible for multiple surface ships and aircrafts to form an air defense network for the purpose of sharing radar target measurements in real-time, thus a ?"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/CEC%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Integrated Warfare Systems
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - CEC
+    - Cooperative Engagement Capability
+
+- official: DDG 51 Arleigh Burke Class Guided Missile Destroyer
+  abbreviation: DDG 51
+  description: "The DDG 51 Arleigh Burke Class Guided Missile Destroyer (DDG 51) is a multi-mission guided missile destroyer designed to operate offensively and defensively, independently, or as units of Carrier Strike Groups, Expeditionary Strike Groups, and Surface Action Groups in multi-threat environments that include air, surface, and subsurface threats. These ships will respond to Low Intensity Conflict/Coa"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/DDG%2051%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Ships International Partners Australia, Canada, Japan, Korea
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - DDG 51
+    - DDG 51 Arleigh Burke Class Guided Missile Destroyer
+
+- official: "E-2D Advanced Hawkeye Aircraft"
+  abbreviation: "E-2D AHE"
+  description: "The E-2D Advanced Hawkeye Aircraft (E-2D AHE) is a carrier based, all weather, multi-mission aircraft. The E-2D AHE mission is to provide premier airborne Battle Management Command and Control and Surveillance as part of the Naval and Joint Integrated Air and Missile Defense architecture including the Naval Integrated Fire Control-Counter Air capability. The centerpiece of the E-2D AHE is the APY-"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/E-2D%20AHE%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Tactical Air International Partners France, Japan Acquisition
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "E-2D AHE"
+    - "E-2D Advanced Hawkeye Aircraft"
+
+- official: Expeditionary Fast Transport
+  abbreviation: EPF
+  description: "The Expeditionary Fast Transport (EPF), formerly known as the Joint High Speed Vessel (JHSV) is a shallow draft, commercial-based ship capable of intra-theater personnel and cargo lift providing combatant commanders high-speed sealift mobility with inherent cargo handling capability and the agility to achieve positional advantage over operational distances. Bridging the gap between low-speed sea l"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/EPF%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Ships
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - EPF
+    - Expeditionary Fast Transport
+
+- official: Expeditionary Sea Base
+  abbreviation: ESB
+  description: "The Expeditionary Transfer Dock (ESD) program (formerly Mobile Landing Platform (MLP)) originally supported procurement of three ships for the three Maritime Prepositioning Squadrons (MPSRONS). Each ESD provides three Landing Craft Air Cushion (LCAC) lanes, Skin- to-Skin ramp and fenders, and 25K square feet of raised vehicle deck. The Sea Base Surface Interface Hub enables transfer of personnel a"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/ESB%20MSAR%20Dec%202023%20Cleared%20V2.pdf"
+  # peo: PEO Ships Acquisition Type Major Defense Acquisition Program
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - ESB
+    - Expeditionary Sea Base
+
+- official: "F-15 EX MDAP"
+  description: "The F-15EX is based on the 2-seat F-15QA (Qatar) configuration upgraded with USAF-only capabilities, including the Eagle Passive Active Warning and Survivability System (EPAWSS) and the Suite 9.1 Operational Flight Program (OFP) software. With two seats, it will be multirole- capable and operable by one or two aircrew. Many F-15C/Ds are beyond their service life and have SERIOUS structure risks, w"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/F-15_EX_MDAP_MSAR_Dec_2023.pdf"
+  # peo: Fighters and Advanced Aircraft Directorate (AFPEO/F&AA) Acquisition Type
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "F-15 EX MDAP"
+
+- official: "F-15 Eagle Passive Active Warning Survivability System"
+  abbreviation: "F-15 EPAWSS"
+  description: "The F-15 EPAWSS upgrade will significantly improve the F-15's capability to autonomously and automatically detect, identify and locate radio frequency (RF) threats as well as provide the ability to deny, degrade, deceive, disrupt and defeat RF and electro-optical / infrared (EO / IR) threat systems in contested and unplanned operations within highly contested environments through 2040. The F-15 EP"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/F-15_EPAWSS_MSAR_Dec_2023.pdf"
+  # peo: Fighters and Advanced Aircraft Directorate (AFPEO/F&AA) Acquisition Type
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "F-15 EPAWSS"
+    - "F-15 Eagle Passive Active Warning Survivability System"
+
+- official: "F-35 Lightning II Joint Strike Fighter (JSF) Program"
+  abbreviation: "F-35"
+  description: "The F-35 Lightning II Program will develop and field an affordable, highly common family of next- generation strike aircraft for the U.S. Navy, Air Force, Marine Corps, and allies. The three variants are the F-35A; F-35B; and the F-35C. The F-35A will be a stealthy multi-role aircraft, primarily air- to-ground, for the Air Force to replace the F-16 and A-10 and complement the F-22. The F-35B varia"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/F-35%20MSAR%20Dec%202023.pdf"
+  # peo: PEO F-35 Lightning II
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "F-35"
+    - "F-35 Lightning II Joint Strike Fighter (JSF) Program"
+
+- official: FFG 62 Guided Missile Frigate
+  abbreviation: FFG 62
+  description: "The CONSTELLATION Class Frigates are designed to be highly capable and survivable multi- mission platform designed for operations in blue water and the littoral environments. The platform will be able to conduct independent operations or as part of a Carrier and Expeditionary Strike Groups or a Surface Action Groups manned and equipped for Navy Composite Warfare and Joint Maritime Operations. The "
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/FFG%2062%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Unmanned and Small Surface Combatants Acquisition Type
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - FFG 62
+    - FFG 62 Guided Missile Frigate
+
+- official: "Global Positioning System III Follow-On Production"
+  abbreviation: GPS IIIF
+  description: "The Global Positioning System (GPS) is a satellite-based radio navigation system that provides worldwide military and civil users satellite signals that they can process to determine accurate position, velocity, and time. GPS III Follow-On (GPS IIIF) is an Acquisition Category IB program that, in concert with the GPS III program, comprises the next generation of space vehicles (SVs) that provide s"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/GPS_IIIF_MSAR_Dec_2023.pdf"
+  # peo: PEO Space Military Communications and Positioning, Navigation, and
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - GPS IIIF
+    - "Global Positioning System III Follow-On Production"
+
+- official: Ground/Air Task Oriented Radar
+  abbreviation: G/ATOR
+  description: "The Ground/Air Task Oriented Radar (G/ATOR) is a single material solution for the mobile Multi- Role Radar System and Ground Weapons Locating Radar (GWLR) requirements. It is a three- dimensional, short/medium range multi-role radar designed to detect unmanned aerial systems, cruise missiles, air breathing targets, rockets, artillery, and mortars. G/ATOR satisfies the warfighter's expeditionary ne"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/GATOR%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Land Systems Acquisition Type Major Defense Acquisition
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - G/ATOR
+    - Ground/Air Task Oriented Radar
+
+- official: Guided Multiple Launch Rocket System/ Guided Multiple Launch Rocket System Alternative Warhead
+  abbreviation: GMLRS/GMLRS AW
+  description: "GMLRS rockets provide field artillery units with medium- and long-range (70+ kilometers) surface-to-surface fires. Deployed from the Multiple Launch Rocket System (MLRS) and the High Mobility Artillery Rocket System (HIMARS) launchers. Transported in and fired from a Launch Pod Container that contains six rockets. There are currently three fielded variants: Dual-Purpose Improved Conventional Munit"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/GMLRS_GMLRS_AW_MSAR_Dec_2023.pdf"
+  # lead component: International Partners
+  # peo: PEO Missiles & Space (M&S) International Partners Australia,
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - GMLRS/GMLRS AW
+    - Guided Multiple Launch Rocket System/ Guided Multiple Launch Rocket System Alternative Warhead
+
+- official: "HH-60W Jolly Green II"
+  abbreviation: "HH-60W"
+  description: "The HH-60W system will provide Personnel Recovery (PR) forces with a vertical takeoff and landing aircraft that is quickly deployable and capable of main base and austere location operations for worldwide PR missions. HH-60W system activities may be required during any phase of a service/joint/coalition operation, across the full range of military operations, in any land or sea location, within th"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/HH-60W_MSAR_Dec_2023.pdf"
+  # peo: ISR/SOF Directorate (AFPEO/ISR&SOF) Acquisition Type Major Defense Acquisition
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "HH-60W"
+    - "HH-60W Jolly Green II"
+
+- official: "Handheld, Manpack, and Small Form Fit Radios"
+  abbreviation: HMS
+  description: "The Handheld, Manpack, and Small Form Fit (HMS) radio program is a single Acquisition Category IC program encompassing Handheld (HH) and Manpack (MP) radios. HMS provides voice and data communication to the expeditionary Warfighter with an on-the-move, at-the-halt, and stationary Line of Sight (LOS)/Beyond Line of Sight (BLOS) capability for both dismounted personnel and platforms. HMS radio syste"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/HMS_MSAR_Dec_2023_As_Amended.pdf"
+  # peo: PEO Command Control Communications Tactical (C3T)
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - HMS
+    - "Handheld, Manpack, and Small Form Fit Radios"
+
+- official: Improved Turbine Engine Program
+  abbreviation: ITEP
+  description: Blank IAW DMAG guidance.
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/ITEP_MSAR_Dec_2023.pdf"
+  # peo: PEO Aviation Acquisition Type Major Defense Acquisition Program
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - ITEP
+    - Improved Turbine Engine Program
+
+- official: Infrared Search and Track
+  abbreviation: IRST
+  description: "The F/A-18E/F (Block II and later aircraft) Infrared Search and Track (IRST) system is a centerline-mounted store consisting of a passive long-wave infrared sensor and aerodynamic structural assembly integrated onto the front end of an external fuel tank. The IRST system will provide the F/A-18E/F an alternative fire control solution with the ability to search for, detect, and track targets in a h"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/IRST%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Tactical Air International Partners Australia Acquisition Type
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - IRST
+    - Infrared Search and Track
+
+- official: Integrated Air and Missile Defense
+  abbreviation: IAMD
+  description: "The Army Integrated Air and Missile Defense (AIAMD) program is a designated Major Defense Acquisition Program (MDAP), a critical component of the U.S. Army's Air and Missile Defense (AMD) strategy and is a top AMD Cross Functional Team modernization priority program with a significant Software Pathway element. The program is a direct response to the U.S. Army AMD Concept and Operational and Organi"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/IAMD%20MSAR%20Dec%202023%20V4.pdf"
+  # peo: PEO Missiles & Space (M&S) International Partners Poland
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - IAMD
+    - Integrated Air and Missile Defense
+
+- official: Integrated Defensive Electronic Countermeasures
+  abbreviation: IDECM
+  description: "The Integrated Defensive Electronic Countermeasures (IDECM) System is a Radio Frequency (RF), self-protection electronic countermeasure suite on the F/A-18 aircraft. IDECM improves the survivability of the F/A-18 aircraft against RF guided threats during Air-to-Ground/Surface and Air-to-Air missions. The system is comprised of onboard components, which receive and process radar signals, along with"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/IDECM%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Tactical Air Acquisition Type Major Defense Acquisition
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - IDECM
+    - Integrated Defensive Electronic Countermeasures
+
+- official: "Joint Air-to-Ground Missile"
+  abbreviation: JAGM
+  description: "The JAGM program is an Army-led, Acquisition Category (ACAT) 1C Major Defense Acquisition Program (MDAP) with joint interest with the Navy, Marine Corps, and Air Force. JAGM is the next generation, multi-mode, air-to-ground munition replacing legacy HELLFIRE (HF) and HF Longbow munitions. JAGM will be used for destruction of high-value land and maritime targets, moving or stationary, and is capabl"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/JAGM_MSAR_Dec_2023.pdf"
+  # peo: PEO Missiles & Space (M&S)
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - JAGM
+    - "Joint Air-to-Ground Missile"
+
+- official: "Joint Air-to-Surface Standoff Missile"
+  abbreviation: JASSM
+  description: "Introduction: JASSM ER is a next generation cruise missile enabling the USAF to destroy the enemy's war-sustaining capabilities from outside its area air defenses. It is a block upgrade to the precise, lethal, survivable, flexible, and adverse-weather capable JASSM. Like JASSM, this Block 2 missile's accuracy reduces the number of weapons and sorties required to destroy a target. Mission: Delivers"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/JASSM_MSAR_Dec_2023.pdf"
+  # peo: Armament Directorate (AFPEO/WP)
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - JASSM
+    - "Joint Air-to-Surface Standoff Missile"
+
+- official: Joint Light Tactical Vehicle
+  abbreviation: JLTV
+  description: "The primary mission of the Joint Light Tactical Vehicle (JLTV) is to provide protected, sustained and networked light tactical mobility to the Joint forces capable of worldwide deployment across the full spectrum of military operations and mission profiles under all weather and terrain conditions. The JLTV will be transportable over long distances within any theater of operations through numerous "
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/JLTV_MSAR_Dec_2023.pdf"
+  # peo: PEO Combat Support & Combat Service Support (CS&CSS
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - JLTV
+    - Joint Light Tactical Vehicle
+
+- official: "KC-130J Transport Aircraft"
+  abbreviation: "KC-130J"
+  description: "Joint Program International Partners No Kuwait Adaptive Acquisition Pathway Acquisition Type Major Capability Acquisition Major Defense Acquisition Program Acquisition Category Acquired Systems IC KC-130J Acquisition Status Active Acquisition Mission The KC-130J Transport Aircraft (KC-130J) is a high-wing, long range land based monoplane which is powered by four turboprop engines equipped with six"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/KC-130J%20MSAR%20Dec%202023.pdf"
+  # peo: PEO ASW Assault & Special Mission International Partners
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "KC-130J"
+    - "KC-130J Transport Aircraft"
+
+- official: "KC-46A Tanker Modernization"
+  abbreviation: "KC-46A"
+  description: "The KC-46A Tanker Modernization (KC-46A) will replace the U.S. Air Force's aging fleet of Tankers which have been the primary refueling aircraft for more than 50 years. The KC-46A will have enhanced refueling capabilities with greater capacity, and both cargo and aeromedical evacuation with improved efficiency and increased capabilities. The KC-46A will provide aerial refueling support to the Unit"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/KC-46A_MSAR_Dec_2023.pdf"
+  # peo: Mobility & Training Aircraft Directorate (AFPEO/MB) International Partners
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "KC-46A"
+    - "KC-46A Tanker Modernization"
+
+- official: "LGM-35A Sentinel"
+  description: "The Sentinel program will design, develop, produce and deploy a replacement for the current Minuteman III (MM III) Intercontinental Ballistic Missile (ICBM) weapon system. The Sentinel program, previously known as the Ground Based Strategic Deterrent (GBSD), will deliver a fully integrated weapon system to close key capability gaps and vulnerabilities identified in the GBSD capabilities Based Asse"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/LGM-35A_Sentinel_MSAR_Dec_2023.pdf"
+  # peo: Air Force Program Executive Officer/ Intercontinental Ballistic Missiles
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "LGM-35A Sentinel"
+
+- official: LHA 6 America Class Amphibious Assault Ship
+  abbreviation: LHA 6
+  description: "The LHA Replacement program is planned to replace existing LHA 1 class Amphibious Assault Ships which reach the end of their extended service lives between 2011 and 2015. The LHA Replacement/LHA 6 will be the key platform in the Amphibious Ready Group (ARG) of the future and will provide the Joint Force Commander options to project power. It will embark and support all of the Short Take-off Vertic"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/LHA%206%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Ships Acquisition Type Major Defense Acquisition Program
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - LHA 6
+    - LHA 6 America Class Amphibious Assault Ship
+
+- official: LPD 17 San Antonio Class Amphibious Transport Dock
+  abbreviation: LPD 17
+  description: "The LPD 17 Flight I San Antonio Class Amphibious Transport Dock Ship (LPD 17) is the functional replacement for the LPD 4 Austin class, LSD 36 Anchorage class, LKA 113 Charleston class, and LST 1179 Newport classes of Amphibious Ships for embarking, transporting and landing elements of a Marine landing force in an assault by helicopters, landing craft, amphibious vehicles, and by a combination of "
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/LPD%2017%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Ships Acquisition Type Major Defense Acquisition Program
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - LPD 17
+    - LPD 17 San Antonio Class Amphibious Transport Dock
+
+- official: Littoral Combat Ship Mission Modules
+  abbreviation: LCS MM
+  description: "Major System Package, LCS MM, LCS Mine No Countermeasures Mission Package, LCS Surface Warfare Mission Package Acquisition Status Active Acquisition Mission Program remains rated Yellow for Performance pending approval of CDD in January 2021."
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/LCS%20MM%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Unmanned and Small Surface Combatants Acquisition Type
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - LCS MM
+    - Littoral Combat Ship Mission Modules
+
+- official: Long Range Stand Off Weapon
+  abbreviation: LRSO
+  description: "The Long Range Stand Off (LRSO) Cruise Missile is a long range survivable stand-off weapon capable of delivering lethal nuclear effect on strategic targets. LRSO will replace the currently fielded Air Launched Cruise Missile (ALCM) and will be integrated on both legacy and future bomber aircraft. The LRSO weapon system will be capable of penetrating and surviving advanced Integrated Air Defense Sy"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/LRSO_MSAR_Dec_2023.pdf"
+  # peo: Air Force Program Executive Officer/Nuclear Air Delivered Acquisition
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - LRSO
+    - Long Range Stand Off Weapon
+
+- official: M10 Booker
+  abbreviation: Booker
+  description: "The M10 Booker (Booker) system is a U.S. Army program to procure a light armored vehicle that is capable of providing Infantry Brigades a protected, long range, precision direct fire capability to neutralize enemy prepared positions and bunkers and defeat heavy machine guns and armored vehicle threats during offensive operations or when conducting defensive operations. On September 25, 2018, the A"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/Booker_MSAR_Dec_2023.pdf"
+  # peo: PEO Ground Combat Systems (GCS) Acquisition Type Major
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - Booker
+    - M10 Booker
+
+- official: "MH-139A Grey Wolf"
+  abbreviation: "MH-139A"
+  description: "The MH-139A Program addresses vertical lift support mission requirements for AF Global Strike Command (AFGSC) and Air Force Reserve Command (AFRC). The MH-139A will provide vertical lift support for nuclear weapon convoy escort, 24/7 adverse weather capable Intercontinental Ballistic Missile (ICBM) emergency security and operational support."
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/MH-139A_MSAR_Dec_2023.pdf"
+  # peo: ISR/SOF Directorate (AFPEO/ISR&SOF) Acquisition Type Major Defense Acquisition
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "MH-139A"
+    - "MH-139A Grey Wolf"
+
+- official: "MQ-25 Stingray"
+  abbreviation: "MQ-25"
+  description: "The MQ-25 Stingray (MQ-25) Program rapidly develops an unmanned capability to embark on Carrier Vessels - Nuclear powered (CVNs) as part of the Carrier Air Wing (CVW) to conduct aerial refueling as a primary mission and provide Intelligence, Surveillance, Reconnaissance (ISR) capability as a secondary mission. MQ-25 extends CVW mission effectiveness range, partially mitigates the current Carrier S"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/MQ-25%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Unmanned Aviation & Strike Weapons Acquisition Type
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "MQ-25"
+    - "MQ-25 Stingray"
+
+- official: "MQ-4C Triton Unmanned Aircraft System"
+  abbreviation: "MQ-4C Triton"
+  description: "The MQ-4C Triton Unmanned Aircraft System (MQ-4C Triton) is an integrated System of Systems and a force multiplier for the Joint Force and Fleet Commander, enhancing battlespace awareness and shortening the sensor-to-shooter kill chain. The system provides multiple- sensor, persistent maritime and littoral Intelligence, Surveillance and Reconnaissance data collection and dissemination as well as a"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/MQ-4C_Triton_MSAR_Dec_2023_v2_Cleared.pdf"
+  # peo: PEO Unmanned Aviation & Strike Weapons International Partners
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "MQ-4C Triton"
+    - "MQ-4C Triton Unmanned Aircraft System"
+
+- official: Missile Defense System
+  abbreviation: MDS
+  description: "Mission and Description To develop and deploy a layered Missile Defense System (MDS) to defend the United States, its deployed forces, allies, and friends from hypersonic and missile attacks of all ranges and in all phases of flight. Following guidance from the President, the Secretary of Defense approved the 2019 Missile Defense Review (MDR) Report (dated January 2019), which established the foll"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/MDS_MSAR_Dec_2023.pdf"
+  # peo: Director, Missile Defense Agency Acquisition Type Major Defense
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - MDS
+    - Missile Defense System
+
+- official: Mk21A Reentry Vehicle
+  abbreviation: Mk21A RV
+  description: "The Mk21A Reentry Vehicle (RV) program will design, develop, produce, and deploy an integrated RV. The Mk21A program will provide needed performance and security enhancements over the Mk21 RV to meet upgraded requirements for interdependent programs while ensuring the time certain delivery of the programs. The Mk21A will also meet the requirements laid out in interdependent weapon system Capabilit"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/Mk21A_RV_MSAR_Dec_2023_v3_Cleared.pdf"
+  # peo: Air Force Program Executive Officer/ Intercontinental Ballistic Missiles
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - Mk21A RV
+    - Mk21A Reentry Vehicle
+
+- official: Multifunctional Information Distribution System
+  abbreviation: MIDS
+  description: "The mission of the Multifunctional Information Distribution System (MIDS) program is to rapidly develop, field, and support world-wide interoperable and secure Navy Integrated Fire Control (NIFC) tactical data links (TDL) and adaptive networking capabilities to ensure sustained tactical data superiority for the Joint, Coalition, and International Warfighter. MIDS is a wireless, jam- resistant, sec"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/MIDS%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Command, Control, Communications, Computers & Intelligence
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - MIDS
+    - Multifunctional Information Distribution System
+
+- official: National Security Space Launch
+  abbreviation: NSSL
+  description: "The mission of the National Security Space Launch (NSSL) program is to provide assured access to space in accordance with section 2273 of Title 10, U.S. Code, for the nation’s most critical space capabilities that satisfy DoD warfighter, national security, and other Government needs. This mission includes the execution of flight worthiness certification processes and booster-to-satellite mission i"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/NSSL_MSAR_Dec_2023.pdf"
+  # peo: PEO Space Assured Access to Space Acquisition Type
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - NSSL
+    - National Security Space Launch
+
+- official: Next Generation Jammer Low Band
+  abbreviation: NGJ Low Band
+  description: Next Generation Jammer Low Band (INC 2) (NGJ Low Band) addresses Airborne Electronic Attack (AEA) capability and sufficiency gaps against enemy threats operating in the lower frequency bands of the electromagnetic spectrum and increases survivability and lethality of 4th and 5th generation platforms and strike weapons. NGJ Low Band will provide the ability to effectively engage enemy threats from 
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/NGJ%20Low%20Band%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Tactical Air International Partners Australia Acquisition Type
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - NGJ Low Band
+    - Next Generation Jammer Low Band
+
+- official: "Next Generation Jammer Mid-Band"
+  abbreviation: "NGJ Mid-Band"
+  description: "The Next Generation Jammer Mid-Band (NGJ Mid-Band) program is an electronic attack system that will provide significantly improved Airborne Electronic Attack (AEA) capabilities against advanced threats in the Mid-Band frequency range through enhanced agility and precision within jamming assignments, increased interoperability and expanded broadband capacity for greater threat coverage against a wi"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/NGJ%20Mid-Band%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Tactical Air International Partners Australia Acquisition Type
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "NGJ Mid-Band"
+    - "Next Generation Jammer Mid-Band"
+
+- official: "Offensive Anti-Surface Warfare Increment 1 (Long Range Anti-Ship Missile)"
+  abbreviation: OASuW Inc 1 (LRASM)
+  description: "The U.S. Navy is leveraging Defense Advanced Research Projects Agency (DARPA) demonstration efforts to deliver an air-launched Offensive Anti-Surface Warfare (OASuW) Inc 1 weapon as an early operational capability (EOC) in the required timeframe. OASuW Inc 1 will deliver the Long Range Anti-Ship Missile (LRASM) developed in the demonstration program as an EOC to meet the most urgent air-launched r"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/OASuW_Inc_1_(LRASM)_MSAR_Dec_2023_As_Amended_V3.pdf"
+  # peo: PEO Unmanned Aviation & Strike Weapons
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - OASuW Inc 1 (LRASM)
+    - "Offensive Anti-Surface Warfare Increment 1 (Long Range Anti-Ship Missile)"
+
+- official: Paladin Integrated Management
+  abbreviation: PIM
+  description: Intentionally left blank
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/PIM_MSAR_Dec_2023_cleared.pdf"
+  # peo: PEO Ground Combat Systems (GCS) Acquisition Type Major
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - PIM
+    - Paladin Integrated Management
+
+- official: "Patriot Advanced Capability-3 Missile Segment Enhancement"
+  abbreviation: "PAC-3 MSE"
+  description: "The Patriot Advanced Capability-3 Missile Segment Enhancement (PAC-3 MSE) is a high velocity, hit-to-kill, surface-to-air missile capable of intercepting and destroying Tactical Ballistic Missiles (TBM) and air-breathing threats. The PAC-3 MSE is the follow-on variant of the PAC-3 missile. The PAC-3 MSE improved capability is achieved through a higher performance solid rocket motor, modified letha"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/PAC-3_MSE_MSAR_Dec_2023.pdf"
+  # peo: PEO Missiles & Space (M&S) Acquisition Type Major
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "PAC-3 MSE"
+    - "Patriot Advanced Capability-3 Missile Segment Enhancement"
+
+- official: Precision Strike Missile
+  abbreviation: PrSM
+  description: "The Precision Strike Missile (PrSM) is the Army's next generation surface to surface missile that replaces and improves upon Army Tactical Missile System(ATACMS) capabilities. PrSM requirements include: max range of greater than 400km, specified lethality against the designated target set, a Launch Pod Missile Container (LPMC) that holds two missiles, survivability in a threat environment, and com"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/PrSM_MSAR_Dec_2023.pdf"
+  # peo: PEO Missiles & Space (M&S) International Partners Australia
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - PrSM
+    - Precision Strike Missile
+
+- official: Presidential and National Voice Conferencing Integrator
+  abbreviation: PNVC Integrator
+  description: "The Presidential and National Voice Conferencing (PNVC) system is the Advanced Extremely High Frequency (AEHF) satellite communications voice conferencing system that will be used by the President of the United States for worldwide, secure, survivable voice conferencing and will provide improved capability for the user community. The PNVC Integrator Program activities include program management, s"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/PNVC_Integrator_MSAR_Dec_2023.pdf"
+  # peo: Nuclear Command, Control, and Communications (NC3) Integration Directorate
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - PNVC Integrator
+    - Presidential and National Voice Conferencing Integrator
+
+- official: SSBN 826 COLUMBIA Class Submarine
+  abbreviation: SSBN 826
+  description: The COLUMBIA Class Submarine Program (SSBN 826) will design and construct a replacement for the OHIO Class Fleet Ballistic Missile Submarines (SSBN) which begin retiring in 2027 at a rate of one per year. The program goals are to provide an affordable platform capable of executing the strategic mission while remaining survivable through 2080. The mission of the COLUMBIA Class Submarine is strategi
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/SSBN%20826%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Submarines Acquisition Type Major Defense Acquisition Program
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - SSBN 826
+    - SSBN 826 COLUMBIA Class Submarine
+
+- official: SSN 774 Virginia Class Submarine
+  abbreviation: SSN 774
+  description: "The VIRGINIA Class (SSN 774) Submarine Program is bringing forward a critical national security asset designed to flexibly address the unique multi-mission requirements of the post- Cold War era. Capable of performing traditional submarine missions, dominating the littoral battle space and adapting to future requirements, the VIRGINIA Class Submarine satisfies any assigned role well into the Twent"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/SSN%20774%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Submarines Acquisition Type Major Defense Acquisition Program
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - SSN 774
+    - SSN 774 Virginia Class Submarine
+
+- official: Ship to Shore Connector Amphibious Craft
+  abbreviation: SSC
+  description: "Ship to Shore Connector (SSC) is the Landing Craft, Air Cushion (LCAC) replacement. It is an Air Cushion Vehicle with the same footprint as the LCAC Service Life Extension Program. The SSC mission is to land surface assault elements in support of Operational Maneuver from the Sea at Over-The-Horizon distances, while operating from amphibious ships and mobile landing platforms. The primary role of "
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/SSC%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Ships Acquisition Type Major Defense Acquisition Program
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - SSC
+    - Ship to Shore Connector Amphibious Craft
+
+- official: Small Diameter Bomb Increment II
+  abbreviation: SDB II
+  description: "Introduction: Small Diameter Bomb Increment II (SDB II) is a joint interest United States Air Force (USAF) and Department of Navy (DoN) ACAT IC program, with the Air Force (AF) as the lead service. SDB II provides the warfighter the capability to attack mobile targets from stand- off, through weather. SDB II will be compatible with the BRU-61 miniature munitions carriage, the CNU-660/E weapon carr"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/SDB_II_MSAR_Dec_2023.pdf"
+  # peo: Armament Directorate (AFPEO/WP)
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - SDB II
+    - Small Diameter Bomb Increment II
+
+- official: "Standard Missile-6"
+  abbreviation: "SM-6"
+  description: "The STANDARD Missile-6 (SM-6) is a tri-mission capable (Anti-Air Warfare (AAW), Sea-Based Terminal Defense (SBT), and Anti-Surface Warfare (ASuW)) missile that provides for over-the- horizon engagements, enhanced capability at extended ranges and increased firepower with an active guidance section. Launched from AEGIS Cruisers and Destroyers, SM-6 provides timely, precise, accurate and lethal fire"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/SM-6_MSAR_Dec_2023.pdf"
+  # peo: PEO Integrated Warfare Systems Acquisition Type Major Defense
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "SM-6"
+    - "Standard Missile-6"
+
+- official: "T-7 Advanced Pilot Training"
+  abbreviation: "T-7 APT"
+  description: "The T-7A Red Hawk Advanced Pilot Training (APT) program will replace the T-38C and associated Ground Based Training System (GBTS) used in the United States Air Force’s Specialized Undergraduate Pilot Training program, which provides advanced training for pilots in Air Education and Training Command's fighter and bomber track as well as its Introduction to Fighter Fundamentals course. The T-38C cur"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/T-7_APT_MSAR_Dec_2023.pdf"
+  # peo: Mobility & Training Aircraft Directorate (AFPEO/MB) Acquisition Type
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "T-7 APT"
+    - "T-7 Advanced Pilot Training"
+
+- official: "T-AO 205 John Lewis Class Fleet Replenishment Oiler"
+  abbreviation: "T-AO 205 Class"
+  description: "The JOHN LEWIS (T-AO 205) Class Fleet Replenishment Oiler program will recapitalize the T-AO 187 Class for a total of 20 ships. The United States requires military forces that can operate for long periods of time around the globe. The Navy can provide sustained military presence and operations far from the Continental United States (CONUS) with little or no reliance on host governments for basing "
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/T-AO%20205%20Class%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Ships Acquisition Type Major Defense Acquisition Program
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "T-AO 205 Class"
+    - "T-AO 205 John Lewis Class Fleet Replenishment Oiler"
+
+- official: "Tactical Tomahawk RGM-109E/UGM-109E Missile"
+  abbreviation: TACTOM
+  description: "The Tactical Tomahawk (TACTOM) RGM/UGM-109E missile is the U.S. Navy’s surface and subsurface launched, long-range, precision strike standoff weapon. At launch, a solid-propellant Rocket Motor (RM) accelerates the missile until the cruise engine takes over for the remainder of the flight. The missile’s small size and low-altitude flight capability enables a high probability of survival enroute to "
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/TACTOM%20MSAR%20Dec%202023.pdf"
+  # peo: PEO Unmanned Aviation & Strike Weapons International Partners
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - TACTOM
+    - "Tactical Tomahawk RGM-109E/UGM-109E Missile"
+
+- official: "VC-25B"
+  description: "The VC-25B Program will acquire and modify two Boeing 747-8 aircraft to enable the President to execute the duties of Head of State, Chief Executive, and Commander in Chief. The modifications to the 747-8 aircraft will include an electrical power upgrade with dual auxiliary power units that are usable in flight, a mission communication system, work and rest environment, executive interior, militar"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/VC-25B_MSAR_Dec_2023_v3_Cleared.pdf"
+  # peo: Presidential & Executive Airlift Directorate (AFPEO/PE) Acquisition Type
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - "VC-25B"
+
+- official: "Weather System Follow-on"
+  abbreviation: WSF
+  description: "The Weather System Follow-On (WSF) is a low-earth orbiting microwave imaging system developed and delivered by the United States Space Force's Space Systems Command. WSF is the next generation of space-based passive microwave sensing technology. It will provide U.S. and Allied warfighters with essential weather data, including the measurement of ocean surface wind speed and direction, ice thicknes"
+  source: "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/WSF_MSAR_Dec_2023.pdf"
+  # peo: Space Sensing (SFPEO/SS) Acquisition Type Major Defense Acquisition
+  tags:
+    - msar
+    - mdap
+    - defense-wide
+  variants:
+    - WSF
+    - "Weather System Follow-on"

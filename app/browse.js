@@ -106,6 +106,7 @@
 
   const COLLECTION_LABELS = {
     'mdap_programs':        'MDAP Programs',
+    'msar_programs':        'MSAR Programs',
     'rdte_programs':        'RDT&E Programs',
     'om_programs':          'O&M Programs',
     'weapons_programs':     'Weapons Programs',

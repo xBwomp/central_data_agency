@@ -55,3 +55,4 @@ Each `.yml` file is a bare YAML list, or an object with an `entries:` key (both 
 | `om_programs.yml` | 384 O&M budget activity lines (O-1, FY 2025) | OSD Comptroller O-1 PDF |
 | `weapons_programs.yml` | 82 major weapon system programs (FY 2025) | OSD Comptroller Weapons PDF |
 | `mdap_programs.yml` | Major Defense Acquisition Programs (MDAPs) | GAO Weapon Systems Annual Assessment (GAO-24-106047) |
+| `msar_programs.yml` | 68 MDAP programs from FY2023 Selected Acquisition Reports | OSD/ESD FOIA Reading Room (FY2023 SARs) |
