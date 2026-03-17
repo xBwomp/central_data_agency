@@ -35,15 +35,16 @@
 
   const $ = id => document.getElementById(id);
   const el = {
-    status:     $('header-status'),
-    search:     $('search'),
-    collList:   $('collection-list'),
-    tagList:    $('tag-list'),
-    sourceList: $('source-list'),
-    main:       $('main'),
-    resultCount:$('result-count'),
-    toolbarHint:$('toolbar-hint'),
-    clearBtn:   $('clear-filters'),
+    status:        $('header-status'),
+    search:        $('search'),
+    collList:      $('collection-list'),
+    tagList:       $('tag-list'),
+    sourceList:    $('source-list'),
+    main:          $('main'),
+    resultCount:   $('result-count'),
+    toolbarHint:   $('toolbar-hint'),
+    activeFilters: $('active-filters'),
+    clearBtn:      $('clear-filters'),
   };
 
   // ── Fetch helpers ─────────────────────────────────────────────────────────
@@ -305,14 +306,51 @@
     });
   }
 
+  function makeFilterChip(kind, label, onRemove) {
+    const chip = document.createElement('span');
+    chip.className = 'filter-chip';
+    chip.innerHTML = `<span class="filter-chip-kind">${escHtml(kind)}</span> ${escHtml(label)}`;
+    const btn = document.createElement('button');
+    btn.className = 'filter-chip-remove';
+    btn.textContent = '×';
+    btn.setAttribute('aria-label', `Remove ${kind} filter: ${label}`);
+    btn.addEventListener('click', onRemove);
+    chip.appendChild(btn);
+    return chip;
+  }
+
+  function renderActiveFilters() {
+    el.activeFilters.innerHTML = '';
+    if (state.query) {
+      el.activeFilters.appendChild(makeFilterChip('search', `"${state.query}"`, () => {
+        state.query = '';
+        el.search.value = '';
+        renderResults();
+      }));
+    }
+    if (state.activeCollection) {
+      const coll = state.collections.find(c => c.name === state.activeCollection);
+      el.activeFilters.appendChild(makeFilterChip('collection', coll ? coll.label : state.activeCollection, () => {
+        setCollection('');
+      }));
+    }
+    state.activeTags.forEach(tag => {
+      el.activeFilters.appendChild(makeFilterChip('tag', tag, () => toggleTag(tag)));
+    });
+    state.activeSources.forEach(src => {
+      el.activeFilters.appendChild(makeFilterChip('source', sourceLabel(src), () => toggleSource(src)));
+    });
+  }
+
   function renderResults() {
     const filtered = getFiltered();
     const hasFilters = state.activeCollection || state.activeTags.size > 0 || state.activeSources.size > 0 || state.query;
 
     // Toolbar
     el.resultCount.innerHTML = `<span>${filtered.length}</span> of ${state.entries.length} entries`;
-    el.toolbarHint.textContent = hasFilters ? 'matching current filters' : 'total entries';
+    el.toolbarHint.textContent = hasFilters ? 'matching' : 'total entries';
     el.clearBtn.classList.toggle('hidden', !hasFilters);
+    renderActiveFilters();
 
     // Highlight active card tags
     document.querySelectorAll('.card-tag').forEach(t => {
