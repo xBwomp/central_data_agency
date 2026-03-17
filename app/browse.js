@@ -118,8 +118,18 @@
     return name.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
   }
 
+  // Known source URL → human-readable label
+  const SOURCE_LABELS = {
+    'https://www.law.cornell.edu/uscode/text/10/111':        '10 U.S.C. § 111 (DoD)',
+    'https://www.law.cornell.edu/uscode/text/10/subtitle-B': '10 U.S.C. Subtitle B (Army)',
+    'https://www.law.cornell.edu/uscode/text/10/subtitle-C': '10 U.S.C. Subtitle C (Navy)',
+    'https://www.law.cornell.edu/uscode/text/10/subtitle-D': '10 U.S.C. Subtitle D (Air Force)',
+    'https://www.law.cornell.edu/uscode/text/14':            '14 U.S.C. (Coast Guard)',
+  };
+
   function sourceLabel(url) {
     if (!url) return '';
+    if (SOURCE_LABELS[url]) return SOURCE_LABELS[url];
     try {
       const u = new URL(url);
       const host = u.hostname.replace(/^www\./, '');
@@ -127,6 +137,7 @@
       if (host.includes('comptroller.defense.gov')) return file || 'OSD Comptroller';
       if (host.includes('usaspending.gov'))          return 'USASpending.gov';
       if (host.includes('gao.gov'))                  return file || 'GAO';
+      if (host.includes('law.cornell.edu'))          return 'U.S. Code';
       if (host.includes('uscode.house.gov'))         return 'U.S. Code';
       if (host.includes('defense.gov'))              return 'Defense.gov';
       return file || host;
